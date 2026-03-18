@@ -1,0 +1,2401 @@
+touch_id,customer_id,campaign_name,channel,sent_at,opened,clicked,converted,device_type
+1,567,Black Friday,email,2024-07-01 00:00:00,0,1,0,tablet
+2,1151,Winback Flow,push,2025-03-15 14:00:00,1,0,1,mobile
+3,83,Creator Campaign,social_ad,2025-02-28 06:00:00,1,0,0,desktop
+4,131,Summer Promo,email,2024-08-15 17:00:00,1,0,0,desktop
+5,139,Creator Campaign,push,2025-01-31 18:00:00,0,0,0,mobile
+6,1117,Back to School,push,2025-08-08 08:00:00,0,0,0,mobile
+7,81,Winback Flow,email,2025-02-06 15:00:00,0,0,0,mobile
+8,778,Creator Campaign,push,2025-04-23 20:00:00,0,0,0,tablet
+9,1102,Referral Blast,email,2025-12-16 19:00:00,0,1,1,mobile
+10,526,Holiday Push,push,2026-02-06 13:00:00,1,0,0,desktop
+11,132,Creator Campaign,push,2024-10-06 08:00:00,0,0,0,mobile
+12,719,Referral Blast,sms,2024-05-02 17:00:00,1,1,0,mobile
+13,217,Retention Nudge,email,2024-03-24 01:00:00,1,1,0,desktop
+14,341,Retention Nudge,push,2024-12-17 08:00:00,1,0,0,desktop
+15,662,Referral Blast,email,2025-03-26 05:00:00,0,0,1,desktop
+16,469,Holiday Push,email,2024-12-08 14:00:00,1,0,0,desktop
+17,210,Back to School,social_ad,2024-01-16 23:00:00,0,0,0,tablet
+18,96,Summer Promo,sms,2025-05-31 23:00:00,0,0,0,mobile
+19,278,Retention Nudge,email,2025-06-22 15:00:00,1,0,0,mobile
+20,618,Winback Flow,sms,2024-12-11 16:00:00,0,1,0,desktop
+21,34,Black Friday,email,2024-06-28 07:00:00,0,0,0,tablet
+22,974,Referral Blast,social_ad,2024-05-14 05:00:00,0,0,0,mobile
+23,763,Retention Nudge,email,2024-07-03 15:00:00,0,0,0,mobile
+24,705,Referral Blast,email,2024-06-11 03:00:00,0,0,0,desktop
+25,302,Summer Promo,push,2024-06-21 15:00:00,0,0,0,tablet
+26,247,Back to School,social_ad,2024-09-04 02:00:00,1,0,1,tablet
+27,454,Holiday Push,sms,2025-12-18 08:00:00,0,0,0,mobile
+28,791,Summer Promo,email,2024-10-21 02:00:00,0,0,0,mobile
+29,1111,Retention Nudge,push,2025-01-27 07:00:00,0,1,0,mobile
+30,947,Summer Promo,email,2024-06-11 13:00:00,0,0,0,desktop
+31,1194,Holiday Push,push,2025-03-25 11:00:00,1,0,0,tablet
+32,953,Creator Campaign,email,2025-03-25 04:00:00,1,0,0,desktop
+33,225,Referral Blast,email,2025-03-27 14:00:00,0,0,0,tablet
+34,1043,Referral Blast,social_ad,2025-10-31 18:00:00,1,0,0,mobile
+35,835,Black Friday,sms,2025-12-18 08:00:00,1,0,0,desktop
+36,387,Creator Campaign,sms,2024-01-28 11:00:00,1,0,0,mobile
+37,808,Winback Flow,email,2025-12-20 09:00:00,0,0,0,mobile
+38,902,Black Friday,email,2026-01-18 10:00:00,1,0,0,desktop
+39,781,Referral Blast,sms,2024-10-20 01:00:00,0,1,0,desktop
+40,532,Retention Nudge,social_ad,2025-07-05 07:00:00,1,0,1,mobile
+41,1094,Referral Blast,push,2025-12-08 20:00:00,1,0,0,mobile
+42,1033,Black Friday,push,2025-03-23 20:00:00,1,0,0,tablet
+43,875,Winback Flow,email,2025-05-16 03:00:00,1,0,0,desktop
+44,821,Black Friday,sms,2025-12-12 09:00:00,0,0,0,tablet
+45,258,Retention Nudge,email,2024-06-11 19:00:00,1,1,0,desktop
+46,1019,Summer Promo,push,2025-08-01 02:00:00,1,0,0,mobile
+47,798,Retention Nudge,push,2025-05-06 06:00:00,1,1,1,desktop
+48,495,Black Friday,email,2024-01-20 10:00:00,1,1,0,mobile
+49,5,Referral Blast,social_ad,2026-02-13 19:00:00,1,1,0,tablet
+50,175,Winback Flow,email,2025-07-10 02:00:00,0,0,0,mobile
+51,66,Winback Flow,email,2024-01-14 00:00:00,0,0,0,desktop
+52,965,Back to School,email,2025-05-08 22:00:00,0,0,0,tablet
+53,240,Summer Promo,push,2025-07-07 07:00:00,1,0,0,mobile
+54,837,Summer Promo,email,2025-06-14 05:00:00,1,1,0,desktop
+55,513,Holiday Push,social_ad,2024-07-27 15:00:00,1,0,0,mobile
+56,1106,Creator Campaign,email,2024-03-13 18:00:00,0,0,0,mobile
+57,98,Back to School,push,2025-05-11 21:00:00,1,1,0,desktop
+58,381,Back to School,push,2024-07-31 05:00:00,1,0,0,desktop
+59,1056,Winback Flow,email,2024-11-21 01:00:00,1,0,0,mobile
+60,408,Retention Nudge,email,2024-03-31 19:00:00,1,1,1,desktop
+61,308,Back to School,email,2024-08-24 19:00:00,1,0,0,desktop
+62,529,Winback Flow,email,2024-06-13 15:00:00,1,0,1,mobile
+63,757,Summer Promo,email,2025-10-26 09:00:00,0,0,0,mobile
+64,717,Creator Campaign,social_ad,2024-09-28 21:00:00,1,0,0,tablet
+65,580,Winback Flow,push,2026-01-13 09:00:00,1,0,0,desktop
+66,909,Back to School,push,2025-05-08 05:00:00,1,1,1,mobile
+67,358,Creator Campaign,email,2025-06-15 15:00:00,0,0,0,mobile
+68,897,Summer Promo,email,2024-10-24 09:00:00,1,0,0,mobile
+69,942,Back to School,social_ad,2025-11-24 23:00:00,0,0,1,desktop
+70,639,Back to School,email,2024-03-18 14:00:00,0,0,0,mobile
+71,803,Black Friday,email,2024-01-25 13:00:00,1,0,0,mobile
+72,921,Holiday Push,email,2025-07-25 12:00:00,1,1,0,mobile
+73,535,Back to School,email,2025-08-05 18:00:00,1,0,1,mobile
+74,770,Retention Nudge,email,2024-05-08 00:00:00,1,0,0,mobile
+75,968,Back to School,push,2024-05-03 06:00:00,1,0,0,desktop
+76,1090,Back to School,push,2025-03-15 19:00:00,0,0,1,desktop
+77,928,Summer Promo,email,2024-06-18 06:00:00,1,0,0,desktop
+78,1149,Summer Promo,push,2025-01-19 02:00:00,0,0,0,mobile
+79,419,Black Friday,email,2024-05-14 10:00:00,0,0,0,mobile
+80,1009,Retention Nudge,social_ad,2024-01-31 17:00:00,0,0,0,desktop
+81,1155,Holiday Push,email,2025-06-14 15:00:00,0,0,0,mobile
+82,144,Black Friday,email,2024-01-30 19:00:00,1,0,0,desktop
+83,158,Referral Blast,push,2024-06-30 16:00:00,1,0,0,desktop
+84,331,Summer Promo,social_ad,2024-06-29 02:00:00,1,1,0,mobile
+85,648,Retention Nudge,email,2025-02-19 06:00:00,1,1,0,mobile
+86,229,Retention Nudge,email,2026-01-01 17:00:00,1,0,0,mobile
+87,980,Winback Flow,push,2025-01-09 13:00:00,1,0,0,desktop
+88,355,Creator Campaign,email,2024-03-17 01:00:00,0,0,0,mobile
+89,350,Winback Flow,social_ad,2025-02-02 05:00:00,1,0,0,mobile
+90,210,Holiday Push,sms,2025-12-27 10:00:00,0,0,0,desktop
+91,394,Referral Blast,email,2025-09-14 06:00:00,0,0,0,tablet
+92,268,Black Friday,social_ad,2024-11-20 13:00:00,0,1,0,desktop
+93,596,Holiday Push,email,2025-06-03 09:00:00,0,0,0,mobile
+94,376,Retention Nudge,sms,2024-08-23 15:00:00,1,0,0,desktop
+95,1025,Referral Blast,email,2025-07-08 05:00:00,1,0,0,mobile
+96,204,Back to School,sms,2024-09-17 00:00:00,0,0,1,tablet
+97,272,Black Friday,email,2024-06-20 11:00:00,1,0,0,desktop
+98,544,Back to School,push,2024-02-29 01:00:00,1,0,0,desktop
+99,96,Referral Blast,sms,2024-09-08 05:00:00,0,1,0,mobile
+100,1108,Retention Nudge,email,2025-07-30 02:00:00,1,0,0,mobile
+101,242,Referral Blast,email,2024-06-09 16:00:00,1,0,0,mobile
+102,987,Winback Flow,social_ad,2024-06-06 09:00:00,0,0,0,mobile
+103,858,Retention Nudge,push,2025-09-24 12:00:00,1,0,0,mobile
+104,956,Back to School,social_ad,2025-03-17 21:00:00,0,0,0,mobile
+105,54,Summer Promo,email,2025-06-09 06:00:00,1,1,0,tablet
+106,1004,Back to School,email,2024-07-16 03:00:00,1,0,1,mobile
+107,546,Referral Blast,push,2024-06-22 19:00:00,0,0,0,desktop
+108,443,Black Friday,email,2024-02-21 19:00:00,1,0,0,mobile
+109,165,Summer Promo,email,2025-05-01 11:00:00,0,0,0,desktop
+110,852,Referral Blast,email,2024-08-06 15:00:00,0,0,0,tablet
+111,529,Creator Campaign,email,2025-11-29 17:00:00,1,1,0,mobile
+112,621,Referral Blast,email,2025-06-27 03:00:00,0,0,0,desktop
+113,209,Holiday Push,email,2026-01-24 20:00:00,0,0,0,mobile
+114,780,Referral Blast,social_ad,2025-12-31 19:00:00,0,0,0,mobile
+115,205,Holiday Push,email,2025-05-21 18:00:00,1,1,0,desktop
+116,669,Back to School,email,2025-07-23 09:00:00,1,0,0,mobile
+117,315,Summer Promo,email,2024-03-10 19:00:00,1,0,0,mobile
+118,557,Black Friday,sms,2024-01-03 16:00:00,1,0,0,tablet
+119,874,Referral Blast,email,2025-09-28 23:00:00,0,1,0,desktop
+120,1051,Holiday Push,email,2024-12-24 07:00:00,0,0,0,mobile
+121,1168,Holiday Push,email,2024-12-10 02:00:00,0,1,0,desktop
+122,765,Black Friday,social_ad,2024-09-25 01:00:00,0,1,0,desktop
+123,594,Creator Campaign,email,2025-02-16 17:00:00,1,0,0,mobile
+124,711,Black Friday,sms,2026-02-10 21:00:00,1,1,1,mobile
+125,439,Winback Flow,email,2025-10-11 18:00:00,0,0,0,desktop
+126,112,Creator Campaign,sms,2025-12-11 08:00:00,1,0,0,mobile
+127,946,Referral Blast,social_ad,2024-04-11 01:00:00,1,0,0,desktop
+128,1124,Winback Flow,sms,2025-01-07 05:00:00,0,0,0,desktop
+129,971,Retention Nudge,social_ad,2025-04-08 22:00:00,1,0,0,mobile
+130,696,Back to School,sms,2024-06-17 04:00:00,1,0,0,desktop
+131,658,Summer Promo,sms,2025-04-28 23:00:00,1,0,0,mobile
+132,358,Summer Promo,social_ad,2024-02-18 04:00:00,0,0,0,mobile
+133,509,Retention Nudge,sms,2024-12-10 19:00:00,1,1,0,mobile
+134,321,Winback Flow,push,2026-01-05 03:00:00,0,1,0,tablet
+135,346,Black Friday,email,2024-07-08 15:00:00,1,0,0,mobile
+136,585,Referral Blast,email,2025-01-16 08:00:00,0,0,0,desktop
+137,750,Summer Promo,sms,2025-11-24 18:00:00,0,0,0,desktop
+138,25,Summer Promo,email,2024-11-18 20:00:00,1,0,0,mobile
+139,28,Back to School,email,2024-09-10 21:00:00,1,0,0,mobile
+140,650,Black Friday,email,2025-04-08 18:00:00,0,0,0,tablet
+141,677,Winback Flow,sms,2025-07-12 04:00:00,1,1,0,desktop
+142,962,Summer Promo,email,2024-09-14 13:00:00,0,0,0,mobile
+143,487,Holiday Push,email,2025-03-26 04:00:00,1,0,0,desktop
+144,905,Winback Flow,social_ad,2025-09-25 12:00:00,1,0,1,mobile
+145,1066,Black Friday,sms,2025-11-13 15:00:00,0,0,0,mobile
+146,23,Back to School,email,2024-07-14 18:00:00,1,0,0,mobile
+147,165,Retention Nudge,push,2025-03-30 10:00:00,1,0,0,tablet
+148,1114,Creator Campaign,email,2025-02-20 06:00:00,1,0,0,mobile
+149,873,Referral Blast,social_ad,2024-01-05 12:00:00,1,0,0,tablet
+150,989,Back to School,email,2024-07-04 12:00:00,0,1,0,mobile
+151,27,Back to School,social_ad,2025-09-28 09:00:00,1,0,0,mobile
+152,1185,Creator Campaign,email,2025-09-15 22:00:00,1,0,0,desktop
+153,428,Holiday Push,push,2024-02-09 14:00:00,1,0,0,desktop
+154,279,Creator Campaign,email,2025-04-22 23:00:00,1,1,0,mobile
+155,229,Creator Campaign,email,2024-06-22 19:00:00,0,0,0,desktop
+156,562,Holiday Push,email,2025-05-26 12:00:00,0,0,0,mobile
+157,446,Referral Blast,email,2025-06-29 00:00:00,0,1,0,mobile
+158,586,Holiday Push,push,2025-02-13 02:00:00,0,0,0,desktop
+159,729,Holiday Push,push,2025-10-11 21:00:00,0,0,0,mobile
+160,52,Referral Blast,sms,2024-11-06 08:00:00,1,0,0,desktop
+161,374,Back to School,email,2025-11-26 22:00:00,1,0,0,desktop
+162,742,Winback Flow,push,2025-09-01 02:00:00,1,0,0,mobile
+163,40,Black Friday,sms,2025-01-26 10:00:00,0,0,0,desktop
+164,1071,Winback Flow,push,2025-11-12 10:00:00,1,1,0,mobile
+165,616,Back to School,push,2024-10-14 17:00:00,1,0,0,desktop
+166,556,Back to School,push,2024-03-13 20:00:00,1,1,0,mobile
+167,260,Black Friday,email,2025-08-07 05:00:00,1,0,1,mobile
+168,672,Holiday Push,email,2025-07-04 07:00:00,1,1,0,mobile
+169,70,Retention Nudge,social_ad,2025-12-31 12:00:00,1,1,0,mobile
+170,277,Holiday Push,email,2025-12-27 04:00:00,1,0,0,mobile
+171,731,Creator Campaign,push,2025-08-30 07:00:00,0,1,0,mobile
+172,999,Retention Nudge,sms,2024-03-06 02:00:00,0,1,0,tablet
+173,832,Back to School,email,2024-11-03 16:00:00,0,1,0,mobile
+174,497,Black Friday,email,2024-07-12 13:00:00,0,0,0,desktop
+175,95,Summer Promo,email,2025-07-07 23:00:00,0,1,0,tablet
+176,519,Summer Promo,email,2024-12-24 17:00:00,1,0,0,mobile
+177,972,Winback Flow,email,2025-02-05 01:00:00,0,0,0,mobile
+178,539,Black Friday,email,2024-01-07 21:00:00,1,0,0,mobile
+179,215,Referral Blast,social_ad,2024-08-22 10:00:00,0,0,0,mobile
+180,393,Referral Blast,email,2025-05-13 11:00:00,0,0,0,mobile
+181,329,Referral Blast,social_ad,2024-03-23 14:00:00,0,0,0,mobile
+182,69,Summer Promo,email,2025-03-08 02:00:00,1,0,0,desktop
+183,539,Creator Campaign,push,2025-07-08 21:00:00,1,0,0,mobile
+184,412,Holiday Push,email,2024-11-30 12:00:00,1,0,0,mobile
+185,514,Referral Blast,email,2025-10-22 02:00:00,0,0,1,desktop
+186,814,Summer Promo,email,2025-04-02 21:00:00,1,0,0,mobile
+187,864,Creator Campaign,email,2024-04-16 05:00:00,1,0,0,mobile
+188,1081,Back to School,social_ad,2024-12-09 01:00:00,1,0,0,mobile
+189,997,Holiday Push,email,2025-07-02 22:00:00,1,1,0,desktop
+190,1036,Creator Campaign,email,2025-01-03 10:00:00,1,1,0,mobile
+191,969,Summer Promo,email,2024-11-23 06:00:00,1,0,0,mobile
+192,977,Summer Promo,email,2025-08-27 19:00:00,1,0,0,mobile
+193,167,Summer Promo,push,2025-07-05 16:00:00,1,0,0,mobile
+194,859,Retention Nudge,email,2025-03-12 22:00:00,1,0,0,desktop
+195,89,Black Friday,email,2025-06-11 20:00:00,0,0,0,mobile
+196,676,Retention Nudge,push,2025-09-30 12:00:00,0,0,0,desktop
+197,1177,Back to School,email,2024-03-20 03:00:00,1,0,0,mobile
+198,1134,Creator Campaign,email,2025-07-16 16:00:00,1,0,0,mobile
+199,621,Black Friday,social_ad,2025-04-01 09:00:00,1,0,0,desktop
+200,398,Retention Nudge,email,2025-12-23 15:00:00,1,1,1,mobile
+201,973,Summer Promo,sms,2024-07-04 02:00:00,0,0,0,mobile
+202,1043,Winback Flow,push,2025-10-17 14:00:00,1,0,0,mobile
+203,652,Summer Promo,sms,2024-11-26 09:00:00,1,0,0,mobile
+204,977,Winback Flow,push,2025-04-17 09:00:00,1,0,0,desktop
+205,48,Holiday Push,push,2025-11-29 14:00:00,1,0,0,mobile
+206,1067,Referral Blast,email,2025-02-10 01:00:00,1,0,1,desktop
+207,695,Creator Campaign,social_ad,2025-10-15 10:00:00,1,0,0,mobile
+208,1040,Holiday Push,email,2025-07-19 23:00:00,0,0,0,desktop
+209,640,Summer Promo,email,2025-11-16 06:00:00,1,0,0,desktop
+210,849,Creator Campaign,social_ad,2025-07-07 11:00:00,1,0,1,desktop
+211,475,Summer Promo,sms,2024-10-17 23:00:00,0,1,0,desktop
+212,748,Referral Blast,email,2024-06-19 14:00:00,1,0,0,desktop
+213,146,Retention Nudge,social_ad,2024-11-11 02:00:00,1,0,0,mobile
+214,873,Winback Flow,sms,2026-01-13 10:00:00,1,0,0,tablet
+215,969,Summer Promo,sms,2025-01-07 04:00:00,1,0,0,desktop
+216,173,Retention Nudge,email,2025-04-09 01:00:00,0,0,0,mobile
+217,785,Referral Blast,social_ad,2025-10-19 11:00:00,0,0,0,mobile
+218,822,Black Friday,push,2024-06-14 12:00:00,0,0,0,mobile
+219,1157,Retention Nudge,social_ad,2026-02-13 19:00:00,1,0,0,tablet
+220,1106,Creator Campaign,email,2025-07-04 02:00:00,1,1,0,desktop
+221,258,Back to School,email,2024-02-28 11:00:00,1,1,0,mobile
+222,307,Referral Blast,push,2025-04-06 18:00:00,0,1,0,tablet
+223,1144,Black Friday,email,2024-01-28 01:00:00,1,0,0,desktop
+224,816,Back to School,sms,2024-11-29 08:00:00,0,0,0,tablet
+225,866,Creator Campaign,social_ad,2024-08-31 03:00:00,1,0,1,desktop
+226,838,Retention Nudge,sms,2026-01-06 08:00:00,1,0,0,mobile
+227,823,Holiday Push,email,2024-02-10 12:00:00,0,0,0,mobile
+228,1156,Retention Nudge,email,2025-10-11 09:00:00,1,0,0,mobile
+229,489,Winback Flow,email,2024-07-24 05:00:00,0,0,0,desktop
+230,674,Winback Flow,email,2025-05-11 10:00:00,0,0,0,mobile
+231,432,Holiday Push,email,2025-12-12 17:00:00,0,0,0,desktop
+232,413,Retention Nudge,sms,2025-06-11 16:00:00,0,1,0,desktop
+233,465,Holiday Push,email,2026-01-13 07:00:00,0,0,0,mobile
+234,540,Black Friday,push,2025-10-31 02:00:00,0,0,0,mobile
+235,317,Retention Nudge,social_ad,2025-08-18 07:00:00,1,0,1,mobile
+236,1047,Back to School,sms,2025-01-01 09:00:00,1,0,0,mobile
+237,338,Summer Promo,email,2024-11-28 18:00:00,0,0,0,desktop
+238,357,Back to School,push,2025-05-28 20:00:00,0,0,0,mobile
+239,807,Retention Nudge,push,2026-02-02 00:00:00,0,0,0,mobile
+240,660,Black Friday,email,2025-03-15 13:00:00,0,0,0,mobile
+241,1024,Referral Blast,social_ad,2024-07-31 08:00:00,0,1,0,mobile
+242,180,Retention Nudge,email,2025-09-17 14:00:00,1,0,0,mobile
+243,44,Back to School,sms,2024-02-05 18:00:00,1,0,0,tablet
+244,1100,Referral Blast,sms,2024-01-22 04:00:00,0,1,0,desktop
+245,81,Winback Flow,email,2024-03-25 00:00:00,0,0,0,mobile
+246,344,Holiday Push,push,2024-01-21 06:00:00,1,1,0,mobile
+247,818,Black Friday,email,2026-02-04 13:00:00,0,0,0,desktop
+248,956,Referral Blast,social_ad,2025-02-23 02:00:00,1,1,0,mobile
+249,1041,Creator Campaign,social_ad,2025-07-28 00:00:00,1,0,0,mobile
+250,832,Referral Blast,social_ad,2026-01-04 16:00:00,0,0,0,mobile
+251,1189,Black Friday,email,2024-09-19 09:00:00,0,0,0,mobile
+252,295,Summer Promo,social_ad,2024-03-12 12:00:00,1,1,0,mobile
+253,996,Black Friday,email,2025-05-21 22:00:00,1,1,1,desktop
+254,8,Winback Flow,email,2025-02-27 11:00:00,1,0,0,mobile
+255,605,Creator Campaign,sms,2024-05-31 23:00:00,0,1,1,mobile
+256,128,Creator Campaign,social_ad,2024-06-14 11:00:00,1,0,1,mobile
+257,316,Black Friday,email,2026-02-15 02:00:00,0,0,0,mobile
+258,239,Winback Flow,email,2024-05-16 18:00:00,1,0,1,mobile
+259,755,Creator Campaign,push,2025-01-05 06:00:00,0,0,0,mobile
+260,672,Holiday Push,email,2024-07-26 14:00:00,0,0,0,mobile
+261,986,Black Friday,email,2025-08-22 05:00:00,0,1,0,mobile
+262,951,Black Friday,sms,2024-03-15 18:00:00,0,0,0,mobile
+263,808,Creator Campaign,social_ad,2025-02-08 23:00:00,1,0,0,mobile
+264,343,Back to School,email,2024-04-29 12:00:00,1,0,0,desktop
+265,389,Creator Campaign,push,2024-10-22 04:00:00,0,0,0,mobile
+266,51,Holiday Push,email,2024-08-05 16:00:00,1,0,0,desktop
+267,100,Referral Blast,email,2024-04-22 21:00:00,0,0,0,mobile
+268,92,Retention Nudge,push,2026-02-08 15:00:00,1,0,0,mobile
+269,945,Summer Promo,sms,2024-04-28 14:00:00,1,0,0,mobile
+270,632,Holiday Push,social_ad,2026-02-11 09:00:00,1,0,0,mobile
+271,1105,Winback Flow,social_ad,2025-02-09 00:00:00,0,1,0,desktop
+272,1146,Black Friday,email,2024-08-14 09:00:00,1,0,0,tablet
+273,1177,Creator Campaign,email,2025-01-19 08:00:00,1,0,0,tablet
+274,663,Black Friday,email,2024-04-29 15:00:00,0,0,0,mobile
+275,1122,Retention Nudge,push,2024-01-10 14:00:00,0,1,0,mobile
+276,195,Summer Promo,push,2026-02-16 06:00:00,0,1,0,mobile
+277,456,Black Friday,sms,2024-05-15 06:00:00,1,0,0,desktop
+278,464,Creator Campaign,push,2024-04-28 10:00:00,0,1,1,mobile
+279,1022,Referral Blast,social_ad,2024-10-06 19:00:00,0,0,0,desktop
+280,212,Creator Campaign,sms,2025-01-21 05:00:00,1,1,0,mobile
+281,147,Retention Nudge,email,2025-05-16 09:00:00,1,0,0,mobile
+282,454,Referral Blast,email,2025-10-15 00:00:00,0,0,0,desktop
+283,215,Creator Campaign,email,2025-04-08 11:00:00,0,0,0,mobile
+284,778,Referral Blast,email,2024-11-01 03:00:00,1,0,0,mobile
+285,837,Creator Campaign,email,2024-10-13 17:00:00,0,0,0,desktop
+286,1082,Referral Blast,social_ad,2025-12-12 12:00:00,0,0,0,desktop
+287,1147,Creator Campaign,social_ad,2025-12-02 18:00:00,1,0,0,desktop
+288,930,Retention Nudge,email,2024-07-10 06:00:00,1,0,0,desktop
+289,268,Referral Blast,email,2025-11-21 06:00:00,0,0,0,mobile
+290,806,Retention Nudge,email,2025-03-31 16:00:00,0,0,0,tablet
+291,1077,Summer Promo,sms,2024-02-02 05:00:00,1,0,0,desktop
+292,847,Back to School,email,2024-10-23 22:00:00,0,1,1,desktop
+293,751,Creator Campaign,social_ad,2024-08-08 11:00:00,1,1,0,tablet
+294,35,Back to School,push,2024-12-30 20:00:00,1,0,0,desktop
+295,136,Retention Nudge,email,2024-03-10 04:00:00,1,1,0,desktop
+296,1161,Retention Nudge,social_ad,2025-11-04 19:00:00,1,0,0,mobile
+297,713,Winback Flow,social_ad,2024-03-23 08:00:00,0,1,0,mobile
+298,392,Black Friday,social_ad,2024-05-12 10:00:00,1,1,0,mobile
+299,749,Retention Nudge,sms,2024-12-10 18:00:00,0,0,0,desktop
+300,172,Holiday Push,email,2024-08-30 00:00:00,1,1,0,desktop
+301,748,Creator Campaign,email,2025-08-09 12:00:00,1,0,0,desktop
+302,1000,Back to School,social_ad,2024-10-05 18:00:00,1,0,0,desktop
+303,594,Referral Blast,push,2024-02-29 10:00:00,1,1,0,tablet
+304,1163,Black Friday,email,2024-09-19 11:00:00,0,0,0,mobile
+305,642,Black Friday,social_ad,2024-04-12 08:00:00,0,1,0,mobile
+306,10,Back to School,push,2024-05-31 02:00:00,1,0,0,mobile
+307,420,Retention Nudge,social_ad,2024-05-20 01:00:00,1,0,0,tablet
+308,976,Creator Campaign,sms,2025-05-31 17:00:00,0,0,0,tablet
+309,926,Retention Nudge,social_ad,2024-01-02 20:00:00,1,0,0,desktop
+310,880,Holiday Push,email,2024-03-15 07:00:00,1,0,0,mobile
+311,270,Holiday Push,social_ad,2024-01-23 09:00:00,1,1,0,mobile
+312,204,Holiday Push,email,2024-03-09 04:00:00,1,0,0,tablet
+313,587,Back to School,email,2024-01-07 01:00:00,1,0,0,mobile
+314,994,Holiday Push,email,2025-02-21 17:00:00,0,0,1,desktop
+315,725,Referral Blast,email,2025-09-15 15:00:00,1,0,0,mobile
+316,83,Referral Blast,email,2024-05-27 02:00:00,1,0,0,mobile
+317,583,Black Friday,sms,2024-03-02 16:00:00,1,0,0,mobile
+318,643,Back to School,social_ad,2025-07-18 13:00:00,0,0,0,mobile
+319,711,Black Friday,push,2024-11-02 05:00:00,1,1,0,desktop
+320,888,Back to School,email,2025-11-24 10:00:00,1,1,0,mobile
+321,786,Referral Blast,sms,2025-12-22 16:00:00,1,1,0,mobile
+322,339,Holiday Push,sms,2024-05-25 05:00:00,1,0,0,mobile
+323,660,Holiday Push,email,2025-09-24 01:00:00,1,0,0,desktop
+324,194,Retention Nudge,social_ad,2024-09-29 09:00:00,0,0,0,mobile
+325,37,Summer Promo,social_ad,2025-04-16 02:00:00,1,0,0,mobile
+326,1020,Retention Nudge,email,2024-12-21 12:00:00,1,0,0,mobile
+327,295,Holiday Push,email,2024-08-07 19:00:00,1,1,0,mobile
+328,843,Black Friday,email,2025-09-26 06:00:00,1,1,1,mobile
+329,68,Retention Nudge,email,2026-02-11 18:00:00,1,0,0,mobile
+330,779,Creator Campaign,email,2025-04-21 00:00:00,0,1,0,mobile
+331,1058,Back to School,email,2024-09-14 21:00:00,1,0,1,mobile
+332,291,Creator Campaign,push,2025-10-23 15:00:00,0,0,1,desktop
+333,685,Summer Promo,social_ad,2026-01-02 07:00:00,1,1,0,mobile
+334,385,Referral Blast,push,2026-02-15 16:00:00,1,1,1,mobile
+335,1180,Back to School,email,2025-07-29 20:00:00,0,0,0,mobile
+336,684,Retention Nudge,email,2025-11-13 21:00:00,1,0,0,mobile
+337,747,Holiday Push,email,2024-03-25 14:00:00,1,1,0,desktop
+338,112,Summer Promo,push,2025-10-12 04:00:00,0,1,0,desktop
+339,990,Summer Promo,push,2024-11-07 14:00:00,1,0,0,mobile
+340,628,Holiday Push,email,2024-01-24 01:00:00,0,0,0,desktop
+341,15,Black Friday,email,2025-06-17 06:00:00,1,0,0,mobile
+342,801,Black Friday,email,2025-12-04 14:00:00,1,0,0,mobile
+343,510,Retention Nudge,email,2024-05-12 14:00:00,0,0,0,mobile
+344,703,Creator Campaign,email,2024-06-23 11:00:00,1,0,0,tablet
+345,323,Creator Campaign,email,2024-08-06 17:00:00,1,1,0,mobile
+346,629,Winback Flow,sms,2025-04-16 23:00:00,1,1,0,mobile
+347,480,Back to School,email,2024-08-09 17:00:00,1,0,0,mobile
+348,809,Holiday Push,social_ad,2024-06-08 22:00:00,1,0,0,desktop
+349,262,Referral Blast,email,2026-02-19 05:00:00,1,1,0,desktop
+350,872,Creator Campaign,email,2024-12-11 01:00:00,1,0,0,desktop
+351,1085,Summer Promo,email,2024-08-01 09:00:00,1,0,0,tablet
+352,483,Holiday Push,social_ad,2024-08-03 14:00:00,0,0,0,desktop
+353,281,Back to School,sms,2026-02-03 21:00:00,1,0,0,mobile
+354,147,Back to School,sms,2024-08-25 00:00:00,1,1,0,mobile
+355,526,Holiday Push,email,2024-09-23 13:00:00,1,0,0,mobile
+356,745,Black Friday,sms,2025-03-10 15:00:00,1,0,0,tablet
+357,1086,Holiday Push,email,2024-01-31 07:00:00,0,0,0,tablet
+358,670,Black Friday,social_ad,2024-02-27 19:00:00,1,0,0,tablet
+359,175,Retention Nudge,email,2026-01-27 09:00:00,1,0,0,desktop
+360,339,Summer Promo,push,2025-07-08 10:00:00,1,0,0,desktop
+361,1198,Winback Flow,sms,2024-03-04 06:00:00,0,0,0,mobile
+362,90,Holiday Push,push,2025-05-21 03:00:00,1,0,0,desktop
+363,41,Referral Blast,email,2024-05-03 22:00:00,1,1,0,mobile
+364,444,Back to School,social_ad,2024-10-09 08:00:00,1,1,0,mobile
+365,745,Creator Campaign,social_ad,2024-08-11 01:00:00,0,0,0,desktop
+366,1105,Holiday Push,email,2024-02-14 18:00:00,0,0,0,desktop
+367,495,Black Friday,email,2024-02-24 18:00:00,0,0,0,mobile
+368,1188,Black Friday,email,2024-09-17 01:00:00,1,0,0,desktop
+369,41,Winback Flow,email,2025-02-22 22:00:00,1,0,0,desktop
+370,1084,Back to School,email,2024-02-26 23:00:00,0,0,0,desktop
+371,1032,Summer Promo,email,2025-05-07 12:00:00,0,0,0,mobile
+372,1079,Referral Blast,email,2024-10-25 21:00:00,1,1,0,tablet
+373,671,Retention Nudge,sms,2025-02-05 11:00:00,1,1,0,mobile
+374,621,Creator Campaign,email,2025-06-17 21:00:00,1,0,1,tablet
+375,720,Winback Flow,email,2024-06-08 05:00:00,1,0,0,mobile
+376,901,Holiday Push,social_ad,2024-07-08 14:00:00,0,0,0,mobile
+377,721,Winback Flow,email,2025-02-03 16:00:00,0,0,0,desktop
+378,751,Retention Nudge,email,2025-04-23 10:00:00,0,0,0,mobile
+379,601,Summer Promo,social_ad,2025-12-10 13:00:00,1,1,0,tablet
+380,1191,Back to School,email,2024-11-15 04:00:00,1,0,1,mobile
+381,1012,Holiday Push,push,2024-06-28 15:00:00,0,0,0,mobile
+382,178,Retention Nudge,social_ad,2024-12-15 00:00:00,1,0,0,mobile
+383,300,Winback Flow,social_ad,2025-09-09 06:00:00,1,0,0,desktop
+384,836,Referral Blast,email,2025-01-03 04:00:00,1,0,0,mobile
+385,573,Referral Blast,push,2025-03-27 09:00:00,1,0,0,desktop
+386,355,Winback Flow,email,2024-05-20 05:00:00,0,0,0,desktop
+387,790,Winback Flow,email,2024-04-02 13:00:00,0,1,0,tablet
+388,728,Back to School,email,2024-02-29 19:00:00,1,0,0,mobile
+389,1043,Referral Blast,sms,2024-06-27 06:00:00,0,0,0,mobile
+390,1122,Black Friday,email,2024-04-14 08:00:00,1,0,0,desktop
+391,590,Back to School,push,2025-04-05 02:00:00,1,0,0,mobile
+392,45,Retention Nudge,social_ad,2024-07-04 23:00:00,0,0,0,mobile
+393,456,Black Friday,social_ad,2026-01-18 22:00:00,0,0,1,mobile
+394,935,Creator Campaign,social_ad,2025-11-11 10:00:00,0,0,0,mobile
+395,452,Referral Blast,email,2025-05-25 14:00:00,1,1,1,mobile
+396,520,Creator Campaign,email,2024-05-03 05:00:00,1,1,0,mobile
+397,503,Referral Blast,email,2024-02-21 09:00:00,0,0,0,desktop
+398,437,Back to School,sms,2025-06-13 12:00:00,1,1,1,desktop
+399,470,Winback Flow,social_ad,2025-01-19 04:00:00,1,0,0,tablet
+400,693,Creator Campaign,social_ad,2024-03-10 15:00:00,1,1,0,mobile
+401,418,Winback Flow,email,2025-10-16 11:00:00,0,1,0,desktop
+402,957,Referral Blast,push,2024-08-11 23:00:00,0,0,0,mobile
+403,610,Back to School,sms,2024-07-23 20:00:00,1,1,0,mobile
+404,885,Creator Campaign,sms,2025-05-09 14:00:00,0,0,0,mobile
+405,890,Winback Flow,sms,2024-08-10 01:00:00,1,0,0,tablet
+406,730,Back to School,email,2024-11-23 17:00:00,0,0,0,mobile
+407,930,Referral Blast,push,2025-06-05 04:00:00,0,0,0,desktop
+408,615,Creator Campaign,push,2025-03-17 11:00:00,0,0,0,mobile
+409,139,Back to School,email,2025-10-06 12:00:00,1,0,0,desktop
+410,1136,Retention Nudge,email,2024-12-19 21:00:00,1,0,0,desktop
+411,449,Winback Flow,email,2025-08-06 15:00:00,1,0,0,mobile
+412,502,Black Friday,email,2025-10-12 00:00:00,1,0,0,mobile
+413,1045,Black Friday,email,2025-12-30 15:00:00,1,0,0,tablet
+414,211,Referral Blast,email,2024-11-24 16:00:00,1,0,0,mobile
+415,639,Summer Promo,push,2024-10-01 21:00:00,0,0,0,desktop
+416,1161,Summer Promo,social_ad,2025-10-14 04:00:00,1,0,0,mobile
+417,409,Creator Campaign,push,2025-06-20 22:00:00,0,0,0,desktop
+418,958,Referral Blast,email,2025-02-22 17:00:00,0,0,0,mobile
+419,44,Back to School,push,2025-02-23 03:00:00,1,0,0,mobile
+420,49,Winback Flow,sms,2025-04-16 10:00:00,1,0,0,mobile
+421,161,Winback Flow,social_ad,2024-11-20 12:00:00,0,0,0,desktop
+422,711,Retention Nudge,email,2024-04-11 22:00:00,0,0,0,mobile
+423,199,Winback Flow,social_ad,2024-12-27 11:00:00,1,0,1,desktop
+424,613,Summer Promo,email,2024-02-14 15:00:00,1,0,0,desktop
+425,1117,Holiday Push,social_ad,2025-09-01 20:00:00,1,1,0,desktop
+426,1068,Black Friday,social_ad,2024-05-05 17:00:00,1,0,0,desktop
+427,781,Summer Promo,email,2025-02-15 19:00:00,1,0,1,desktop
+428,763,Creator Campaign,email,2024-04-16 02:00:00,1,0,0,mobile
+429,57,Winback Flow,sms,2025-07-22 16:00:00,1,0,0,mobile
+430,148,Referral Blast,sms,2024-03-06 15:00:00,0,0,1,desktop
+431,898,Creator Campaign,email,2026-01-21 16:00:00,1,0,0,mobile
+432,935,Creator Campaign,social_ad,2024-05-09 18:00:00,1,0,0,mobile
+433,382,Creator Campaign,email,2024-01-09 02:00:00,0,0,0,mobile
+434,438,Holiday Push,email,2025-02-28 16:00:00,0,0,0,desktop
+435,730,Summer Promo,social_ad,2025-10-19 03:00:00,1,1,0,desktop
+436,346,Black Friday,push,2026-02-15 12:00:00,1,0,0,mobile
+437,382,Winback Flow,social_ad,2025-10-25 08:00:00,1,1,0,mobile
+438,100,Winback Flow,email,2024-03-02 12:00:00,1,0,0,mobile
+439,142,Back to School,email,2025-01-18 20:00:00,1,0,1,mobile
+440,987,Back to School,email,2024-04-08 12:00:00,1,0,0,mobile
+441,22,Black Friday,email,2025-03-03 19:00:00,1,0,0,mobile
+442,506,Creator Campaign,email,2024-12-17 08:00:00,1,0,0,mobile
+443,831,Winback Flow,email,2024-12-07 04:00:00,0,0,0,mobile
+444,138,Back to School,sms,2025-07-18 04:00:00,1,0,0,mobile
+445,917,Creator Campaign,push,2025-09-11 09:00:00,0,0,0,tablet
+446,3,Creator Campaign,email,2024-03-26 18:00:00,0,1,1,mobile
+447,507,Winback Flow,email,2025-12-10 04:00:00,1,1,0,mobile
+448,216,Holiday Push,email,2024-06-26 15:00:00,0,0,0,desktop
+449,971,Back to School,email,2024-02-02 22:00:00,1,0,0,desktop
+450,697,Retention Nudge,social_ad,2024-09-09 04:00:00,1,0,0,desktop
+451,287,Holiday Push,email,2025-04-07 11:00:00,1,0,0,desktop
+452,492,Retention Nudge,push,2024-05-03 05:00:00,1,1,1,mobile
+453,613,Creator Campaign,email,2024-02-06 06:00:00,1,0,0,mobile
+454,1155,Winback Flow,email,2025-06-04 19:00:00,1,0,0,desktop
+455,665,Winback Flow,email,2025-10-13 01:00:00,1,0,1,mobile
+456,515,Back to School,social_ad,2025-02-23 22:00:00,1,1,0,tablet
+457,907,Creator Campaign,email,2024-07-28 02:00:00,1,1,0,mobile
+458,118,Summer Promo,email,2024-05-20 02:00:00,1,0,0,mobile
+459,574,Back to School,push,2025-10-23 20:00:00,0,0,0,mobile
+460,137,Back to School,sms,2025-02-08 06:00:00,1,1,0,desktop
+461,792,Retention Nudge,push,2024-03-13 16:00:00,1,1,0,desktop
+462,932,Retention Nudge,social_ad,2026-02-19 23:00:00,1,0,0,tablet
+463,137,Summer Promo,email,2024-01-17 20:00:00,1,0,0,desktop
+464,1014,Creator Campaign,email,2025-08-02 17:00:00,1,1,0,mobile
+465,717,Back to School,social_ad,2025-07-01 06:00:00,0,0,0,mobile
+466,655,Referral Blast,email,2024-01-21 21:00:00,0,0,0,desktop
+467,741,Black Friday,push,2024-11-04 09:00:00,1,0,0,desktop
+468,224,Creator Campaign,email,2025-09-26 06:00:00,1,0,0,desktop
+469,456,Creator Campaign,social_ad,2025-07-14 03:00:00,0,0,0,mobile
+470,736,Referral Blast,social_ad,2024-04-07 04:00:00,1,1,0,mobile
+471,8,Black Friday,social_ad,2024-10-26 14:00:00,0,0,0,desktop
+472,1024,Retention Nudge,sms,2025-08-14 18:00:00,0,0,0,desktop
+473,212,Creator Campaign,sms,2024-07-16 08:00:00,1,0,0,mobile
+474,44,Creator Campaign,email,2024-08-29 11:00:00,0,0,0,mobile
+475,13,Summer Promo,email,2024-12-16 08:00:00,0,0,0,desktop
+476,521,Holiday Push,email,2025-04-05 13:00:00,1,0,1,desktop
+477,225,Referral Blast,push,2026-02-08 15:00:00,1,0,0,mobile
+478,788,Retention Nudge,social_ad,2025-10-27 17:00:00,0,0,0,mobile
+479,553,Back to School,email,2025-12-09 04:00:00,0,0,0,mobile
+480,1123,Retention Nudge,sms,2024-07-15 13:00:00,1,1,0,desktop
+481,389,Black Friday,email,2025-12-07 03:00:00,1,0,0,desktop
+482,683,Creator Campaign,email,2024-03-31 09:00:00,0,0,0,mobile
+483,577,Black Friday,social_ad,2024-08-27 19:00:00,1,0,0,mobile
+484,18,Referral Blast,sms,2025-07-20 20:00:00,1,0,0,desktop
+485,47,Creator Campaign,email,2025-04-24 04:00:00,0,1,0,mobile
+486,513,Retention Nudge,social_ad,2025-03-27 17:00:00,1,1,0,mobile
+487,1061,Back to School,push,2026-01-16 11:00:00,1,0,0,mobile
+488,1098,Black Friday,social_ad,2024-10-10 10:00:00,1,0,0,mobile
+489,363,Retention Nudge,social_ad,2024-11-04 01:00:00,0,0,0,mobile
+490,909,Black Friday,email,2024-05-15 05:00:00,1,0,0,tablet
+491,776,Winback Flow,email,2026-01-07 15:00:00,0,0,0,tablet
+492,266,Creator Campaign,email,2025-12-03 00:00:00,1,0,0,desktop
+493,112,Winback Flow,email,2024-04-08 17:00:00,1,0,0,desktop
+494,994,Referral Blast,social_ad,2025-03-09 13:00:00,1,0,0,mobile
+495,363,Holiday Push,social_ad,2024-05-09 10:00:00,1,0,0,mobile
+496,394,Holiday Push,email,2025-04-04 18:00:00,1,1,0,desktop
+497,582,Holiday Push,email,2026-02-08 23:00:00,1,0,0,desktop
+498,719,Retention Nudge,email,2024-09-17 08:00:00,0,1,0,mobile
+499,79,Retention Nudge,email,2024-05-05 22:00:00,0,1,0,mobile
+500,1002,Black Friday,social_ad,2025-02-19 14:00:00,1,1,0,mobile
+501,295,Holiday Push,email,2024-10-31 20:00:00,0,1,0,mobile
+502,16,Creator Campaign,email,2024-03-07 23:00:00,1,0,0,desktop
+503,394,Retention Nudge,email,2026-02-15 17:00:00,1,0,0,desktop
+504,428,Creator Campaign,email,2024-01-16 13:00:00,0,0,0,mobile
+505,605,Retention Nudge,push,2026-01-11 08:00:00,1,1,0,mobile
+506,1004,Referral Blast,push,2024-07-23 23:00:00,0,0,0,mobile
+507,1063,Holiday Push,email,2024-04-15 00:00:00,1,0,0,mobile
+508,680,Winback Flow,email,2024-09-19 05:00:00,1,1,0,desktop
+509,709,Black Friday,push,2025-03-31 23:00:00,1,0,0,mobile
+510,470,Referral Blast,push,2024-10-03 05:00:00,1,0,0,desktop
+511,692,Black Friday,social_ad,2025-04-16 07:00:00,1,1,0,mobile
+512,529,Summer Promo,push,2024-08-03 22:00:00,0,1,0,tablet
+513,258,Summer Promo,email,2025-08-02 14:00:00,1,0,0,desktop
+514,859,Summer Promo,push,2024-11-14 16:00:00,1,0,0,desktop
+515,1044,Back to School,email,2025-06-16 19:00:00,1,0,0,mobile
+516,397,Creator Campaign,sms,2025-10-28 20:00:00,1,0,0,mobile
+517,681,Holiday Push,social_ad,2024-06-18 05:00:00,0,0,0,mobile
+518,54,Holiday Push,social_ad,2024-08-14 10:00:00,1,0,0,mobile
+519,917,Holiday Push,social_ad,2024-07-07 05:00:00,1,0,0,desktop
+520,811,Retention Nudge,email,2025-04-01 08:00:00,1,1,0,mobile
+521,16,Winback Flow,email,2025-10-17 18:00:00,1,0,0,mobile
+522,1061,Referral Blast,push,2024-07-16 07:00:00,0,0,0,mobile
+523,227,Back to School,email,2024-09-17 15:00:00,1,0,1,mobile
+524,20,Winback Flow,social_ad,2024-08-12 15:00:00,0,0,0,desktop
+525,1012,Holiday Push,social_ad,2024-12-13 16:00:00,1,0,0,mobile
+526,1006,Referral Blast,email,2025-12-04 22:00:00,1,0,0,tablet
+527,288,Winback Flow,social_ad,2026-01-15 10:00:00,0,0,0,mobile
+528,169,Winback Flow,email,2024-06-15 05:00:00,1,0,0,mobile
+529,329,Winback Flow,push,2025-11-30 20:00:00,1,0,0,mobile
+530,69,Referral Blast,email,2026-01-10 01:00:00,1,0,0,desktop
+531,26,Creator Campaign,email,2026-01-21 09:00:00,1,0,0,mobile
+532,440,Retention Nudge,email,2025-10-11 04:00:00,1,0,0,mobile
+533,273,Back to School,email,2025-11-08 08:00:00,1,0,0,mobile
+534,464,Retention Nudge,email,2024-02-18 06:00:00,0,1,0,mobile
+535,981,Referral Blast,email,2025-11-25 17:00:00,1,0,0,mobile
+536,1133,Black Friday,email,2025-10-17 06:00:00,1,0,0,mobile
+537,431,Holiday Push,push,2024-11-04 11:00:00,1,0,0,desktop
+538,112,Referral Blast,email,2025-01-02 01:00:00,1,0,0,mobile
+539,643,Referral Blast,email,2024-05-08 03:00:00,1,0,0,mobile
+540,843,Summer Promo,social_ad,2025-11-10 23:00:00,0,1,0,mobile
+541,407,Creator Campaign,email,2024-09-02 17:00:00,1,0,1,desktop
+542,851,Holiday Push,email,2025-02-16 12:00:00,1,0,0,mobile
+543,387,Black Friday,push,2025-08-02 08:00:00,0,0,0,mobile
+544,1040,Summer Promo,email,2025-02-20 10:00:00,1,0,0,desktop
+545,623,Creator Campaign,social_ad,2025-01-19 23:00:00,0,0,0,mobile
+546,1182,Black Friday,email,2025-09-23 02:00:00,1,1,0,desktop
+547,658,Referral Blast,email,2025-05-06 17:00:00,0,0,1,mobile
+548,451,Winback Flow,email,2025-12-11 03:00:00,0,0,0,desktop
+549,635,Creator Campaign,email,2025-12-27 20:00:00,1,0,0,desktop
+550,657,Retention Nudge,push,2024-10-27 10:00:00,1,0,0,mobile
+551,331,Creator Campaign,email,2024-09-10 22:00:00,0,1,0,mobile
+552,1020,Holiday Push,email,2025-09-02 12:00:00,1,0,1,mobile
+553,1007,Referral Blast,social_ad,2025-05-24 06:00:00,1,0,0,mobile
+554,639,Retention Nudge,email,2024-11-18 18:00:00,1,0,0,desktop
+555,429,Black Friday,push,2024-06-08 17:00:00,0,0,1,desktop
+556,1114,Holiday Push,sms,2024-03-31 16:00:00,1,1,0,desktop
+557,807,Retention Nudge,email,2025-06-21 21:00:00,1,0,0,desktop
+558,858,Holiday Push,social_ad,2024-04-21 12:00:00,0,1,0,desktop
+559,500,Summer Promo,email,2025-02-13 07:00:00,1,0,0,mobile
+560,1049,Creator Campaign,push,2024-11-02 05:00:00,1,1,1,mobile
+561,168,Retention Nudge,email,2024-02-05 19:00:00,0,0,0,desktop
+562,532,Creator Campaign,email,2024-04-09 10:00:00,0,0,0,mobile
+563,777,Black Friday,push,2026-01-19 03:00:00,1,0,0,mobile
+564,605,Retention Nudge,email,2025-06-06 05:00:00,1,0,0,desktop
+565,935,Winback Flow,email,2025-09-12 14:00:00,1,0,0,desktop
+566,531,Back to School,sms,2024-01-06 11:00:00,1,1,0,desktop
+567,234,Back to School,social_ad,2025-11-13 18:00:00,0,0,0,mobile
+568,534,Black Friday,sms,2024-03-13 21:00:00,1,0,0,mobile
+569,761,Summer Promo,sms,2024-02-02 13:00:00,1,0,0,desktop
+570,1012,Creator Campaign,push,2025-10-20 08:00:00,0,0,0,mobile
+571,196,Holiday Push,email,2025-02-10 11:00:00,1,1,0,mobile
+572,989,Winback Flow,email,2024-07-04 13:00:00,1,1,0,mobile
+573,561,Back to School,email,2025-12-01 20:00:00,1,0,0,desktop
+574,939,Black Friday,social_ad,2025-09-03 00:00:00,1,0,1,desktop
+575,714,Retention Nudge,email,2024-12-31 07:00:00,0,0,0,desktop
+576,1052,Back to School,email,2024-04-13 06:00:00,1,1,0,mobile
+577,749,Retention Nudge,social_ad,2024-09-11 08:00:00,1,0,0,tablet
+578,1158,Summer Promo,email,2025-02-27 05:00:00,0,0,0,mobile
+579,619,Winback Flow,social_ad,2024-08-09 07:00:00,1,0,0,mobile
+580,667,Back to School,social_ad,2025-11-13 19:00:00,1,0,0,desktop
+581,223,Summer Promo,email,2025-03-08 10:00:00,0,0,0,desktop
+582,1090,Creator Campaign,email,2024-12-08 22:00:00,0,1,0,mobile
+583,438,Winback Flow,email,2024-06-06 04:00:00,1,0,0,mobile
+584,614,Black Friday,email,2024-02-23 19:00:00,1,0,0,tablet
+585,75,Retention Nudge,social_ad,2025-05-13 12:00:00,1,1,0,mobile
+586,875,Referral Blast,email,2024-12-16 18:00:00,1,0,0,mobile
+587,746,Winback Flow,social_ad,2025-04-03 13:00:00,0,0,0,mobile
+588,172,Summer Promo,email,2025-11-17 13:00:00,1,0,0,tablet
+589,1157,Holiday Push,sms,2024-06-20 08:00:00,1,0,0,mobile
+590,448,Creator Campaign,social_ad,2025-07-15 21:00:00,1,0,1,desktop
+591,529,Winback Flow,email,2024-08-23 09:00:00,0,0,0,tablet
+592,783,Creator Campaign,sms,2024-04-09 09:00:00,1,0,0,mobile
+593,788,Summer Promo,social_ad,2025-05-12 18:00:00,0,0,0,mobile
+594,420,Holiday Push,social_ad,2025-08-18 23:00:00,1,0,0,mobile
+595,307,Back to School,email,2025-06-05 18:00:00,0,0,0,tablet
+596,338,Summer Promo,push,2025-01-15 21:00:00,1,1,0,mobile
+597,587,Retention Nudge,email,2025-09-21 03:00:00,1,0,0,desktop
+598,459,Winback Flow,social_ad,2025-10-20 19:00:00,1,1,0,mobile
+599,694,Holiday Push,social_ad,2025-04-29 06:00:00,1,1,0,tablet
+600,327,Referral Blast,email,2025-10-16 20:00:00,1,0,0,desktop
+601,1064,Retention Nudge,email,2025-09-19 01:00:00,0,0,0,desktop
+602,165,Referral Blast,email,2024-08-18 02:00:00,1,1,0,desktop
+603,1055,Back to School,email,2025-12-19 12:00:00,1,0,0,desktop
+604,541,Holiday Push,email,2025-03-07 14:00:00,1,0,0,mobile
+605,1074,Summer Promo,social_ad,2024-09-26 14:00:00,0,0,0,mobile
+606,923,Referral Blast,social_ad,2025-03-23 16:00:00,1,0,0,mobile
+607,7,Black Friday,push,2024-07-23 04:00:00,1,0,0,tablet
+608,1090,Summer Promo,email,2025-04-13 02:00:00,0,1,0,mobile
+609,828,Retention Nudge,email,2024-03-29 03:00:00,0,0,0,desktop
+610,515,Back to School,email,2025-09-23 08:00:00,0,0,0,desktop
+611,1124,Holiday Push,email,2024-04-27 21:00:00,1,0,0,desktop
+612,1021,Holiday Push,social_ad,2024-05-26 12:00:00,0,0,0,desktop
+613,1033,Black Friday,email,2025-11-16 02:00:00,1,1,0,mobile
+614,117,Winback Flow,email,2026-01-02 14:00:00,0,0,0,mobile
+615,703,Creator Campaign,email,2025-12-31 03:00:00,1,1,0,desktop
+616,1171,Referral Blast,sms,2024-08-21 23:00:00,0,0,0,mobile
+617,947,Back to School,email,2025-07-23 21:00:00,1,0,0,mobile
+618,719,Back to School,sms,2024-10-01 00:00:00,1,1,0,mobile
+619,159,Summer Promo,sms,2026-02-08 08:00:00,0,1,0,desktop
+620,1194,Creator Campaign,social_ad,2025-08-14 02:00:00,0,0,0,mobile
+621,1195,Summer Promo,push,2026-02-19 18:00:00,1,0,0,desktop
+622,1095,Creator Campaign,email,2024-11-02 22:00:00,0,1,0,desktop
+623,249,Back to School,sms,2025-10-10 10:00:00,0,0,0,desktop
+624,592,Creator Campaign,email,2024-05-05 15:00:00,0,0,1,tablet
+625,164,Retention Nudge,social_ad,2024-06-21 12:00:00,1,0,0,desktop
+626,291,Back to School,email,2024-11-14 04:00:00,1,0,0,desktop
+627,59,Summer Promo,email,2025-03-30 09:00:00,0,0,0,mobile
+628,168,Referral Blast,email,2024-10-30 11:00:00,1,1,1,desktop
+629,1073,Referral Blast,social_ad,2024-06-20 05:00:00,1,0,0,tablet
+630,1027,Summer Promo,email,2025-11-27 10:00:00,0,0,0,tablet
+631,448,Referral Blast,sms,2025-08-02 20:00:00,1,0,0,mobile
+632,62,Creator Campaign,email,2025-10-27 14:00:00,0,0,0,mobile
+633,102,Back to School,email,2025-07-27 03:00:00,0,0,0,mobile
+634,708,Black Friday,push,2026-01-31 07:00:00,1,1,0,mobile
+635,566,Creator Campaign,sms,2025-04-08 21:00:00,1,1,0,desktop
+636,1140,Referral Blast,sms,2024-08-17 02:00:00,1,0,1,mobile
+637,76,Retention Nudge,email,2025-08-03 03:00:00,1,1,0,desktop
+638,1193,Black Friday,email,2024-01-31 09:00:00,0,0,0,desktop
+639,824,Back to School,sms,2024-07-02 08:00:00,1,0,0,desktop
+640,309,Black Friday,email,2024-02-07 03:00:00,0,0,0,mobile
+641,735,Summer Promo,email,2025-07-09 20:00:00,0,1,0,mobile
+642,1167,Winback Flow,social_ad,2024-09-22 21:00:00,1,0,0,tablet
+643,938,Summer Promo,social_ad,2025-08-11 23:00:00,1,0,0,desktop
+644,467,Winback Flow,push,2024-07-01 12:00:00,0,0,0,desktop
+645,686,Holiday Push,email,2024-04-12 20:00:00,1,0,0,mobile
+646,147,Winback Flow,email,2024-02-23 16:00:00,1,0,0,mobile
+647,891,Black Friday,sms,2024-01-09 17:00:00,0,1,0,mobile
+648,109,Winback Flow,social_ad,2025-03-23 14:00:00,0,1,0,mobile
+649,265,Referral Blast,push,2024-10-01 21:00:00,0,1,0,mobile
+650,736,Creator Campaign,email,2026-01-25 18:00:00,0,1,0,mobile
+651,38,Holiday Push,email,2025-12-04 14:00:00,0,0,0,mobile
+652,571,Referral Blast,email,2024-08-06 10:00:00,0,1,0,mobile
+653,794,Retention Nudge,email,2025-11-17 01:00:00,1,0,0,desktop
+654,1082,Referral Blast,email,2024-10-04 04:00:00,1,0,0,desktop
+655,738,Referral Blast,push,2024-06-11 07:00:00,0,0,0,desktop
+656,574,Summer Promo,social_ad,2025-08-05 16:00:00,1,0,0,mobile
+657,994,Summer Promo,sms,2025-06-29 16:00:00,1,0,0,mobile
+658,162,Referral Blast,push,2025-02-11 19:00:00,1,1,0,desktop
+659,858,Back to School,email,2025-07-04 22:00:00,1,0,0,desktop
+660,579,Back to School,sms,2024-10-16 16:00:00,1,1,1,mobile
+661,165,Referral Blast,email,2024-03-18 05:00:00,1,0,0,tablet
+662,577,Creator Campaign,social_ad,2024-06-01 07:00:00,0,1,0,mobile
+663,72,Summer Promo,email,2025-08-06 12:00:00,1,0,1,desktop
+664,419,Creator Campaign,email,2024-12-24 19:00:00,0,0,0,desktop
+665,87,Holiday Push,sms,2026-02-14 15:00:00,1,0,0,mobile
+666,300,Referral Blast,email,2025-12-23 12:00:00,1,0,0,desktop
+667,463,Creator Campaign,email,2025-04-19 04:00:00,1,0,0,mobile
+668,802,Creator Campaign,email,2024-12-08 04:00:00,0,1,0,mobile
+669,430,Referral Blast,social_ad,2024-10-03 22:00:00,1,0,0,mobile
+670,228,Holiday Push,email,2025-01-25 02:00:00,1,0,0,mobile
+671,1094,Referral Blast,social_ad,2024-09-08 16:00:00,1,1,0,mobile
+672,657,Creator Campaign,email,2025-04-30 01:00:00,1,0,0,mobile
+673,886,Holiday Push,sms,2025-04-25 03:00:00,1,0,1,mobile
+674,1039,Holiday Push,sms,2024-06-14 19:00:00,1,1,0,desktop
+675,766,Winback Flow,email,2024-10-13 15:00:00,1,0,0,mobile
+676,1010,Winback Flow,email,2024-11-05 16:00:00,1,0,0,mobile
+677,108,Winback Flow,push,2024-02-15 23:00:00,1,0,0,mobile
+678,523,Retention Nudge,sms,2025-08-05 13:00:00,1,0,0,mobile
+679,547,Referral Blast,email,2025-02-25 03:00:00,0,0,0,tablet
+680,573,Summer Promo,social_ad,2025-01-19 18:00:00,1,0,0,mobile
+681,1050,Referral Blast,sms,2025-06-10 07:00:00,0,0,0,tablet
+682,830,Winback Flow,email,2025-10-07 11:00:00,0,0,0,mobile
+683,251,Winback Flow,social_ad,2026-01-09 01:00:00,0,0,0,mobile
+684,1031,Retention Nudge,email,2025-03-21 13:00:00,1,0,0,mobile
+685,848,Creator Campaign,push,2024-12-12 17:00:00,1,0,1,mobile
+686,1079,Holiday Push,sms,2025-04-10 14:00:00,0,0,0,mobile
+687,473,Back to School,email,2025-09-09 10:00:00,1,0,0,tablet
+688,629,Back to School,social_ad,2026-01-20 04:00:00,1,1,0,mobile
+689,689,Winback Flow,email,2025-09-24 14:00:00,0,0,0,mobile
+690,429,Summer Promo,social_ad,2024-08-08 19:00:00,1,0,0,mobile
+691,801,Summer Promo,email,2024-02-12 07:00:00,0,0,1,desktop
+692,1169,Holiday Push,email,2024-03-18 19:00:00,1,1,0,mobile
+693,258,Creator Campaign,push,2025-07-30 06:00:00,0,0,0,mobile
+694,45,Winback Flow,email,2025-01-22 23:00:00,1,0,0,mobile
+695,814,Back to School,social_ad,2024-09-10 17:00:00,1,0,0,mobile
+696,761,Creator Campaign,push,2024-04-24 20:00:00,1,0,0,desktop
+697,585,Retention Nudge,push,2026-01-08 14:00:00,0,0,0,desktop
+698,388,Winback Flow,social_ad,2024-05-15 23:00:00,1,0,0,mobile
+699,409,Summer Promo,push,2025-02-06 17:00:00,1,1,0,desktop
+700,1075,Back to School,email,2025-04-05 23:00:00,0,0,0,desktop
+701,448,Retention Nudge,email,2024-01-09 21:00:00,1,1,0,mobile
+702,958,Summer Promo,social_ad,2025-04-07 02:00:00,0,0,0,mobile
+703,888,Winback Flow,email,2024-03-15 17:00:00,0,0,0,mobile
+704,1116,Holiday Push,push,2024-11-25 17:00:00,0,0,0,mobile
+705,584,Retention Nudge,sms,2024-01-22 14:00:00,1,1,0,mobile
+706,301,Referral Blast,email,2025-02-16 03:00:00,0,0,0,mobile
+707,848,Back to School,push,2024-02-10 08:00:00,1,1,0,mobile
+708,669,Summer Promo,email,2024-12-11 09:00:00,0,0,0,desktop
+709,890,Holiday Push,email,2025-01-21 10:00:00,0,0,0,desktop
+710,790,Back to School,email,2025-02-03 07:00:00,1,1,0,mobile
+711,801,Creator Campaign,email,2026-02-06 06:00:00,0,0,0,mobile
+712,1131,Winback Flow,sms,2024-07-18 22:00:00,0,0,0,mobile
+713,428,Referral Blast,email,2025-11-14 03:00:00,1,0,0,mobile
+714,288,Winback Flow,social_ad,2025-09-25 04:00:00,0,0,0,tablet
+715,120,Back to School,email,2024-06-29 06:00:00,0,0,0,mobile
+716,199,Back to School,social_ad,2024-10-17 05:00:00,1,0,0,desktop
+717,1008,Winback Flow,social_ad,2024-02-28 07:00:00,1,0,1,desktop
+718,1169,Retention Nudge,social_ad,2025-08-31 23:00:00,0,0,0,mobile
+719,63,Holiday Push,email,2025-07-16 05:00:00,1,0,0,mobile
+720,1101,Retention Nudge,sms,2024-11-05 20:00:00,1,0,0,tablet
+721,441,Winback Flow,email,2025-04-01 18:00:00,1,0,0,mobile
+722,95,Creator Campaign,email,2025-05-25 23:00:00,0,0,0,mobile
+723,358,Creator Campaign,email,2026-02-13 02:00:00,1,0,0,desktop
+724,687,Winback Flow,email,2024-08-25 06:00:00,1,0,0,mobile
+725,1166,Summer Promo,push,2025-04-03 22:00:00,0,1,1,mobile
+726,1013,Summer Promo,email,2026-02-01 06:00:00,1,1,0,mobile
+727,711,Referral Blast,email,2025-10-06 15:00:00,0,1,0,mobile
+728,166,Black Friday,email,2025-09-03 00:00:00,1,0,0,mobile
+729,266,Back to School,email,2024-07-02 19:00:00,0,0,0,mobile
+730,266,Creator Campaign,email,2025-08-26 21:00:00,1,0,0,mobile
+731,50,Retention Nudge,email,2025-09-25 04:00:00,0,0,0,tablet
+732,429,Winback Flow,social_ad,2024-03-10 07:00:00,0,0,0,mobile
+733,586,Creator Campaign,email,2025-03-30 00:00:00,1,1,0,desktop
+734,548,Black Friday,email,2024-11-24 15:00:00,0,1,0,mobile
+735,1132,Back to School,sms,2025-12-31 00:00:00,0,0,0,mobile
+736,968,Summer Promo,email,2024-11-25 01:00:00,1,1,0,mobile
+737,161,Referral Blast,email,2025-12-23 09:00:00,0,1,0,mobile
+738,319,Referral Blast,email,2024-03-23 07:00:00,0,1,0,mobile
+739,403,Black Friday,push,2025-07-05 04:00:00,1,0,0,desktop
+740,866,Holiday Push,push,2025-02-25 18:00:00,1,0,0,mobile
+741,491,Holiday Push,sms,2026-02-05 09:00:00,0,0,1,mobile
+742,887,Winback Flow,email,2025-07-13 04:00:00,1,0,0,mobile
+743,180,Winback Flow,social_ad,2025-07-28 07:00:00,1,0,0,mobile
+744,29,Holiday Push,sms,2024-09-01 17:00:00,1,0,0,mobile
+745,447,Referral Blast,push,2025-12-05 00:00:00,1,0,0,mobile
+746,405,Referral Blast,email,2024-09-12 17:00:00,1,1,0,mobile
+747,934,Creator Campaign,email,2024-08-28 13:00:00,1,0,0,tablet
+748,829,Back to School,sms,2026-02-04 06:00:00,1,0,0,desktop
+749,128,Black Friday,sms,2024-03-12 09:00:00,1,1,1,tablet
+750,848,Holiday Push,social_ad,2024-10-17 15:00:00,1,1,0,mobile
+751,591,Back to School,email,2024-03-19 19:00:00,0,0,0,desktop
+752,179,Holiday Push,email,2025-01-08 13:00:00,0,0,0,desktop
+753,655,Referral Blast,email,2025-11-16 23:00:00,1,0,0,mobile
+754,1035,Winback Flow,push,2025-07-02 03:00:00,0,1,0,mobile
+755,154,Retention Nudge,push,2024-04-23 20:00:00,1,0,0,desktop
+756,591,Retention Nudge,email,2024-01-12 12:00:00,0,1,0,desktop
+757,1185,Back to School,sms,2025-11-08 04:00:00,0,0,0,mobile
+758,484,Black Friday,email,2024-07-07 05:00:00,0,0,1,desktop
+759,1005,Retention Nudge,social_ad,2024-03-06 23:00:00,1,1,0,desktop
+760,1187,Winback Flow,sms,2026-01-31 16:00:00,0,0,0,mobile
+761,1071,Summer Promo,sms,2025-12-30 10:00:00,1,0,0,mobile
+762,302,Black Friday,email,2025-08-17 06:00:00,1,0,0,mobile
+763,80,Winback Flow,social_ad,2024-02-12 02:00:00,1,1,0,mobile
+764,1061,Back to School,email,2025-11-27 17:00:00,1,0,1,desktop
+765,15,Referral Blast,email,2025-12-05 02:00:00,1,0,0,mobile
+766,471,Winback Flow,push,2025-05-07 05:00:00,0,0,0,desktop
+767,291,Black Friday,push,2024-05-31 23:00:00,0,0,0,desktop
+768,1020,Summer Promo,email,2025-10-31 21:00:00,0,0,0,desktop
+769,901,Summer Promo,email,2024-11-03 23:00:00,0,0,0,desktop
+770,71,Holiday Push,push,2025-06-15 07:00:00,1,0,0,mobile
+771,633,Summer Promo,email,2024-04-02 19:00:00,1,0,1,mobile
+772,13,Back to School,push,2024-09-30 03:00:00,1,0,0,desktop
+773,417,Winback Flow,social_ad,2025-06-05 17:00:00,1,0,1,desktop
+774,513,Back to School,push,2024-11-10 08:00:00,1,0,1,desktop
+775,509,Back to School,email,2024-06-04 10:00:00,0,0,0,tablet
+776,284,Winback Flow,push,2025-05-12 09:00:00,1,1,0,desktop
+777,615,Retention Nudge,push,2024-09-30 19:00:00,1,0,0,mobile
+778,1027,Winback Flow,email,2024-04-04 15:00:00,1,0,0,desktop
+779,539,Creator Campaign,push,2024-12-05 17:00:00,1,1,0,mobile
+780,1023,Back to School,sms,2025-05-01 23:00:00,0,0,0,desktop
+781,441,Referral Blast,email,2024-02-14 04:00:00,1,0,0,mobile
+782,1039,Referral Blast,social_ad,2025-08-20 04:00:00,1,0,0,mobile
+783,389,Referral Blast,push,2025-11-17 20:00:00,1,0,0,tablet
+784,135,Black Friday,social_ad,2024-03-24 01:00:00,1,1,0,mobile
+785,141,Black Friday,email,2025-01-18 14:00:00,1,0,0,tablet
+786,22,Summer Promo,email,2025-09-03 02:00:00,1,0,0,mobile
+787,492,Winback Flow,email,2024-10-26 20:00:00,1,1,0,mobile
+788,911,Winback Flow,push,2026-01-26 18:00:00,1,0,0,mobile
+789,359,Summer Promo,push,2025-08-14 22:00:00,0,0,0,mobile
+790,186,Back to School,social_ad,2024-09-02 09:00:00,0,0,0,mobile
+791,313,Summer Promo,social_ad,2024-01-29 21:00:00,0,0,0,mobile
+792,714,Referral Blast,push,2024-11-04 04:00:00,0,0,0,desktop
+793,799,Back to School,email,2024-02-17 10:00:00,1,0,0,desktop
+794,115,Referral Blast,email,2024-07-27 03:00:00,0,0,0,mobile
+795,868,Black Friday,social_ad,2025-01-20 05:00:00,0,0,0,desktop
+796,577,Retention Nudge,email,2025-07-27 09:00:00,1,0,0,mobile
+797,960,Summer Promo,sms,2024-03-08 17:00:00,0,0,0,mobile
+798,1106,Back to School,social_ad,2025-04-24 13:00:00,0,0,0,mobile
+799,180,Creator Campaign,push,2025-09-17 13:00:00,0,1,0,desktop
+800,876,Creator Campaign,email,2025-12-07 15:00:00,1,0,0,mobile
+801,897,Referral Blast,email,2025-10-10 17:00:00,1,1,0,tablet
+802,1154,Creator Campaign,social_ad,2025-12-19 05:00:00,0,0,0,desktop
+803,41,Holiday Push,email,2025-03-03 04:00:00,0,1,0,mobile
+804,1009,Back to School,sms,2024-11-04 05:00:00,1,0,1,mobile
+805,1119,Summer Promo,email,2025-01-10 22:00:00,0,0,0,mobile
+806,119,Holiday Push,push,2025-10-05 02:00:00,1,0,0,mobile
+807,633,Winback Flow,email,2024-04-05 22:00:00,1,1,0,tablet
+808,60,Retention Nudge,email,2024-03-05 01:00:00,0,0,0,desktop
+809,308,Creator Campaign,email,2025-06-23 23:00:00,1,0,0,mobile
+810,367,Retention Nudge,social_ad,2024-12-18 18:00:00,1,1,0,mobile
+811,793,Referral Blast,email,2024-08-04 01:00:00,1,0,1,mobile
+812,238,Black Friday,email,2024-12-18 03:00:00,1,1,1,desktop
+813,1142,Black Friday,push,2025-05-05 13:00:00,1,0,0,mobile
+814,244,Summer Promo,social_ad,2024-06-13 10:00:00,1,1,0,mobile
+815,1035,Winback Flow,email,2024-11-23 04:00:00,1,0,0,desktop
+816,87,Winback Flow,email,2025-06-10 00:00:00,0,0,0,mobile
+817,854,Referral Blast,social_ad,2024-11-13 19:00:00,0,1,0,mobile
+818,562,Summer Promo,email,2024-01-26 11:00:00,1,0,0,desktop
+819,50,Summer Promo,social_ad,2025-03-04 18:00:00,0,0,1,mobile
+820,1037,Winback Flow,email,2025-01-17 01:00:00,1,0,0,mobile
+821,685,Holiday Push,email,2024-11-03 20:00:00,1,0,0,desktop
+822,973,Black Friday,sms,2025-11-04 02:00:00,1,1,0,tablet
+823,531,Back to School,push,2026-02-05 00:00:00,0,0,0,mobile
+824,580,Black Friday,social_ad,2024-05-08 01:00:00,1,0,0,desktop
+825,45,Creator Campaign,social_ad,2025-05-05 06:00:00,1,0,0,desktop
+826,1145,Holiday Push,email,2025-06-20 14:00:00,1,0,0,mobile
+827,679,Back to School,email,2025-07-10 14:00:00,0,1,0,mobile
+828,460,Winback Flow,email,2024-05-09 12:00:00,0,1,0,desktop
+829,1070,Referral Blast,social_ad,2024-06-13 05:00:00,0,0,0,mobile
+830,237,Back to School,email,2024-09-17 09:00:00,1,1,0,desktop
+831,394,Black Friday,social_ad,2024-08-26 07:00:00,0,0,0,mobile
+832,112,Retention Nudge,sms,2024-11-25 17:00:00,1,0,0,tablet
+833,152,Winback Flow,push,2024-06-28 21:00:00,0,0,0,tablet
+834,984,Retention Nudge,sms,2024-03-02 06:00:00,1,0,0,desktop
+835,31,Referral Blast,social_ad,2026-02-05 15:00:00,0,0,0,mobile
+836,489,Holiday Push,email,2024-01-29 04:00:00,1,0,0,mobile
+837,1112,Referral Blast,email,2024-08-07 10:00:00,1,0,0,desktop
+838,678,Summer Promo,sms,2024-05-22 06:00:00,1,0,0,mobile
+839,357,Retention Nudge,push,2024-01-25 13:00:00,1,0,0,desktop
+840,170,Back to School,email,2025-04-24 09:00:00,1,0,0,mobile
+841,970,Referral Blast,push,2026-01-29 11:00:00,0,0,0,mobile
+842,1088,Black Friday,social_ad,2024-02-24 16:00:00,1,0,0,mobile
+843,1040,Creator Campaign,social_ad,2024-07-25 05:00:00,0,1,0,mobile
+844,541,Back to School,push,2025-02-06 01:00:00,0,0,0,mobile
+845,205,Black Friday,push,2024-04-08 12:00:00,1,0,0,desktop
+846,700,Black Friday,social_ad,2024-11-15 07:00:00,0,0,0,desktop
+847,624,Creator Campaign,social_ad,2024-10-13 07:00:00,1,0,0,desktop
+848,1031,Black Friday,push,2025-08-21 03:00:00,1,0,1,desktop
+849,630,Holiday Push,social_ad,2025-08-09 04:00:00,0,0,0,desktop
+850,646,Black Friday,social_ad,2024-12-20 21:00:00,1,0,0,mobile
+851,587,Back to School,email,2025-04-08 23:00:00,1,0,0,mobile
+852,605,Black Friday,email,2025-10-28 13:00:00,1,0,0,desktop
+853,402,Creator Campaign,social_ad,2026-01-10 07:00:00,1,0,0,mobile
+854,558,Retention Nudge,email,2024-08-24 01:00:00,0,0,0,mobile
+855,91,Summer Promo,email,2024-01-17 06:00:00,1,0,0,mobile
+856,695,Back to School,email,2025-11-13 21:00:00,0,0,0,tablet
+857,1026,Winback Flow,email,2025-07-14 02:00:00,1,0,1,mobile
+858,1052,Summer Promo,email,2024-05-01 11:00:00,1,0,0,mobile
+859,703,Retention Nudge,social_ad,2024-12-24 07:00:00,0,0,0,mobile
+860,257,Holiday Push,email,2024-01-04 13:00:00,1,0,0,mobile
+861,739,Back to School,email,2025-09-08 04:00:00,0,1,0,desktop
+862,69,Holiday Push,sms,2025-07-02 21:00:00,1,0,0,mobile
+863,566,Retention Nudge,email,2026-01-21 23:00:00,0,0,0,mobile
+864,1167,Holiday Push,email,2025-09-18 02:00:00,1,0,0,desktop
+865,492,Back to School,push,2025-11-01 08:00:00,1,0,0,desktop
+866,488,Black Friday,social_ad,2025-03-29 06:00:00,0,0,0,mobile
+867,361,Summer Promo,email,2024-08-06 02:00:00,1,0,0,mobile
+868,1087,Creator Campaign,email,2025-09-21 06:00:00,1,1,0,desktop
+869,723,Retention Nudge,email,2025-01-25 23:00:00,1,1,0,desktop
+870,1130,Black Friday,email,2024-12-10 12:00:00,1,0,0,desktop
+871,122,Back to School,sms,2024-12-15 21:00:00,1,0,0,mobile
+872,20,Black Friday,email,2024-06-09 04:00:00,0,0,1,mobile
+873,37,Winback Flow,email,2025-10-15 17:00:00,1,0,0,mobile
+874,1115,Black Friday,email,2025-01-18 06:00:00,1,0,0,desktop
+875,1016,Retention Nudge,social_ad,2025-12-24 09:00:00,1,0,0,mobile
+876,1181,Summer Promo,email,2025-11-21 21:00:00,0,1,0,desktop
+877,922,Referral Blast,push,2025-12-13 04:00:00,1,0,0,mobile
+878,134,Summer Promo,sms,2025-08-31 11:00:00,1,0,0,mobile
+879,574,Creator Campaign,email,2024-08-05 05:00:00,1,1,0,desktop
+880,156,Retention Nudge,email,2025-02-09 10:00:00,0,0,0,mobile
+881,758,Back to School,social_ad,2025-07-13 06:00:00,0,0,0,mobile
+882,523,Referral Blast,social_ad,2025-08-31 03:00:00,1,0,0,mobile
+883,343,Retention Nudge,sms,2025-03-21 03:00:00,0,0,0,mobile
+884,544,Referral Blast,email,2024-02-15 03:00:00,0,0,0,desktop
+885,929,Summer Promo,email,2024-02-11 23:00:00,1,1,0,mobile
+886,463,Black Friday,email,2025-08-26 16:00:00,1,0,0,desktop
+887,12,Summer Promo,push,2024-10-08 00:00:00,1,1,0,tablet
+888,155,Holiday Push,social_ad,2025-04-05 14:00:00,1,1,1,mobile
+889,863,Retention Nudge,social_ad,2025-12-04 20:00:00,0,0,0,tablet
+890,205,Holiday Push,email,2025-10-08 01:00:00,1,0,0,mobile
+891,1151,Winback Flow,push,2026-01-23 00:00:00,1,1,0,desktop
+892,452,Retention Nudge,email,2026-01-12 23:00:00,1,0,0,desktop
+893,495,Referral Blast,social_ad,2024-04-22 14:00:00,0,1,0,mobile
+894,1157,Winback Flow,email,2024-11-12 19:00:00,1,1,0,mobile
+895,359,Summer Promo,email,2025-03-16 06:00:00,1,0,0,desktop
+896,737,Holiday Push,push,2024-04-07 11:00:00,1,1,0,tablet
+897,494,Holiday Push,social_ad,2024-08-14 20:00:00,1,0,0,mobile
+898,657,Black Friday,sms,2025-09-23 14:00:00,0,0,0,mobile
+899,1013,Retention Nudge,email,2024-07-25 03:00:00,0,0,0,mobile
+900,1119,Retention Nudge,social_ad,2024-12-01 04:00:00,1,0,0,tablet
+901,379,Referral Blast,email,2025-01-19 03:00:00,1,1,0,mobile
+902,524,Summer Promo,email,2025-11-07 05:00:00,0,0,0,desktop
+903,97,Winback Flow,push,2024-01-24 20:00:00,0,1,0,mobile
+904,641,Black Friday,push,2024-02-03 04:00:00,1,0,0,desktop
+905,1012,Retention Nudge,push,2025-08-10 06:00:00,1,1,0,desktop
+906,1106,Winback Flow,social_ad,2025-12-26 10:00:00,1,0,0,mobile
+907,467,Black Friday,social_ad,2024-03-26 17:00:00,1,1,0,mobile
+908,93,Summer Promo,email,2024-12-17 01:00:00,0,0,1,tablet
+909,1149,Holiday Push,email,2024-07-08 04:00:00,1,0,0,tablet
+910,548,Black Friday,social_ad,2025-04-29 23:00:00,1,0,0,mobile
+911,1087,Creator Campaign,email,2024-01-14 21:00:00,0,0,0,mobile
+912,762,Holiday Push,sms,2025-08-28 15:00:00,1,0,0,desktop
+913,1059,Referral Blast,social_ad,2025-10-22 15:00:00,1,0,0,mobile
+914,280,Summer Promo,push,2026-01-09 08:00:00,1,1,0,mobile
+915,167,Back to School,push,2024-08-22 11:00:00,0,0,0,tablet
+916,78,Referral Blast,push,2025-10-05 17:00:00,0,0,0,mobile
+917,889,Holiday Push,email,2025-12-25 05:00:00,0,1,0,desktop
+918,227,Referral Blast,email,2024-11-14 05:00:00,1,0,1,mobile
+919,1199,Holiday Push,social_ad,2025-10-13 09:00:00,1,0,0,desktop
+920,1046,Creator Campaign,email,2024-05-22 17:00:00,0,0,0,mobile
+921,794,Summer Promo,social_ad,2024-10-31 02:00:00,1,0,0,mobile
+922,571,Black Friday,email,2026-01-09 07:00:00,1,0,0,mobile
+923,960,Referral Blast,email,2024-10-19 15:00:00,0,1,0,desktop
+924,383,Holiday Push,sms,2025-10-27 18:00:00,1,0,0,tablet
+925,853,Winback Flow,email,2025-05-11 20:00:00,0,0,0,desktop
+926,408,Summer Promo,email,2025-09-18 23:00:00,1,0,1,mobile
+927,309,Holiday Push,sms,2025-09-24 21:00:00,1,0,1,desktop
+928,756,Winback Flow,email,2024-01-06 11:00:00,0,0,0,desktop
+929,953,Creator Campaign,email,2024-03-23 11:00:00,1,1,0,mobile
+930,728,Winback Flow,sms,2024-01-06 08:00:00,1,1,1,desktop
+931,474,Referral Blast,sms,2026-01-03 06:00:00,1,0,0,mobile
+932,449,Back to School,email,2024-01-12 09:00:00,1,0,0,mobile
+933,558,Winback Flow,email,2024-09-13 19:00:00,1,0,0,mobile
+934,741,Summer Promo,email,2025-07-22 03:00:00,1,0,0,mobile
+935,1048,Creator Campaign,sms,2025-08-03 17:00:00,1,0,0,mobile
+936,797,Retention Nudge,push,2024-05-26 22:00:00,1,0,0,mobile
+937,600,Retention Nudge,sms,2025-06-12 15:00:00,1,0,0,desktop
+938,490,Summer Promo,email,2024-10-25 07:00:00,1,0,0,desktop
+939,423,Referral Blast,email,2025-11-20 15:00:00,1,0,0,tablet
+940,24,Winback Flow,email,2024-04-24 08:00:00,1,0,1,desktop
+941,44,Winback Flow,social_ad,2024-05-26 19:00:00,1,0,0,tablet
+942,104,Summer Promo,push,2024-08-20 00:00:00,1,0,0,mobile
+943,16,Winback Flow,email,2025-07-12 03:00:00,1,0,0,tablet
+944,186,Referral Blast,sms,2024-08-15 19:00:00,1,0,0,mobile
+945,614,Retention Nudge,sms,2024-03-12 03:00:00,1,0,0,mobile
+946,706,Holiday Push,email,2024-01-13 15:00:00,1,0,0,desktop
+947,959,Back to School,social_ad,2025-01-17 18:00:00,0,0,0,mobile
+948,345,Holiday Push,email,2025-07-04 13:00:00,0,0,0,mobile
+949,441,Winback Flow,email,2024-03-14 13:00:00,1,0,1,mobile
+950,626,Holiday Push,social_ad,2024-09-15 16:00:00,0,0,0,mobile
+951,590,Holiday Push,email,2026-01-27 23:00:00,1,0,0,desktop
+952,684,Referral Blast,social_ad,2024-08-27 01:00:00,1,0,0,desktop
+953,535,Back to School,sms,2024-08-06 09:00:00,0,0,0,mobile
+954,981,Referral Blast,email,2026-02-09 20:00:00,1,0,0,mobile
+955,44,Retention Nudge,email,2024-12-10 11:00:00,1,0,1,mobile
+956,470,Referral Blast,email,2025-06-11 04:00:00,1,0,0,mobile
+957,1082,Retention Nudge,sms,2025-07-21 04:00:00,1,1,0,mobile
+958,1144,Holiday Push,social_ad,2025-10-12 17:00:00,1,0,0,desktop
+959,165,Winback Flow,email,2024-04-09 12:00:00,0,0,0,mobile
+960,175,Referral Blast,email,2024-08-26 14:00:00,0,0,0,desktop
+961,1056,Retention Nudge,sms,2025-08-18 10:00:00,1,1,0,mobile
+962,1005,Summer Promo,social_ad,2025-07-02 00:00:00,0,1,0,tablet
+963,993,Creator Campaign,email,2024-08-19 04:00:00,0,0,0,desktop
+964,780,Referral Blast,email,2024-05-04 09:00:00,1,0,0,desktop
+965,703,Creator Campaign,sms,2024-08-16 11:00:00,1,1,0,desktop
+966,1094,Referral Blast,social_ad,2024-10-28 04:00:00,0,0,1,mobile
+967,1065,Creator Campaign,social_ad,2024-11-08 13:00:00,1,0,0,mobile
+968,1113,Back to School,social_ad,2025-02-28 06:00:00,0,0,0,mobile
+969,108,Creator Campaign,email,2025-03-30 05:00:00,1,0,0,mobile
+970,409,Retention Nudge,social_ad,2024-08-02 05:00:00,1,0,0,desktop
+971,318,Black Friday,email,2025-06-21 07:00:00,0,0,0,desktop
+972,987,Creator Campaign,email,2026-02-09 04:00:00,1,0,0,mobile
+973,536,Creator Campaign,push,2024-03-03 09:00:00,1,0,1,tablet
+974,977,Holiday Push,email,2024-09-01 04:00:00,1,1,0,desktop
+975,59,Creator Campaign,email,2025-12-12 09:00:00,0,0,0,desktop
+976,723,Winback Flow,social_ad,2024-06-12 12:00:00,1,0,0,mobile
+977,663,Winback Flow,push,2024-12-17 17:00:00,1,0,0,desktop
+978,538,Winback Flow,push,2025-09-23 05:00:00,1,0,0,desktop
+979,104,Holiday Push,email,2025-01-10 17:00:00,1,0,0,mobile
+980,508,Referral Blast,sms,2024-06-18 07:00:00,0,0,0,tablet
+981,1040,Black Friday,email,2024-05-03 00:00:00,0,0,0,desktop
+982,726,Summer Promo,social_ad,2024-04-11 16:00:00,1,1,0,mobile
+983,1099,Retention Nudge,email,2025-10-25 08:00:00,0,0,0,desktop
+984,668,Referral Blast,social_ad,2026-01-17 00:00:00,1,0,0,mobile
+985,191,Creator Campaign,social_ad,2026-02-03 21:00:00,0,0,0,mobile
+986,1058,Winback Flow,email,2024-09-16 07:00:00,1,1,0,desktop
+987,361,Black Friday,push,2025-06-18 22:00:00,0,0,0,mobile
+988,1000,Winback Flow,email,2025-04-30 07:00:00,0,0,0,desktop
+989,1185,Retention Nudge,email,2025-10-13 08:00:00,0,0,0,mobile
+990,1174,Creator Campaign,sms,2024-02-17 18:00:00,1,0,0,desktop
+991,574,Winback Flow,email,2024-09-22 21:00:00,1,1,0,desktop
+992,1094,Retention Nudge,social_ad,2025-05-24 02:00:00,1,0,0,mobile
+993,414,Holiday Push,email,2025-10-18 02:00:00,1,0,0,mobile
+994,79,Back to School,email,2024-05-27 09:00:00,0,0,0,mobile
+995,147,Holiday Push,push,2025-02-20 04:00:00,1,0,0,mobile
+996,838,Creator Campaign,social_ad,2026-01-09 09:00:00,1,0,0,desktop
+997,444,Referral Blast,email,2024-04-07 07:00:00,1,0,0,mobile
+998,897,Retention Nudge,email,2024-12-25 08:00:00,1,0,0,mobile
+999,507,Back to School,email,2024-07-12 23:00:00,1,0,0,tablet
+1000,346,Black Friday,push,2025-04-28 01:00:00,1,1,0,desktop
+1001,711,Creator Campaign,email,2024-11-25 10:00:00,1,0,0,mobile
+1002,801,Referral Blast,sms,2026-02-12 22:00:00,1,0,1,mobile
+1003,1126,Referral Blast,email,2024-07-14 09:00:00,0,1,0,tablet
+1004,235,Retention Nudge,email,2024-05-02 08:00:00,0,1,0,mobile
+1005,949,Back to School,email,2025-10-24 11:00:00,0,0,0,desktop
+1006,227,Summer Promo,social_ad,2025-04-10 21:00:00,1,1,0,desktop
+1007,922,Creator Campaign,email,2025-07-25 01:00:00,1,0,0,tablet
+1008,277,Retention Nudge,sms,2024-09-14 18:00:00,1,0,0,mobile
+1009,387,Holiday Push,email,2024-05-27 21:00:00,0,0,0,mobile
+1010,849,Summer Promo,push,2025-09-25 13:00:00,1,1,1,desktop
+1011,1091,Holiday Push,social_ad,2025-01-04 04:00:00,1,0,0,desktop
+1012,216,Holiday Push,email,2025-10-11 11:00:00,1,0,0,mobile
+1013,218,Summer Promo,sms,2025-10-16 08:00:00,1,0,0,desktop
+1014,1050,Retention Nudge,sms,2025-08-30 00:00:00,1,0,0,mobile
+1015,918,Back to School,social_ad,2026-02-14 05:00:00,1,0,0,desktop
+1016,927,Winback Flow,push,2024-10-11 10:00:00,0,0,0,mobile
+1017,843,Creator Campaign,email,2024-10-08 11:00:00,0,0,0,mobile
+1018,308,Black Friday,push,2024-12-23 18:00:00,1,0,0,mobile
+1019,1000,Creator Campaign,email,2025-01-15 00:00:00,1,0,0,desktop
+1020,465,Back to School,social_ad,2025-03-15 06:00:00,1,1,0,mobile
+1021,473,Retention Nudge,sms,2025-05-01 22:00:00,0,0,0,desktop
+1022,413,Referral Blast,push,2025-03-01 09:00:00,1,0,0,desktop
+1023,1015,Summer Promo,email,2025-01-17 07:00:00,0,1,0,desktop
+1024,201,Summer Promo,push,2024-04-24 05:00:00,0,1,0,desktop
+1025,500,Referral Blast,email,2024-10-26 12:00:00,1,0,0,desktop
+1026,123,Black Friday,social_ad,2024-02-24 15:00:00,1,0,0,mobile
+1027,674,Referral Blast,email,2025-10-26 01:00:00,1,0,0,mobile
+1028,43,Holiday Push,sms,2025-06-27 06:00:00,0,0,0,mobile
+1029,1105,Winback Flow,email,2024-09-20 05:00:00,1,0,1,mobile
+1030,306,Winback Flow,push,2025-02-05 06:00:00,1,0,0,mobile
+1031,102,Winback Flow,social_ad,2024-09-02 02:00:00,1,0,0,mobile
+1032,736,Black Friday,push,2024-06-30 12:00:00,1,0,0,mobile
+1033,1019,Holiday Push,email,2025-12-05 10:00:00,0,0,0,mobile
+1034,542,Summer Promo,social_ad,2024-10-15 15:00:00,1,0,0,tablet
+1035,410,Black Friday,email,2025-11-30 09:00:00,0,0,1,tablet
+1036,1005,Retention Nudge,push,2025-02-09 12:00:00,0,0,0,mobile
+1037,295,Referral Blast,email,2024-08-21 10:00:00,1,0,0,mobile
+1038,33,Retention Nudge,email,2024-04-11 12:00:00,0,0,0,tablet
+1039,611,Back to School,push,2025-06-16 07:00:00,1,0,0,mobile
+1040,1040,Summer Promo,email,2024-02-17 05:00:00,0,0,0,desktop
+1041,573,Black Friday,email,2025-08-29 14:00:00,0,1,0,desktop
+1042,434,Retention Nudge,social_ad,2024-01-04 19:00:00,1,1,1,desktop
+1043,417,Holiday Push,email,2025-12-03 18:00:00,0,0,1,desktop
+1044,802,Retention Nudge,social_ad,2024-09-29 19:00:00,0,0,1,desktop
+1045,403,Creator Campaign,email,2024-10-13 15:00:00,1,0,0,mobile
+1046,689,Back to School,push,2025-01-07 07:00:00,0,0,0,mobile
+1047,216,Holiday Push,email,2025-02-02 05:00:00,0,0,1,mobile
+1048,597,Black Friday,social_ad,2026-01-29 10:00:00,1,0,0,desktop
+1049,854,Referral Blast,email,2024-06-02 22:00:00,1,0,0,desktop
+1050,931,Back to School,push,2024-05-16 13:00:00,1,0,0,desktop
+1051,1104,Black Friday,sms,2024-03-24 16:00:00,0,1,0,desktop
+1052,324,Retention Nudge,sms,2025-09-09 20:00:00,0,1,0,mobile
+1053,979,Black Friday,email,2025-02-23 23:00:00,0,0,0,mobile
+1054,428,Back to School,push,2024-03-03 02:00:00,1,0,0,mobile
+1055,1195,Referral Blast,social_ad,2025-03-17 02:00:00,0,0,0,desktop
+1056,794,Back to School,email,2024-04-04 13:00:00,0,0,0,desktop
+1057,382,Referral Blast,email,2025-03-25 07:00:00,0,1,0,tablet
+1058,938,Back to School,email,2024-05-25 03:00:00,1,0,1,desktop
+1059,715,Creator Campaign,email,2025-10-26 14:00:00,0,0,0,desktop
+1060,138,Winback Flow,email,2025-08-26 08:00:00,1,0,0,mobile
+1061,997,Creator Campaign,push,2024-11-01 08:00:00,1,0,0,mobile
+1062,366,Holiday Push,email,2025-05-05 23:00:00,0,0,0,mobile
+1063,700,Back to School,email,2024-01-25 08:00:00,1,0,0,mobile
+1064,907,Holiday Push,push,2024-08-18 07:00:00,0,0,0,mobile
+1065,935,Holiday Push,social_ad,2026-01-18 12:00:00,1,0,0,desktop
+1066,892,Summer Promo,sms,2025-09-04 03:00:00,1,0,0,mobile
+1067,817,Winback Flow,social_ad,2024-05-20 14:00:00,0,0,0,desktop
+1068,502,Summer Promo,push,2024-06-02 08:00:00,0,0,1,desktop
+1069,103,Winback Flow,push,2025-08-12 13:00:00,1,0,0,mobile
+1070,453,Back to School,email,2026-02-10 12:00:00,0,0,0,tablet
+1071,954,Summer Promo,social_ad,2024-02-09 01:00:00,0,0,0,mobile
+1072,355,Summer Promo,email,2025-08-26 16:00:00,0,0,0,mobile
+1073,443,Black Friday,email,2024-07-31 22:00:00,1,0,0,tablet
+1074,1138,Referral Blast,email,2025-10-16 23:00:00,0,0,0,mobile
+1075,971,Holiday Push,push,2025-08-18 02:00:00,1,1,0,tablet
+1076,419,Retention Nudge,email,2025-05-27 15:00:00,0,0,0,mobile
+1077,748,Summer Promo,push,2025-11-11 20:00:00,1,0,0,mobile
+1078,380,Holiday Push,email,2025-03-04 07:00:00,0,0,1,mobile
+1079,1032,Referral Blast,social_ad,2024-03-17 03:00:00,0,0,0,desktop
+1080,212,Retention Nudge,email,2025-04-09 17:00:00,1,0,0,desktop
+1081,291,Summer Promo,social_ad,2026-01-29 12:00:00,1,1,0,desktop
+1082,1175,Summer Promo,push,2025-01-27 20:00:00,1,1,0,mobile
+1083,897,Winback Flow,sms,2025-06-22 15:00:00,0,1,0,desktop
+1084,240,Back to School,social_ad,2024-08-13 10:00:00,0,0,0,mobile
+1085,947,Black Friday,social_ad,2024-02-19 11:00:00,1,1,0,mobile
+1086,615,Winback Flow,social_ad,2024-08-05 09:00:00,0,0,0,mobile
+1087,703,Holiday Push,push,2025-02-25 16:00:00,0,1,0,tablet
+1088,603,Summer Promo,email,2024-01-03 01:00:00,0,0,0,desktop
+1089,535,Creator Campaign,sms,2025-04-04 19:00:00,1,0,0,mobile
+1090,336,Referral Blast,email,2025-04-12 21:00:00,1,0,0,desktop
+1091,817,Creator Campaign,email,2025-08-22 07:00:00,1,1,0,desktop
+1092,795,Black Friday,email,2025-10-28 03:00:00,1,1,0,desktop
+1093,84,Holiday Push,email,2025-02-25 04:00:00,0,0,0,desktop
+1094,1175,Winback Flow,social_ad,2025-07-11 14:00:00,0,0,0,mobile
+1095,807,Back to School,email,2024-05-15 18:00:00,1,1,0,desktop
+1096,476,Summer Promo,social_ad,2025-07-06 12:00:00,1,1,0,desktop
+1097,1004,Black Friday,social_ad,2025-10-24 13:00:00,0,1,0,mobile
+1098,473,Retention Nudge,sms,2025-04-08 13:00:00,1,0,0,tablet
+1099,790,Black Friday,sms,2025-09-30 12:00:00,1,1,0,mobile
+1100,263,Referral Blast,social_ad,2024-08-23 11:00:00,0,0,0,desktop
+1101,826,Creator Campaign,email,2025-05-01 07:00:00,1,0,0,mobile
+1102,928,Summer Promo,push,2024-01-12 00:00:00,0,0,0,mobile
+1103,23,Summer Promo,sms,2025-01-04 11:00:00,1,0,0,desktop
+1104,1145,Winback Flow,email,2024-09-19 00:00:00,1,0,0,desktop
+1105,401,Referral Blast,social_ad,2024-10-09 03:00:00,1,0,0,desktop
+1106,1026,Creator Campaign,email,2025-06-06 07:00:00,1,1,1,mobile
+1107,201,Creator Campaign,push,2025-08-10 01:00:00,1,0,0,mobile
+1108,650,Back to School,social_ad,2024-03-08 14:00:00,1,0,0,mobile
+1109,269,Retention Nudge,email,2024-06-01 17:00:00,0,1,0,desktop
+1110,961,Back to School,sms,2024-01-05 20:00:00,1,0,0,desktop
+1111,1019,Retention Nudge,social_ad,2025-09-03 00:00:00,1,0,0,mobile
+1112,1190,Back to School,email,2025-05-09 20:00:00,1,0,1,mobile
+1113,1100,Retention Nudge,sms,2025-11-03 16:00:00,1,0,0,mobile
+1114,254,Holiday Push,email,2025-11-27 12:00:00,1,0,0,desktop
+1115,766,Creator Campaign,email,2025-06-12 05:00:00,1,0,0,desktop
+1116,141,Referral Blast,email,2025-02-28 22:00:00,1,1,0,desktop
+1117,535,Winback Flow,email,2025-02-28 13:00:00,1,1,1,mobile
+1118,1132,Retention Nudge,email,2024-02-11 05:00:00,0,0,0,mobile
+1119,269,Holiday Push,social_ad,2025-10-18 00:00:00,0,1,1,desktop
+1120,297,Referral Blast,email,2025-07-28 00:00:00,0,1,0,mobile
+1121,617,Summer Promo,email,2024-06-23 05:00:00,1,0,0,desktop
+1122,888,Winback Flow,email,2024-10-28 12:00:00,1,0,0,mobile
+1123,847,Creator Campaign,social_ad,2024-03-26 22:00:00,0,1,0,mobile
+1124,969,Retention Nudge,push,2024-11-29 02:00:00,0,0,0,desktop
+1125,1151,Referral Blast,email,2025-12-16 11:00:00,1,0,0,tablet
+1126,839,Back to School,email,2025-03-19 12:00:00,1,0,1,desktop
+1127,727,Referral Blast,email,2024-07-06 12:00:00,1,1,0,desktop
+1128,612,Winback Flow,sms,2025-05-24 01:00:00,1,0,1,mobile
+1129,1086,Referral Blast,email,2024-08-11 17:00:00,0,1,0,mobile
+1130,1170,Summer Promo,email,2024-07-24 06:00:00,1,0,0,mobile
+1131,1070,Retention Nudge,social_ad,2024-06-28 06:00:00,0,0,1,mobile
+1132,1184,Retention Nudge,social_ad,2024-09-28 00:00:00,1,1,0,desktop
+1133,384,Summer Promo,social_ad,2025-12-29 03:00:00,1,0,0,mobile
+1134,160,Summer Promo,email,2025-02-08 19:00:00,0,0,0,desktop
+1135,522,Black Friday,sms,2025-04-11 12:00:00,1,0,0,desktop
+1136,749,Holiday Push,social_ad,2025-08-12 17:00:00,1,0,0,mobile
+1137,608,Back to School,sms,2025-04-03 14:00:00,1,0,0,mobile
+1138,430,Creator Campaign,email,2024-06-20 14:00:00,1,0,1,tablet
+1139,1133,Retention Nudge,sms,2024-11-18 18:00:00,1,1,0,mobile
+1140,936,Retention Nudge,social_ad,2024-09-25 01:00:00,1,0,0,desktop
+1141,660,Holiday Push,social_ad,2024-01-27 23:00:00,1,0,1,mobile
+1142,317,Creator Campaign,email,2024-11-03 14:00:00,0,0,0,desktop
+1143,274,Black Friday,email,2024-02-19 19:00:00,0,0,0,mobile
+1144,796,Black Friday,social_ad,2025-03-19 08:00:00,1,0,0,mobile
+1145,291,Retention Nudge,social_ad,2025-12-05 10:00:00,1,1,1,mobile
+1146,941,Retention Nudge,push,2025-08-24 13:00:00,1,0,0,mobile
+1147,515,Creator Campaign,push,2026-01-04 19:00:00,1,0,0,desktop
+1148,1027,Winback Flow,email,2025-04-27 03:00:00,1,0,0,mobile
+1149,880,Summer Promo,push,2025-09-10 02:00:00,1,0,0,desktop
+1150,90,Retention Nudge,email,2025-02-23 17:00:00,1,0,0,mobile
+1151,235,Creator Campaign,social_ad,2025-05-16 07:00:00,0,0,0,mobile
+1152,59,Black Friday,email,2026-01-13 01:00:00,0,1,0,mobile
+1153,1166,Creator Campaign,email,2024-03-22 14:00:00,0,0,0,mobile
+1154,823,Creator Campaign,sms,2025-04-27 15:00:00,1,0,0,mobile
+1155,96,Retention Nudge,social_ad,2025-01-27 21:00:00,1,1,0,tablet
+1156,328,Black Friday,push,2024-02-23 05:00:00,1,1,1,tablet
+1157,512,Summer Promo,email,2024-01-15 00:00:00,1,1,1,tablet
+1158,881,Creator Campaign,email,2025-12-06 22:00:00,0,0,1,desktop
+1159,445,Creator Campaign,social_ad,2024-11-11 04:00:00,1,0,0,mobile
+1160,280,Black Friday,email,2025-06-07 05:00:00,1,0,0,desktop
+1161,655,Retention Nudge,push,2024-09-11 10:00:00,0,0,0,mobile
+1162,61,Summer Promo,push,2024-07-04 04:00:00,0,0,0,mobile
+1163,208,Winback Flow,sms,2025-09-08 09:00:00,0,1,0,mobile
+1164,689,Retention Nudge,email,2024-06-18 08:00:00,1,0,0,desktop
+1165,823,Summer Promo,email,2025-11-01 22:00:00,1,0,0,desktop
+1166,223,Summer Promo,email,2024-07-09 20:00:00,1,0,0,mobile
+1167,48,Summer Promo,push,2024-05-31 23:00:00,0,0,0,mobile
+1168,529,Black Friday,push,2024-06-22 11:00:00,1,0,0,desktop
+1169,1182,Holiday Push,email,2025-10-24 00:00:00,1,0,0,mobile
+1170,164,Summer Promo,email,2024-09-15 03:00:00,0,0,0,mobile
+1171,825,Black Friday,email,2024-07-12 18:00:00,1,0,0,desktop
+1172,713,Back to School,social_ad,2024-12-07 08:00:00,1,0,0,mobile
+1173,642,Holiday Push,email,2024-06-12 10:00:00,1,0,0,mobile
+1174,798,Creator Campaign,email,2024-04-09 14:00:00,1,0,0,desktop
+1175,1148,Holiday Push,email,2024-11-23 13:00:00,1,0,0,desktop
+1176,621,Referral Blast,email,2024-08-13 13:00:00,1,0,0,mobile
+1177,54,Retention Nudge,email,2025-09-08 10:00:00,1,0,0,mobile
+1178,362,Retention Nudge,social_ad,2025-09-05 20:00:00,1,1,0,desktop
+1179,1048,Back to School,social_ad,2025-02-21 04:00:00,1,0,0,mobile
+1180,760,Black Friday,email,2025-09-22 15:00:00,0,0,0,mobile
+1181,313,Summer Promo,email,2025-11-23 15:00:00,1,1,0,mobile
+1182,393,Winback Flow,email,2024-03-01 23:00:00,1,0,0,desktop
+1183,588,Holiday Push,social_ad,2025-12-29 03:00:00,1,1,0,desktop
+1184,21,Back to School,email,2025-12-10 06:00:00,1,1,0,mobile
+1185,614,Referral Blast,push,2025-02-19 03:00:00,0,0,0,mobile
+1186,1045,Black Friday,sms,2024-08-30 05:00:00,0,1,0,desktop
+1187,1083,Holiday Push,email,2025-05-27 11:00:00,1,1,0,mobile
+1188,594,Holiday Push,push,2025-08-14 19:00:00,1,0,0,desktop
+1189,1194,Black Friday,email,2025-04-08 01:00:00,1,0,1,desktop
+1190,1179,Winback Flow,sms,2024-01-22 13:00:00,1,0,0,mobile
+1191,1121,Summer Promo,social_ad,2026-01-16 23:00:00,1,0,0,mobile
+1192,1160,Creator Campaign,sms,2024-04-26 17:00:00,1,0,0,desktop
+1193,968,Referral Blast,email,2024-05-11 07:00:00,1,0,0,mobile
+1194,529,Holiday Push,sms,2024-03-14 01:00:00,1,0,0,mobile
+1195,121,Creator Campaign,email,2024-11-06 18:00:00,0,0,1,desktop
+1196,215,Creator Campaign,push,2025-05-21 03:00:00,1,1,0,mobile
+1197,865,Referral Blast,social_ad,2024-08-16 21:00:00,0,0,0,desktop
+1198,1107,Black Friday,social_ad,2024-09-16 13:00:00,1,1,0,mobile
+1199,789,Winback Flow,social_ad,2025-09-21 01:00:00,0,1,0,desktop
+1200,1081,Retention Nudge,email,2025-12-28 17:00:00,1,1,0,mobile
+1201,644,Summer Promo,push,2025-04-23 16:00:00,0,0,0,desktop
+1202,388,Winback Flow,push,2025-07-05 00:00:00,0,1,0,mobile
+1203,292,Referral Blast,email,2025-09-05 03:00:00,1,0,0,desktop
+1204,992,Summer Promo,push,2025-10-21 14:00:00,1,0,0,desktop
+1205,689,Creator Campaign,social_ad,2025-09-24 01:00:00,1,0,0,desktop
+1206,1109,Creator Campaign,social_ad,2024-07-14 21:00:00,0,1,0,mobile
+1207,682,Retention Nudge,social_ad,2026-01-30 15:00:00,0,1,0,mobile
+1208,1039,Black Friday,email,2024-03-18 23:00:00,1,0,0,mobile
+1209,699,Winback Flow,email,2025-12-12 19:00:00,0,0,0,tablet
+1210,516,Referral Blast,email,2024-08-05 23:00:00,1,0,0,desktop
+1211,925,Winback Flow,push,2024-07-03 18:00:00,1,1,0,desktop
+1212,471,Back to School,email,2025-10-18 01:00:00,0,0,0,desktop
+1213,948,Summer Promo,social_ad,2025-08-05 23:00:00,1,0,0,desktop
+1214,416,Retention Nudge,social_ad,2026-01-19 15:00:00,0,0,0,desktop
+1215,7,Winback Flow,email,2024-08-25 16:00:00,1,0,0,tablet
+1216,186,Creator Campaign,social_ad,2024-02-01 08:00:00,1,0,0,tablet
+1217,397,Winback Flow,social_ad,2024-09-19 21:00:00,1,0,0,desktop
+1218,856,Winback Flow,email,2024-06-17 20:00:00,1,0,0,mobile
+1219,640,Retention Nudge,social_ad,2026-01-16 21:00:00,1,0,0,desktop
+1220,253,Summer Promo,email,2025-10-12 09:00:00,1,0,0,mobile
+1221,274,Black Friday,social_ad,2024-01-09 08:00:00,0,1,0,desktop
+1222,29,Summer Promo,email,2024-07-29 04:00:00,0,0,0,desktop
+1223,1130,Back to School,email,2024-02-04 22:00:00,0,0,0,desktop
+1224,1120,Holiday Push,email,2025-01-31 11:00:00,1,0,0,desktop
+1225,390,Black Friday,social_ad,2025-01-19 05:00:00,0,0,0,desktop
+1226,1151,Retention Nudge,push,2024-08-16 08:00:00,1,0,0,tablet
+1227,138,Black Friday,sms,2025-05-12 16:00:00,1,0,0,tablet
+1228,612,Referral Blast,email,2025-09-22 07:00:00,0,0,0,desktop
+1229,131,Summer Promo,sms,2024-06-20 02:00:00,1,0,0,mobile
+1230,579,Summer Promo,email,2024-10-18 14:00:00,0,0,0,mobile
+1231,645,Retention Nudge,email,2025-02-10 14:00:00,1,1,0,mobile
+1232,347,Referral Blast,email,2025-05-13 07:00:00,1,0,0,mobile
+1233,174,Summer Promo,email,2025-12-19 10:00:00,1,1,0,desktop
+1234,513,Black Friday,email,2025-12-26 20:00:00,0,0,0,mobile
+1235,860,Creator Campaign,push,2024-04-21 10:00:00,0,1,0,mobile
+1236,389,Summer Promo,sms,2024-03-12 14:00:00,1,0,0,desktop
+1237,574,Summer Promo,email,2024-03-29 05:00:00,1,0,0,desktop
+1238,238,Referral Blast,email,2024-08-19 04:00:00,1,0,0,desktop
+1239,939,Holiday Push,email,2026-01-16 18:00:00,0,0,0,desktop
+1240,518,Retention Nudge,sms,2025-08-09 04:00:00,0,0,0,desktop
+1241,817,Back to School,social_ad,2025-04-30 22:00:00,1,0,0,tablet
+1242,561,Back to School,email,2024-04-26 14:00:00,1,1,0,mobile
+1243,671,Creator Campaign,email,2024-02-19 07:00:00,0,0,0,desktop
+1244,419,Winback Flow,push,2025-10-13 22:00:00,1,1,0,mobile
+1245,81,Summer Promo,email,2025-12-25 01:00:00,1,0,0,mobile
+1246,1067,Referral Blast,social_ad,2024-12-06 12:00:00,0,1,0,desktop
+1247,920,Back to School,email,2024-10-04 03:00:00,1,0,0,tablet
+1248,431,Summer Promo,email,2024-06-08 15:00:00,1,0,0,mobile
+1249,801,Black Friday,email,2024-10-04 01:00:00,1,0,0,desktop
+1250,676,Winback Flow,email,2025-08-01 15:00:00,1,1,0,mobile
+1251,466,Back to School,email,2024-09-26 03:00:00,0,1,0,desktop
+1252,398,Winback Flow,email,2024-07-05 12:00:00,1,0,0,mobile
+1253,12,Creator Campaign,push,2026-01-05 22:00:00,0,1,0,mobile
+1254,656,Holiday Push,push,2025-11-15 03:00:00,0,0,1,desktop
+1255,1186,Retention Nudge,email,2024-02-26 17:00:00,1,0,0,mobile
+1256,1033,Holiday Push,email,2024-05-14 04:00:00,0,0,0,mobile
+1257,311,Creator Campaign,push,2024-07-25 01:00:00,0,0,0,mobile
+1258,460,Retention Nudge,email,2024-05-28 02:00:00,0,0,0,mobile
+1259,63,Retention Nudge,push,2024-07-30 14:00:00,1,0,0,mobile
+1260,660,Referral Blast,push,2024-09-16 21:00:00,1,0,0,desktop
+1261,444,Creator Campaign,email,2025-12-17 01:00:00,0,1,0,tablet
+1262,839,Winback Flow,social_ad,2025-10-25 16:00:00,0,0,0,tablet
+1263,337,Referral Blast,push,2024-01-17 15:00:00,1,0,1,mobile
+1264,398,Summer Promo,sms,2025-09-26 09:00:00,1,1,0,mobile
+1265,286,Winback Flow,email,2024-02-05 13:00:00,0,0,0,mobile
+1266,385,Black Friday,push,2025-05-30 14:00:00,1,0,0,mobile
+1267,253,Creator Campaign,sms,2024-10-07 10:00:00,1,0,0,desktop
+1268,757,Black Friday,push,2024-05-21 18:00:00,1,0,0,tablet
+1269,905,Black Friday,push,2024-04-29 19:00:00,0,0,0,desktop
+1270,299,Summer Promo,push,2025-11-21 21:00:00,0,0,0,mobile
+1271,688,Referral Blast,social_ad,2025-07-03 23:00:00,0,0,0,desktop
+1272,786,Referral Blast,social_ad,2024-12-07 17:00:00,1,1,0,mobile
+1273,496,Back to School,email,2025-05-26 19:00:00,0,1,0,mobile
+1274,82,Creator Campaign,email,2024-05-02 12:00:00,0,0,0,mobile
+1275,969,Referral Blast,push,2025-10-22 04:00:00,1,0,0,mobile
+1276,402,Creator Campaign,social_ad,2025-06-09 13:00:00,1,0,0,mobile
+1277,607,Winback Flow,email,2026-01-17 22:00:00,0,0,0,desktop
+1278,859,Retention Nudge,social_ad,2025-07-01 14:00:00,1,0,0,desktop
+1279,803,Black Friday,email,2025-01-05 23:00:00,0,0,0,tablet
+1280,273,Creator Campaign,social_ad,2026-02-02 03:00:00,0,0,0,desktop
+1281,837,Referral Blast,sms,2025-06-26 01:00:00,0,0,0,desktop
+1282,652,Holiday Push,sms,2025-09-12 11:00:00,1,0,0,mobile
+1283,216,Referral Blast,push,2024-06-10 03:00:00,1,1,0,mobile
+1284,679,Creator Campaign,social_ad,2024-02-06 22:00:00,1,0,0,mobile
+1285,815,Winback Flow,email,2024-08-05 02:00:00,1,0,0,mobile
+1286,784,Winback Flow,email,2024-04-22 10:00:00,0,0,0,desktop
+1287,1134,Creator Campaign,email,2025-02-04 15:00:00,1,1,0,desktop
+1288,909,Referral Blast,push,2025-12-02 10:00:00,1,0,0,mobile
+1289,433,Winback Flow,push,2026-02-11 03:00:00,1,0,0,mobile
+1290,233,Holiday Push,email,2024-10-01 02:00:00,1,0,0,mobile
+1291,302,Holiday Push,email,2024-05-13 19:00:00,0,0,0,mobile
+1292,1065,Referral Blast,email,2025-10-09 17:00:00,0,0,0,mobile
+1293,554,Referral Blast,sms,2024-03-09 00:00:00,0,0,0,tablet
+1294,1129,Referral Blast,push,2024-06-21 06:00:00,1,0,0,mobile
+1295,665,Summer Promo,email,2025-10-06 21:00:00,1,1,0,desktop
+1296,520,Creator Campaign,social_ad,2025-10-03 05:00:00,1,0,0,mobile
+1297,820,Back to School,email,2025-04-06 19:00:00,1,0,0,mobile
+1298,733,Winback Flow,email,2024-11-23 22:00:00,1,0,1,desktop
+1299,89,Retention Nudge,email,2024-10-23 11:00:00,0,0,0,mobile
+1300,662,Holiday Push,email,2025-05-28 10:00:00,0,0,0,desktop
+1301,1061,Referral Blast,email,2024-09-24 17:00:00,1,0,0,mobile
+1302,1054,Black Friday,sms,2024-12-09 19:00:00,0,0,0,tablet
+1303,90,Winback Flow,email,2025-10-09 22:00:00,0,1,0,mobile
+1304,104,Holiday Push,email,2025-01-31 18:00:00,1,0,0,desktop
+1305,1187,Summer Promo,email,2024-11-09 07:00:00,1,1,1,desktop
+1306,1055,Winback Flow,email,2025-07-15 15:00:00,1,0,0,mobile
+1307,1185,Summer Promo,email,2025-06-24 17:00:00,0,0,1,desktop
+1308,1116,Holiday Push,email,2025-08-14 09:00:00,1,1,0,desktop
+1309,3,Black Friday,email,2024-11-07 08:00:00,1,0,0,mobile
+1310,300,Back to School,email,2025-02-09 01:00:00,0,0,0,mobile
+1311,72,Back to School,sms,2025-02-01 18:00:00,1,0,0,desktop
+1312,750,Summer Promo,social_ad,2025-08-07 20:00:00,1,0,0,desktop
+1313,100,Creator Campaign,email,2025-09-02 09:00:00,1,0,1,mobile
+1314,272,Creator Campaign,sms,2024-12-19 21:00:00,1,1,0,desktop
+1315,1079,Summer Promo,email,2024-04-17 18:00:00,1,0,0,tablet
+1316,38,Creator Campaign,social_ad,2025-08-10 19:00:00,0,0,0,desktop
+1317,1018,Retention Nudge,email,2024-07-10 00:00:00,1,0,0,mobile
+1318,398,Back to School,push,2025-04-21 15:00:00,0,0,0,mobile
+1319,1031,Summer Promo,email,2024-02-22 17:00:00,1,0,0,mobile
+1320,471,Black Friday,sms,2024-04-02 10:00:00,0,1,1,mobile
+1321,1188,Retention Nudge,email,2024-01-21 05:00:00,0,0,0,mobile
+1322,416,Back to School,email,2024-08-13 06:00:00,0,0,0,mobile
+1323,920,Creator Campaign,social_ad,2025-01-31 14:00:00,1,1,0,mobile
+1324,289,Winback Flow,social_ad,2024-03-03 11:00:00,1,0,0,desktop
+1325,1185,Referral Blast,email,2025-07-31 15:00:00,1,1,0,desktop
+1326,480,Black Friday,email,2024-05-19 11:00:00,0,0,0,tablet
+1327,208,Black Friday,email,2025-07-07 09:00:00,1,0,1,mobile
+1328,920,Back to School,social_ad,2025-12-23 04:00:00,1,0,0,desktop
+1329,213,Retention Nudge,email,2025-08-25 20:00:00,1,0,0,mobile
+1330,766,Retention Nudge,push,2024-08-17 04:00:00,0,0,0,desktop
+1331,287,Winback Flow,email,2024-08-13 07:00:00,1,0,1,desktop
+1332,1066,Creator Campaign,push,2025-12-20 11:00:00,1,1,1,mobile
+1333,1043,Summer Promo,email,2026-02-14 17:00:00,0,0,0,mobile
+1334,36,Referral Blast,email,2024-09-23 20:00:00,1,0,0,desktop
+1335,866,Referral Blast,email,2024-11-07 02:00:00,1,1,1,mobile
+1336,564,Holiday Push,social_ad,2024-06-25 15:00:00,1,1,0,tablet
+1337,200,Summer Promo,email,2024-06-30 04:00:00,0,0,0,mobile
+1338,230,Black Friday,email,2024-05-11 21:00:00,0,0,0,mobile
+1339,668,Back to School,sms,2024-03-31 23:00:00,1,0,0,desktop
+1340,557,Summer Promo,social_ad,2024-11-04 20:00:00,1,0,0,mobile
+1341,1054,Winback Flow,social_ad,2024-11-13 20:00:00,0,1,0,mobile
+1342,32,Holiday Push,email,2026-02-09 11:00:00,0,0,0,desktop
+1343,612,Summer Promo,social_ad,2024-05-29 21:00:00,1,0,0,mobile
+1344,150,Referral Blast,email,2026-02-13 13:00:00,1,0,0,mobile
+1345,145,Referral Blast,email,2024-01-19 21:00:00,0,0,0,desktop
+1346,192,Summer Promo,sms,2025-02-02 17:00:00,0,0,0,desktop
+1347,210,Holiday Push,email,2024-01-04 15:00:00,1,0,0,mobile
+1348,993,Referral Blast,push,2024-09-09 15:00:00,0,1,0,desktop
+1349,1003,Retention Nudge,email,2025-11-25 18:00:00,1,0,0,mobile
+1350,686,Referral Blast,email,2024-08-25 00:00:00,0,0,0,desktop
+1351,622,Creator Campaign,push,2024-04-07 22:00:00,1,0,0,desktop
+1352,22,Back to School,email,2025-10-11 12:00:00,1,0,0,mobile
+1353,1011,Summer Promo,email,2025-04-02 06:00:00,0,0,0,desktop
+1354,631,Holiday Push,email,2024-06-25 01:00:00,1,0,0,mobile
+1355,365,Referral Blast,sms,2024-02-10 07:00:00,1,0,0,mobile
+1356,19,Back to School,social_ad,2025-11-22 09:00:00,0,0,0,desktop
+1357,42,Creator Campaign,social_ad,2024-10-17 09:00:00,0,0,0,desktop
+1358,155,Creator Campaign,email,2024-04-15 05:00:00,1,0,0,desktop
+1359,702,Back to School,email,2025-03-31 17:00:00,1,1,0,tablet
+1360,421,Winback Flow,sms,2025-03-10 22:00:00,1,0,0,mobile
+1361,410,Back to School,social_ad,2025-11-02 09:00:00,1,0,0,desktop
+1362,561,Holiday Push,email,2025-02-13 02:00:00,0,0,0,mobile
+1363,67,Black Friday,email,2024-12-11 11:00:00,1,1,0,mobile
+1364,33,Referral Blast,email,2024-03-27 05:00:00,1,0,0,mobile
+1365,170,Back to School,social_ad,2024-09-14 07:00:00,1,0,0,desktop
+1366,891,Referral Blast,email,2024-06-12 16:00:00,0,0,0,desktop
+1367,877,Back to School,email,2025-07-03 13:00:00,1,0,0,mobile
+1368,708,Summer Promo,email,2025-04-13 14:00:00,1,0,1,mobile
+1369,818,Back to School,sms,2025-01-27 09:00:00,1,0,0,mobile
+1370,413,Retention Nudge,email,2025-09-16 16:00:00,1,0,0,mobile
+1371,423,Retention Nudge,push,2025-01-26 07:00:00,0,0,0,desktop
+1372,1165,Summer Promo,email,2024-06-03 01:00:00,0,1,0,mobile
+1373,194,Holiday Push,email,2024-10-16 16:00:00,1,0,0,mobile
+1374,727,Retention Nudge,email,2025-02-20 16:00:00,0,1,1,desktop
+1375,1193,Winback Flow,email,2024-07-14 02:00:00,1,0,0,desktop
+1376,4,Retention Nudge,email,2025-08-15 21:00:00,0,0,0,desktop
+1377,967,Holiday Push,push,2025-12-05 16:00:00,0,0,0,desktop
+1378,624,Referral Blast,push,2024-02-04 02:00:00,1,0,0,mobile
+1379,1056,Black Friday,email,2025-01-24 03:00:00,0,0,0,mobile
+1380,336,Back to School,push,2025-04-25 01:00:00,0,0,0,desktop
+1381,468,Retention Nudge,social_ad,2025-05-02 22:00:00,0,1,0,tablet
+1382,546,Holiday Push,social_ad,2025-09-28 04:00:00,0,0,0,mobile
+1383,1103,Black Friday,email,2025-02-03 14:00:00,0,0,0,mobile
+1384,625,Winback Flow,email,2024-08-24 02:00:00,1,1,0,mobile
+1385,574,Retention Nudge,sms,2025-12-07 12:00:00,1,0,0,mobile
+1386,60,Winback Flow,push,2024-06-10 10:00:00,0,0,0,mobile
+1387,360,Back to School,email,2025-06-04 16:00:00,1,0,0,mobile
+1388,543,Creator Campaign,push,2024-08-31 04:00:00,0,1,0,desktop
+1389,842,Black Friday,email,2025-10-09 06:00:00,0,0,0,desktop
+1390,625,Retention Nudge,email,2025-08-07 13:00:00,0,0,0,mobile
+1391,918,Back to School,social_ad,2026-01-05 21:00:00,0,1,0,tablet
+1392,437,Holiday Push,sms,2025-11-25 15:00:00,1,1,0,mobile
+1393,1008,Retention Nudge,email,2024-06-01 07:00:00,1,1,0,tablet
+1394,338,Holiday Push,push,2024-06-09 08:00:00,0,0,0,desktop
+1395,178,Creator Campaign,email,2025-09-10 05:00:00,1,0,0,mobile
+1396,284,Retention Nudge,push,2024-09-09 07:00:00,0,0,0,mobile
+1397,806,Winback Flow,email,2024-11-09 00:00:00,1,0,0,mobile
+1398,826,Summer Promo,sms,2024-03-14 16:00:00,1,0,0,mobile
+1399,592,Creator Campaign,social_ad,2025-12-02 19:00:00,1,0,0,desktop
+1400,733,Back to School,sms,2025-02-17 00:00:00,1,0,0,mobile
+1401,307,Creator Campaign,email,2025-02-09 18:00:00,1,1,0,mobile
+1402,760,Winback Flow,social_ad,2025-04-03 08:00:00,1,1,0,mobile
+1403,833,Summer Promo,email,2024-01-28 11:00:00,0,0,0,mobile
+1404,1073,Winback Flow,email,2025-09-24 11:00:00,0,1,0,mobile
+1405,171,Holiday Push,email,2024-06-20 12:00:00,0,0,0,desktop
+1406,1194,Back to School,sms,2025-03-15 23:00:00,0,0,1,mobile
+1407,567,Creator Campaign,push,2024-04-07 06:00:00,1,0,0,desktop
+1408,1070,Back to School,email,2024-08-15 20:00:00,1,0,0,mobile
+1409,320,Referral Blast,social_ad,2025-11-22 02:00:00,1,1,0,mobile
+1410,97,Retention Nudge,push,2024-12-13 17:00:00,1,0,0,mobile
+1411,803,Winback Flow,sms,2024-07-08 10:00:00,1,0,0,mobile
+1412,907,Creator Campaign,sms,2024-06-22 02:00:00,0,0,0,mobile
+1413,893,Creator Campaign,social_ad,2024-10-03 15:00:00,1,0,0,desktop
+1414,609,Back to School,email,2024-02-18 09:00:00,1,0,0,tablet
+1415,302,Winback Flow,email,2024-02-29 09:00:00,1,0,0,tablet
+1416,592,Summer Promo,email,2024-09-29 03:00:00,0,0,0,mobile
+1417,853,Creator Campaign,email,2024-05-29 22:00:00,0,0,0,mobile
+1418,318,Black Friday,email,2024-11-18 12:00:00,0,0,0,mobile
+1419,810,Retention Nudge,social_ad,2025-03-08 02:00:00,0,1,0,mobile
+1420,828,Back to School,push,2024-02-26 08:00:00,1,0,1,mobile
+1421,55,Referral Blast,email,2024-10-31 07:00:00,0,0,0,mobile
+1422,899,Referral Blast,email,2026-01-06 00:00:00,1,0,0,desktop
+1423,949,Retention Nudge,social_ad,2024-06-13 09:00:00,0,1,0,desktop
+1424,21,Back to School,social_ad,2025-02-06 12:00:00,1,0,0,desktop
+1425,447,Summer Promo,email,2024-12-31 22:00:00,0,0,0,mobile
+1426,985,Black Friday,push,2024-03-14 06:00:00,1,0,0,mobile
+1427,430,Retention Nudge,email,2026-02-13 16:00:00,1,0,0,desktop
+1428,979,Black Friday,email,2025-04-18 09:00:00,0,0,0,mobile
+1429,460,Retention Nudge,social_ad,2025-01-20 12:00:00,0,1,0,tablet
+1430,987,Holiday Push,push,2025-05-19 15:00:00,0,0,1,mobile
+1431,361,Back to School,email,2024-07-08 09:00:00,1,0,1,tablet
+1432,989,Creator Campaign,email,2024-09-20 05:00:00,1,1,0,mobile
+1433,148,Retention Nudge,push,2025-06-06 09:00:00,0,1,0,mobile
+1434,1007,Winback Flow,push,2024-06-29 17:00:00,0,1,0,tablet
+1435,218,Winback Flow,email,2025-10-17 13:00:00,0,0,1,tablet
+1436,1034,Retention Nudge,push,2024-05-16 23:00:00,1,1,0,desktop
+1437,217,Summer Promo,push,2024-05-28 13:00:00,1,0,0,tablet
+1438,1195,Summer Promo,social_ad,2024-06-12 08:00:00,1,0,0,mobile
+1439,946,Creator Campaign,push,2025-09-19 17:00:00,1,1,0,mobile
+1440,1162,Referral Blast,email,2025-04-04 19:00:00,1,0,1,mobile
+1441,1035,Retention Nudge,sms,2025-09-06 09:00:00,1,0,0,mobile
+1442,639,Winback Flow,email,2024-03-16 18:00:00,1,0,0,mobile
+1443,834,Referral Blast,email,2025-12-10 01:00:00,1,0,0,tablet
+1444,250,Back to School,email,2025-12-24 17:00:00,1,0,1,desktop
+1445,711,Retention Nudge,social_ad,2024-06-30 14:00:00,0,1,0,desktop
+1446,22,Holiday Push,push,2025-02-15 02:00:00,0,0,0,desktop
+1447,1145,Winback Flow,push,2024-10-28 01:00:00,0,0,0,mobile
+1448,385,Creator Campaign,email,2025-03-11 15:00:00,1,0,1,mobile
+1449,1068,Summer Promo,sms,2024-05-26 10:00:00,1,0,0,mobile
+1450,546,Back to School,email,2025-02-06 16:00:00,1,1,1,desktop
+1451,62,Holiday Push,push,2025-06-17 02:00:00,0,0,0,mobile
+1452,566,Retention Nudge,email,2025-01-22 05:00:00,1,0,0,tablet
+1453,793,Back to School,email,2025-04-16 02:00:00,1,0,0,mobile
+1454,398,Referral Blast,social_ad,2024-12-21 12:00:00,1,0,0,mobile
+1455,1097,Referral Blast,email,2025-10-06 22:00:00,0,0,0,mobile
+1456,650,Black Friday,email,2026-01-26 13:00:00,1,0,0,tablet
+1457,53,Black Friday,push,2024-03-12 05:00:00,0,0,0,desktop
+1458,228,Back to School,email,2024-12-10 08:00:00,0,1,0,mobile
+1459,1029,Winback Flow,push,2024-12-29 04:00:00,1,0,0,mobile
+1460,991,Summer Promo,sms,2024-01-27 23:00:00,0,1,1,mobile
+1461,614,Holiday Push,social_ad,2025-05-28 13:00:00,1,1,0,mobile
+1462,16,Winback Flow,push,2025-04-20 15:00:00,1,1,1,mobile
+1463,1191,Referral Blast,email,2024-04-26 13:00:00,1,0,1,mobile
+1464,34,Creator Campaign,email,2025-01-19 04:00:00,0,0,0,mobile
+1465,491,Winback Flow,email,2026-02-01 04:00:00,1,0,0,desktop
+1466,258,Back to School,email,2024-07-16 12:00:00,1,1,1,mobile
+1467,820,Black Friday,social_ad,2025-05-18 00:00:00,1,0,0,mobile
+1468,1147,Referral Blast,push,2025-01-15 07:00:00,1,0,0,mobile
+1469,968,Referral Blast,push,2024-03-14 06:00:00,1,0,0,mobile
+1470,678,Retention Nudge,email,2025-07-07 18:00:00,1,0,0,mobile
+1471,282,Referral Blast,social_ad,2025-01-31 22:00:00,0,0,0,mobile
+1472,604,Black Friday,social_ad,2024-07-25 10:00:00,0,0,0,mobile
+1473,139,Back to School,email,2024-08-19 11:00:00,0,1,0,desktop
+1474,40,Holiday Push,email,2024-06-15 18:00:00,0,1,0,mobile
+1475,1117,Holiday Push,email,2024-11-14 11:00:00,1,0,0,mobile
+1476,449,Back to School,email,2025-08-02 13:00:00,1,0,0,desktop
+1477,726,Holiday Push,email,2025-12-25 17:00:00,1,0,0,desktop
+1478,283,Referral Blast,push,2025-09-09 11:00:00,0,0,0,mobile
+1479,696,Holiday Push,email,2024-10-24 01:00:00,1,1,0,desktop
+1480,569,Referral Blast,email,2024-02-10 01:00:00,1,1,0,desktop
+1481,45,Back to School,email,2024-11-19 02:00:00,1,0,0,mobile
+1482,781,Retention Nudge,social_ad,2026-01-20 12:00:00,1,0,0,desktop
+1483,765,Summer Promo,push,2025-02-21 00:00:00,1,0,0,desktop
+1484,91,Holiday Push,push,2025-07-23 16:00:00,1,0,0,desktop
+1485,1165,Holiday Push,email,2025-08-15 10:00:00,1,0,0,mobile
+1486,535,Referral Blast,push,2024-06-09 20:00:00,0,0,0,mobile
+1487,1032,Referral Blast,social_ad,2024-08-04 18:00:00,0,0,0,mobile
+1488,1079,Summer Promo,email,2024-03-28 10:00:00,1,0,0,mobile
+1489,505,Black Friday,email,2025-10-03 16:00:00,1,0,0,mobile
+1490,768,Black Friday,email,2024-06-15 04:00:00,1,1,1,mobile
+1491,346,Back to School,push,2025-05-15 01:00:00,0,0,0,mobile
+1492,844,Black Friday,social_ad,2024-04-23 03:00:00,1,0,0,mobile
+1493,800,Creator Campaign,push,2025-07-09 23:00:00,1,0,0,desktop
+1494,89,Retention Nudge,email,2025-02-16 21:00:00,0,0,0,mobile
+1495,373,Back to School,push,2024-06-13 17:00:00,0,1,0,mobile
+1496,527,Referral Blast,email,2025-06-21 02:00:00,1,0,0,desktop
+1497,807,Referral Blast,email,2025-09-21 16:00:00,1,0,0,tablet
+1498,194,Summer Promo,email,2024-12-24 13:00:00,1,0,0,mobile
+1499,1131,Referral Blast,social_ad,2025-12-31 15:00:00,0,1,0,mobile
+1500,529,Back to School,email,2024-04-23 11:00:00,1,0,0,mobile
+1501,386,Referral Blast,social_ad,2025-11-22 17:00:00,1,0,1,desktop
+1502,142,Creator Campaign,email,2025-01-28 02:00:00,0,0,0,mobile
+1503,1143,Referral Blast,push,2024-11-19 07:00:00,0,0,0,desktop
+1504,774,Black Friday,email,2024-08-13 07:00:00,1,1,0,desktop
+1505,626,Creator Campaign,email,2025-02-01 20:00:00,1,0,0,desktop
+1506,403,Black Friday,email,2024-10-18 18:00:00,1,0,0,tablet
+1507,578,Black Friday,email,2024-10-16 14:00:00,1,0,0,desktop
+1508,477,Back to School,social_ad,2024-08-22 01:00:00,0,0,0,mobile
+1509,291,Winback Flow,social_ad,2024-10-28 20:00:00,1,1,0,mobile
+1510,1121,Back to School,email,2025-03-16 14:00:00,1,0,0,desktop
+1511,699,Winback Flow,social_ad,2026-02-04 08:00:00,1,0,0,desktop
+1512,133,Winback Flow,email,2025-02-09 13:00:00,1,0,0,desktop
+1513,718,Black Friday,sms,2024-04-21 10:00:00,0,0,0,desktop
+1514,158,Back to School,push,2025-02-12 17:00:00,1,1,0,mobile
+1515,785,Summer Promo,email,2025-02-22 00:00:00,1,0,0,mobile
+1516,118,Black Friday,email,2024-11-10 21:00:00,1,0,0,mobile
+1517,1048,Winback Flow,social_ad,2025-01-13 14:00:00,1,0,0,desktop
+1518,856,Winback Flow,email,2025-05-20 13:00:00,1,0,0,mobile
+1519,156,Referral Blast,email,2024-01-29 23:00:00,0,0,0,mobile
+1520,323,Winback Flow,email,2025-04-27 17:00:00,0,1,0,mobile
+1521,781,Referral Blast,email,2025-11-23 19:00:00,1,0,0,mobile
+1522,965,Referral Blast,social_ad,2024-04-08 09:00:00,1,0,0,desktop
+1523,927,Referral Blast,push,2024-08-20 00:00:00,0,1,0,tablet
+1524,59,Retention Nudge,social_ad,2024-10-26 17:00:00,0,0,0,desktop
+1525,1020,Holiday Push,social_ad,2024-06-02 14:00:00,0,0,0,tablet
+1526,275,Holiday Push,social_ad,2026-01-18 22:00:00,1,0,0,mobile
+1527,26,Summer Promo,push,2025-05-23 06:00:00,1,0,0,mobile
+1528,876,Retention Nudge,email,2024-04-24 18:00:00,1,0,0,desktop
+1529,625,Back to School,email,2025-10-01 18:00:00,0,0,0,mobile
+1530,313,Winback Flow,email,2025-02-08 11:00:00,1,0,0,desktop
+1531,599,Holiday Push,social_ad,2024-04-18 15:00:00,1,0,0,mobile
+1532,802,Back to School,sms,2025-01-15 20:00:00,0,0,0,mobile
+1533,1192,Black Friday,email,2024-11-17 17:00:00,0,1,0,mobile
+1534,1097,Referral Blast,sms,2025-12-10 17:00:00,0,0,0,desktop
+1535,1133,Winback Flow,social_ad,2024-09-29 06:00:00,1,0,0,mobile
+1536,606,Back to School,push,2025-03-09 17:00:00,1,0,0,desktop
+1537,1142,Back to School,sms,2024-11-06 07:00:00,0,0,0,mobile
+1538,803,Creator Campaign,push,2024-01-24 21:00:00,0,0,0,desktop
+1539,218,Winback Flow,push,2025-06-19 08:00:00,0,0,0,mobile
+1540,955,Black Friday,email,2024-11-06 11:00:00,1,1,0,desktop
+1541,712,Creator Campaign,email,2025-08-12 11:00:00,1,0,0,mobile
+1542,931,Back to School,email,2026-01-24 23:00:00,1,1,0,mobile
+1543,135,Back to School,social_ad,2024-07-20 17:00:00,1,0,0,mobile
+1544,869,Winback Flow,email,2024-12-16 20:00:00,1,0,0,tablet
+1545,1184,Holiday Push,email,2026-01-04 14:00:00,1,0,0,desktop
+1546,269,Referral Blast,social_ad,2025-09-01 15:00:00,0,0,0,mobile
+1547,705,Winback Flow,sms,2025-06-26 02:00:00,1,0,1,mobile
+1548,386,Black Friday,email,2025-03-10 02:00:00,0,1,0,mobile
+1549,257,Winback Flow,social_ad,2025-10-26 00:00:00,1,0,0,mobile
+1550,331,Referral Blast,push,2025-10-04 07:00:00,1,1,0,tablet
+1551,442,Holiday Push,social_ad,2025-05-07 12:00:00,1,0,0,mobile
+1552,808,Retention Nudge,sms,2025-09-01 02:00:00,0,0,0,mobile
+1553,582,Retention Nudge,social_ad,2025-12-29 20:00:00,1,0,0,mobile
+1554,423,Summer Promo,social_ad,2025-09-08 15:00:00,1,0,0,tablet
+1555,806,Summer Promo,social_ad,2025-08-14 14:00:00,0,1,0,mobile
+1556,786,Creator Campaign,email,2025-06-19 14:00:00,0,0,0,desktop
+1557,837,Creator Campaign,push,2025-01-10 18:00:00,0,1,0,mobile
+1558,224,Retention Nudge,social_ad,2024-10-29 15:00:00,1,0,1,mobile
+1559,988,Referral Blast,push,2025-06-30 02:00:00,0,0,0,mobile
+1560,546,Referral Blast,email,2024-12-30 07:00:00,1,0,0,mobile
+1561,886,Winback Flow,email,2024-02-09 18:00:00,1,0,0,mobile
+1562,1177,Winback Flow,email,2024-04-20 20:00:00,0,0,0,tablet
+1563,904,Holiday Push,push,2025-10-16 19:00:00,1,1,0,desktop
+1564,233,Holiday Push,push,2025-10-07 11:00:00,1,1,1,mobile
+1565,648,Summer Promo,email,2024-03-30 15:00:00,0,0,1,desktop
+1566,580,Back to School,email,2025-03-05 06:00:00,1,1,0,desktop
+1567,845,Creator Campaign,social_ad,2024-10-13 01:00:00,0,0,0,desktop
+1568,242,Referral Blast,email,2024-02-21 04:00:00,1,1,1,tablet
+1569,208,Winback Flow,email,2024-02-05 18:00:00,1,1,0,desktop
+1570,888,Referral Blast,social_ad,2025-01-27 05:00:00,1,1,0,mobile
+1571,860,Summer Promo,social_ad,2025-09-21 13:00:00,1,0,0,desktop
+1572,932,Referral Blast,email,2025-05-06 05:00:00,1,0,0,mobile
+1573,490,Summer Promo,email,2025-05-31 22:00:00,1,1,0,mobile
+1574,365,Back to School,email,2024-08-07 05:00:00,1,0,0,mobile
+1575,1008,Back to School,push,2025-01-23 06:00:00,1,0,0,tablet
+1576,1157,Summer Promo,social_ad,2024-07-23 02:00:00,0,0,0,mobile
+1577,358,Winback Flow,email,2025-02-26 16:00:00,1,0,0,mobile
+1578,862,Creator Campaign,social_ad,2024-11-07 06:00:00,1,0,0,mobile
+1579,147,Referral Blast,sms,2025-08-18 16:00:00,0,0,0,mobile
+1580,95,Holiday Push,sms,2026-02-11 04:00:00,1,0,0,desktop
+1581,969,Summer Promo,push,2024-02-15 13:00:00,0,0,1,desktop
+1582,920,Back to School,social_ad,2025-07-23 22:00:00,1,1,0,mobile
+1583,940,Retention Nudge,email,2024-06-10 13:00:00,1,0,0,desktop
+1584,865,Back to School,email,2024-05-03 11:00:00,0,0,0,mobile
+1585,618,Summer Promo,email,2025-08-21 02:00:00,1,1,0,desktop
+1586,960,Retention Nudge,sms,2026-01-11 22:00:00,1,1,1,tablet
+1587,323,Referral Blast,sms,2024-01-16 02:00:00,1,0,0,mobile
+1588,433,Summer Promo,social_ad,2025-09-25 17:00:00,0,0,1,desktop
+1589,524,Back to School,email,2025-11-22 18:00:00,0,0,0,mobile
+1590,600,Winback Flow,push,2025-12-03 11:00:00,1,0,0,mobile
+1591,565,Holiday Push,email,2024-03-21 12:00:00,0,1,0,desktop
+1592,999,Back to School,email,2025-01-30 00:00:00,1,0,0,mobile
+1593,720,Holiday Push,social_ad,2025-12-03 03:00:00,1,0,0,mobile
+1594,884,Retention Nudge,email,2024-02-13 00:00:00,1,1,0,mobile
+1595,806,Holiday Push,sms,2025-10-17 22:00:00,1,0,0,desktop
+1596,1124,Creator Campaign,email,2024-12-21 05:00:00,1,0,0,mobile
+1597,103,Back to School,sms,2024-12-05 06:00:00,1,0,0,tablet
+1598,672,Holiday Push,sms,2024-02-02 08:00:00,0,1,0,mobile
+1599,1043,Retention Nudge,email,2025-01-18 15:00:00,1,0,0,desktop
+1600,688,Holiday Push,sms,2025-02-13 17:00:00,0,0,0,mobile
+1601,308,Retention Nudge,social_ad,2025-09-25 05:00:00,1,0,0,mobile
+1602,108,Black Friday,push,2024-06-04 04:00:00,0,1,0,mobile
+1603,710,Creator Campaign,social_ad,2024-01-19 12:00:00,1,1,0,mobile
+1604,980,Referral Blast,email,2026-01-08 21:00:00,1,0,0,mobile
+1605,627,Black Friday,push,2025-10-24 14:00:00,1,0,0,mobile
+1606,609,Back to School,social_ad,2025-10-19 03:00:00,0,1,0,mobile
+1607,116,Back to School,sms,2024-10-05 04:00:00,0,1,0,mobile
+1608,6,Back to School,sms,2024-03-25 16:00:00,1,0,0,desktop
+1609,295,Black Friday,push,2024-08-03 09:00:00,0,0,0,mobile
+1610,776,Holiday Push,email,2024-01-02 22:00:00,1,0,0,desktop
+1611,957,Black Friday,email,2026-01-21 17:00:00,0,0,0,mobile
+1612,1024,Retention Nudge,email,2024-06-26 02:00:00,1,0,0,mobile
+1613,879,Retention Nudge,social_ad,2024-01-29 08:00:00,0,0,1,desktop
+1614,968,Creator Campaign,email,2025-03-03 16:00:00,0,0,0,desktop
+1615,1143,Referral Blast,push,2025-10-19 00:00:00,1,0,0,desktop
+1616,795,Black Friday,sms,2024-05-03 15:00:00,1,0,0,desktop
+1617,166,Summer Promo,email,2024-05-25 03:00:00,1,0,0,mobile
+1618,223,Black Friday,push,2025-03-20 15:00:00,0,0,0,mobile
+1619,84,Referral Blast,social_ad,2024-05-30 07:00:00,1,0,1,desktop
+1620,703,Referral Blast,email,2024-09-28 12:00:00,1,0,0,mobile
+1621,814,Retention Nudge,email,2025-06-03 07:00:00,0,0,0,desktop
+1622,1105,Creator Campaign,social_ad,2025-01-08 19:00:00,1,0,0,desktop
+1623,197,Creator Campaign,email,2024-01-03 23:00:00,1,0,0,mobile
+1624,851,Retention Nudge,email,2025-02-20 21:00:00,1,0,0,desktop
+1625,209,Summer Promo,email,2025-01-01 17:00:00,1,0,0,mobile
+1626,835,Creator Campaign,email,2024-08-18 13:00:00,1,0,0,mobile
+1627,343,Referral Blast,email,2025-12-20 05:00:00,0,0,0,mobile
+1628,79,Black Friday,social_ad,2026-02-18 04:00:00,1,1,0,mobile
+1629,129,Back to School,social_ad,2025-07-10 12:00:00,1,0,0,mobile
+1630,286,Back to School,push,2025-12-02 00:00:00,1,0,0,desktop
+1631,43,Black Friday,email,2024-04-12 07:00:00,0,0,0,mobile
+1632,745,Summer Promo,sms,2025-12-27 22:00:00,0,0,0,tablet
+1633,781,Black Friday,email,2024-01-26 18:00:00,1,0,0,desktop
+1634,1175,Black Friday,email,2024-08-29 19:00:00,1,0,0,mobile
+1635,1128,Holiday Push,sms,2024-09-23 15:00:00,1,0,0,mobile
+1636,1085,Winback Flow,social_ad,2024-07-17 09:00:00,0,0,0,mobile
+1637,545,Black Friday,email,2025-07-14 02:00:00,1,0,0,mobile
+1638,1144,Retention Nudge,email,2025-02-10 00:00:00,1,1,0,mobile
+1639,910,Referral Blast,email,2024-05-28 08:00:00,0,0,0,mobile
+1640,960,Back to School,push,2024-11-05 00:00:00,1,0,0,mobile
+1641,620,Referral Blast,email,2025-08-03 22:00:00,0,0,0,tablet
+1642,639,Summer Promo,sms,2024-07-31 09:00:00,0,0,0,mobile
+1643,957,Summer Promo,email,2024-10-18 03:00:00,1,0,0,tablet
+1644,880,Black Friday,email,2025-01-12 12:00:00,0,0,1,mobile
+1645,816,Black Friday,social_ad,2025-01-29 02:00:00,0,0,0,mobile
+1646,456,Summer Promo,email,2024-07-09 02:00:00,1,0,0,desktop
+1647,1196,Winback Flow,social_ad,2024-06-23 07:00:00,0,1,0,mobile
+1648,765,Retention Nudge,sms,2024-07-03 19:00:00,0,0,0,desktop
+1649,990,Holiday Push,social_ad,2024-01-11 03:00:00,0,0,0,tablet
+1650,82,Referral Blast,social_ad,2025-01-28 02:00:00,0,0,0,mobile
+1651,210,Black Friday,social_ad,2024-07-17 04:00:00,0,0,0,desktop
+1652,1029,Black Friday,social_ad,2025-02-05 10:00:00,0,0,0,tablet
+1653,1140,Creator Campaign,push,2025-12-24 00:00:00,1,0,0,desktop
+1654,776,Back to School,push,2025-04-15 04:00:00,1,0,0,mobile
+1655,70,Summer Promo,sms,2025-11-15 15:00:00,1,1,0,mobile
+1656,156,Winback Flow,email,2025-12-12 10:00:00,0,0,0,mobile
+1657,460,Black Friday,email,2026-01-16 03:00:00,0,0,0,mobile
+1658,439,Retention Nudge,email,2025-06-20 17:00:00,1,0,0,mobile
+1659,38,Retention Nudge,email,2025-11-26 01:00:00,1,1,1,mobile
+1660,1046,Black Friday,email,2024-10-04 10:00:00,1,0,0,mobile
+1661,963,Black Friday,sms,2024-03-30 12:00:00,1,1,0,mobile
+1662,169,Winback Flow,sms,2024-07-10 19:00:00,0,0,1,mobile
+1663,21,Creator Campaign,email,2025-09-07 07:00:00,1,0,0,desktop
+1664,68,Retention Nudge,social_ad,2024-10-04 04:00:00,0,0,0,desktop
+1665,749,Winback Flow,email,2024-03-30 17:00:00,0,1,0,mobile
+1666,717,Retention Nudge,social_ad,2025-08-22 01:00:00,0,0,0,desktop
+1667,466,Referral Blast,social_ad,2024-06-12 15:00:00,1,0,1,mobile
+1668,1127,Black Friday,social_ad,2024-04-23 02:00:00,0,1,0,mobile
+1669,720,Holiday Push,social_ad,2025-03-25 12:00:00,0,0,0,mobile
+1670,381,Winback Flow,push,2025-02-24 15:00:00,1,1,0,mobile
+1671,221,Summer Promo,sms,2024-07-09 08:00:00,0,0,0,mobile
+1672,798,Summer Promo,social_ad,2024-06-09 16:00:00,1,0,0,mobile
+1673,49,Back to School,email,2024-12-09 23:00:00,1,1,0,mobile
+1674,1058,Black Friday,push,2025-12-17 07:00:00,1,1,0,tablet
+1675,112,Holiday Push,email,2024-11-15 03:00:00,1,0,0,mobile
+1676,1162,Referral Blast,sms,2024-04-08 21:00:00,1,0,0,mobile
+1677,383,Referral Blast,email,2024-12-28 18:00:00,1,0,0,desktop
+1678,542,Black Friday,email,2024-06-12 05:00:00,0,0,0,tablet
+1679,556,Winback Flow,push,2025-08-22 05:00:00,0,0,1,mobile
+1680,57,Creator Campaign,social_ad,2024-09-17 08:00:00,0,0,0,tablet
+1681,820,Referral Blast,email,2026-01-04 23:00:00,0,0,0,mobile
+1682,708,Creator Campaign,email,2025-03-18 02:00:00,0,1,0,desktop
+1683,363,Creator Campaign,email,2025-08-10 20:00:00,1,0,0,desktop
+1684,275,Retention Nudge,social_ad,2025-12-11 04:00:00,0,1,0,desktop
+1685,1005,Summer Promo,email,2024-02-23 18:00:00,1,0,0,mobile
+1686,569,Holiday Push,sms,2025-01-29 22:00:00,0,1,0,desktop
+1687,135,Referral Blast,social_ad,2025-07-07 12:00:00,0,1,0,mobile
+1688,1149,Back to School,email,2025-07-18 06:00:00,0,0,0,mobile
+1689,692,Winback Flow,social_ad,2024-06-21 11:00:00,1,0,1,desktop
+1690,244,Referral Blast,social_ad,2025-12-06 18:00:00,1,0,0,desktop
+1691,362,Back to School,email,2024-10-28 07:00:00,1,0,0,mobile
+1692,989,Summer Promo,social_ad,2024-03-17 03:00:00,0,0,0,mobile
+1693,717,Back to School,email,2024-06-23 08:00:00,0,1,0,desktop
+1694,125,Referral Blast,sms,2025-01-21 23:00:00,1,0,0,desktop
+1695,1049,Creator Campaign,sms,2024-12-18 02:00:00,1,1,0,mobile
+1696,1080,Winback Flow,push,2024-06-28 01:00:00,1,0,0,tablet
+1697,1132,Back to School,push,2025-10-15 01:00:00,0,0,0,mobile
+1698,926,Creator Campaign,email,2025-02-27 03:00:00,1,0,0,mobile
+1699,1078,Referral Blast,push,2025-06-09 00:00:00,1,0,0,tablet
+1700,410,Referral Blast,social_ad,2025-05-21 03:00:00,1,0,0,desktop
+1701,1062,Holiday Push,email,2024-12-14 07:00:00,1,0,0,mobile
+1702,906,Summer Promo,social_ad,2026-01-05 09:00:00,1,1,0,mobile
+1703,544,Retention Nudge,email,2024-07-19 04:00:00,0,0,0,mobile
+1704,734,Holiday Push,social_ad,2024-06-07 01:00:00,0,0,0,desktop
+1705,458,Holiday Push,email,2025-04-20 01:00:00,0,1,0,desktop
+1706,1165,Back to School,social_ad,2025-03-17 11:00:00,1,0,0,tablet
+1707,383,Creator Campaign,email,2025-01-18 18:00:00,1,0,0,mobile
+1708,53,Creator Campaign,sms,2024-11-19 15:00:00,1,0,0,mobile
+1709,383,Summer Promo,email,2025-05-19 23:00:00,0,1,0,mobile
+1710,1179,Referral Blast,sms,2025-05-05 20:00:00,1,0,0,mobile
+1711,4,Retention Nudge,push,2024-06-09 19:00:00,0,0,0,mobile
+1712,882,Holiday Push,push,2025-12-17 08:00:00,0,0,0,mobile
+1713,1102,Holiday Push,email,2026-02-02 18:00:00,1,1,0,mobile
+1714,143,Black Friday,email,2026-02-13 02:00:00,1,0,0,desktop
+1715,294,Holiday Push,email,2026-01-15 14:00:00,0,0,0,mobile
+1716,467,Black Friday,social_ad,2024-03-28 20:00:00,1,0,1,desktop
+1717,371,Winback Flow,email,2025-05-06 01:00:00,0,0,0,tablet
+1718,147,Black Friday,email,2025-12-20 13:00:00,1,0,0,mobile
+1719,190,Retention Nudge,email,2025-01-27 15:00:00,0,0,0,tablet
+1720,973,Winback Flow,social_ad,2025-01-30 22:00:00,1,0,0,mobile
+1721,110,Creator Campaign,email,2024-07-04 15:00:00,1,0,0,desktop
+1722,599,Retention Nudge,email,2024-06-03 04:00:00,1,1,0,desktop
+1723,340,Summer Promo,email,2024-03-22 01:00:00,0,0,1,mobile
+1724,200,Winback Flow,email,2025-03-03 05:00:00,0,0,0,mobile
+1725,423,Winback Flow,email,2024-01-17 17:00:00,1,0,0,mobile
+1726,423,Referral Blast,email,2024-01-14 17:00:00,0,0,0,mobile
+1727,1186,Summer Promo,email,2024-07-10 00:00:00,1,1,0,desktop
+1728,464,Referral Blast,social_ad,2024-03-29 09:00:00,0,0,0,desktop
+1729,1183,Back to School,email,2025-10-14 03:00:00,1,0,0,desktop
+1730,523,Black Friday,email,2024-08-31 17:00:00,1,1,0,desktop
+1731,508,Summer Promo,email,2024-03-09 10:00:00,1,0,0,mobile
+1732,141,Black Friday,social_ad,2024-04-02 21:00:00,1,0,0,mobile
+1733,344,Summer Promo,email,2025-12-24 16:00:00,1,0,0,mobile
+1734,987,Winback Flow,push,2024-08-23 01:00:00,0,0,0,tablet
+1735,472,Referral Blast,email,2024-08-24 02:00:00,0,0,0,mobile
+1736,293,Back to School,sms,2025-08-25 14:00:00,1,0,0,desktop
+1737,1064,Referral Blast,email,2025-08-04 17:00:00,1,0,0,desktop
+1738,1084,Black Friday,push,2025-04-28 05:00:00,0,1,0,mobile
+1739,150,Black Friday,email,2025-04-06 14:00:00,0,1,0,mobile
+1740,84,Holiday Push,sms,2024-08-03 23:00:00,1,1,0,mobile
+1741,476,Summer Promo,email,2024-11-05 04:00:00,1,0,0,mobile
+1742,818,Retention Nudge,email,2025-06-03 15:00:00,1,0,0,tablet
+1743,15,Holiday Push,email,2025-05-31 00:00:00,0,0,0,desktop
+1744,992,Winback Flow,email,2024-01-15 23:00:00,1,0,0,mobile
+1745,940,Holiday Push,push,2025-11-21 23:00:00,1,1,0,mobile
+1746,577,Black Friday,push,2025-09-23 13:00:00,0,0,0,mobile
+1747,944,Holiday Push,push,2024-06-10 22:00:00,0,0,1,tablet
+1748,71,Winback Flow,email,2025-04-12 23:00:00,1,1,0,mobile
+1749,1086,Summer Promo,social_ad,2025-09-12 14:00:00,1,0,0,mobile
+1750,765,Winback Flow,push,2025-01-12 04:00:00,0,0,0,mobile
+1751,135,Black Friday,email,2024-09-08 18:00:00,0,0,0,mobile
+1752,661,Holiday Push,push,2024-07-11 16:00:00,1,0,0,tablet
+1753,463,Winback Flow,email,2024-11-11 02:00:00,0,0,0,desktop
+1754,944,Winback Flow,email,2024-05-05 22:00:00,0,0,0,mobile
+1755,535,Summer Promo,sms,2025-10-04 20:00:00,1,1,0,desktop
+1756,687,Back to School,email,2024-09-13 17:00:00,1,0,0,mobile
+1757,1193,Summer Promo,sms,2025-12-16 03:00:00,0,0,0,desktop
+1758,576,Back to School,push,2025-01-02 08:00:00,0,1,0,desktop
+1759,457,Winback Flow,email,2024-06-23 21:00:00,1,0,0,desktop
+1760,524,Creator Campaign,email,2024-07-29 08:00:00,0,0,0,desktop
+1761,764,Creator Campaign,email,2024-02-12 05:00:00,1,0,0,mobile
+1762,1037,Black Friday,social_ad,2026-01-04 17:00:00,0,0,0,desktop
+1763,131,Referral Blast,sms,2025-01-06 10:00:00,0,0,0,desktop
+1764,1076,Summer Promo,push,2024-01-10 16:00:00,1,0,0,mobile
+1765,212,Black Friday,social_ad,2025-09-12 04:00:00,1,0,0,mobile
+1766,3,Creator Campaign,sms,2025-03-30 03:00:00,0,1,0,tablet
+1767,928,Referral Blast,sms,2025-06-19 21:00:00,1,0,0,mobile
+1768,666,Retention Nudge,email,2024-10-07 17:00:00,1,1,0,mobile
+1769,696,Creator Campaign,social_ad,2024-09-06 02:00:00,1,0,0,desktop
+1770,888,Summer Promo,email,2025-09-08 20:00:00,1,0,1,tablet
+1771,813,Retention Nudge,email,2024-10-21 21:00:00,1,0,0,mobile
+1772,1146,Summer Promo,email,2025-12-15 00:00:00,1,0,0,desktop
+1773,276,Referral Blast,sms,2026-02-02 14:00:00,0,1,0,mobile
+1774,1023,Winback Flow,push,2024-12-12 08:00:00,1,0,0,mobile
+1775,678,Summer Promo,push,2025-05-22 15:00:00,1,0,0,desktop
+1776,1121,Referral Blast,email,2024-08-29 16:00:00,0,0,0,tablet
+1777,922,Holiday Push,push,2024-05-01 23:00:00,1,0,0,mobile
+1778,461,Holiday Push,email,2025-03-21 17:00:00,0,1,0,mobile
+1779,265,Summer Promo,social_ad,2025-01-12 06:00:00,1,0,0,mobile
+1780,1074,Retention Nudge,push,2024-10-08 15:00:00,0,0,0,mobile
+1781,230,Winback Flow,push,2024-03-22 22:00:00,1,0,0,tablet
+1782,243,Holiday Push,email,2024-01-12 21:00:00,1,0,1,mobile
+1783,234,Holiday Push,email,2025-03-13 04:00:00,1,0,0,mobile
+1784,1166,Summer Promo,sms,2025-09-14 16:00:00,1,0,0,mobile
+1785,584,Back to School,email,2025-05-06 08:00:00,1,0,0,desktop
+1786,413,Winback Flow,email,2025-03-07 18:00:00,0,0,0,mobile
+1787,1147,Black Friday,email,2024-04-02 13:00:00,1,1,0,mobile
+1788,707,Winback Flow,email,2025-12-10 02:00:00,1,0,0,mobile
+1789,151,Back to School,email,2025-11-25 21:00:00,1,1,0,mobile
+1790,236,Winback Flow,push,2025-02-01 09:00:00,1,0,1,mobile
+1791,39,Holiday Push,email,2025-12-31 19:00:00,1,0,0,mobile
+1792,555,Retention Nudge,email,2025-05-20 01:00:00,0,0,0,tablet
+1793,238,Retention Nudge,email,2024-10-11 10:00:00,1,1,0,mobile
+1794,772,Back to School,push,2025-09-05 22:00:00,1,0,0,desktop
+1795,371,Back to School,email,2024-10-22 18:00:00,0,1,1,tablet
+1796,52,Black Friday,email,2024-09-01 23:00:00,1,1,0,mobile
+1797,872,Black Friday,social_ad,2025-01-24 22:00:00,1,1,1,mobile
+1798,29,Holiday Push,email,2024-03-07 19:00:00,1,0,0,mobile
+1799,557,Referral Blast,email,2024-04-27 15:00:00,0,0,0,mobile
+1800,336,Summer Promo,email,2025-06-14 09:00:00,1,0,0,mobile
+1801,551,Back to School,social_ad,2024-11-23 05:00:00,0,0,0,tablet
+1802,245,Creator Campaign,social_ad,2025-02-22 14:00:00,0,0,0,desktop
+1803,128,Referral Blast,email,2025-09-05 06:00:00,1,0,0,mobile
+1804,608,Back to School,push,2025-01-26 22:00:00,1,1,1,mobile
+1805,1188,Black Friday,push,2025-05-14 06:00:00,1,0,0,mobile
+1806,982,Referral Blast,social_ad,2024-01-26 16:00:00,1,1,0,mobile
+1807,697,Creator Campaign,social_ad,2024-12-27 06:00:00,1,0,0,mobile
+1808,1156,Back to School,sms,2025-06-30 20:00:00,1,0,0,desktop
+1809,332,Holiday Push,push,2025-07-27 06:00:00,0,0,0,desktop
+1810,427,Referral Blast,push,2026-01-13 08:00:00,0,0,0,mobile
+1811,740,Retention Nudge,email,2024-12-03 21:00:00,0,0,0,mobile
+1812,391,Summer Promo,social_ad,2024-04-26 07:00:00,0,0,0,mobile
+1813,837,Summer Promo,push,2024-08-19 02:00:00,1,0,0,mobile
+1814,764,Winback Flow,social_ad,2026-01-30 19:00:00,0,0,0,mobile
+1815,274,Winback Flow,email,2024-10-01 06:00:00,0,0,0,tablet
+1816,565,Creator Campaign,email,2024-09-07 05:00:00,1,0,0,mobile
+1817,450,Summer Promo,email,2025-03-01 18:00:00,1,1,0,mobile
+1818,253,Referral Blast,email,2024-12-25 11:00:00,0,0,0,desktop
+1819,1017,Summer Promo,social_ad,2025-03-04 19:00:00,0,0,0,mobile
+1820,400,Summer Promo,email,2025-07-18 16:00:00,0,0,0,mobile
+1821,970,Holiday Push,push,2025-11-03 15:00:00,1,0,0,mobile
+1822,110,Black Friday,email,2025-05-08 05:00:00,0,0,0,mobile
+1823,1153,Holiday Push,social_ad,2024-11-11 07:00:00,1,0,0,desktop
+1824,1029,Winback Flow,push,2025-05-24 03:00:00,1,0,0,mobile
+1825,560,Referral Blast,email,2025-06-09 17:00:00,1,1,0,mobile
+1826,228,Holiday Push,push,2024-05-25 14:00:00,1,0,1,desktop
+1827,872,Summer Promo,push,2026-01-25 12:00:00,0,1,0,mobile
+1828,578,Black Friday,email,2024-11-19 13:00:00,0,0,0,mobile
+1829,447,Summer Promo,social_ad,2024-12-29 11:00:00,1,0,0,desktop
+1830,1067,Retention Nudge,social_ad,2025-09-05 05:00:00,1,0,0,tablet
+1831,417,Creator Campaign,email,2024-09-24 00:00:00,0,0,0,tablet
+1832,886,Winback Flow,social_ad,2024-09-29 15:00:00,1,0,0,mobile
+1833,614,Creator Campaign,email,2025-09-04 12:00:00,1,0,0,desktop
+1834,546,Black Friday,email,2026-01-28 11:00:00,0,0,0,mobile
+1835,856,Black Friday,email,2024-11-09 00:00:00,1,0,0,desktop
+1836,615,Summer Promo,email,2025-02-06 16:00:00,0,1,0,mobile
+1837,444,Holiday Push,social_ad,2024-06-02 10:00:00,1,0,0,mobile
+1838,387,Referral Blast,email,2024-06-14 16:00:00,0,0,0,desktop
+1839,476,Back to School,email,2025-02-10 18:00:00,0,0,0,mobile
+1840,1134,Summer Promo,email,2024-01-06 20:00:00,0,0,0,mobile
+1841,201,Black Friday,push,2024-01-31 02:00:00,0,0,0,mobile
+1842,1108,Summer Promo,push,2025-10-25 21:00:00,1,0,0,mobile
+1843,233,Referral Blast,email,2025-05-16 05:00:00,1,0,0,desktop
+1844,1163,Holiday Push,push,2025-10-28 06:00:00,1,0,0,mobile
+1845,388,Summer Promo,email,2025-07-10 23:00:00,1,0,0,desktop
+1846,337,Winback Flow,push,2026-01-16 00:00:00,1,0,0,desktop
+1847,60,Retention Nudge,push,2024-02-06 22:00:00,0,0,0,tablet
+1848,700,Retention Nudge,push,2024-12-28 13:00:00,1,1,0,desktop
+1849,416,Summer Promo,email,2025-04-03 05:00:00,0,0,0,tablet
+1850,253,Holiday Push,email,2025-07-03 13:00:00,1,0,0,desktop
+1851,98,Black Friday,email,2025-02-21 23:00:00,1,0,0,desktop
+1852,880,Back to School,push,2024-03-19 17:00:00,0,0,0,desktop
+1853,222,Retention Nudge,push,2024-03-12 18:00:00,0,0,0,desktop
+1854,884,Holiday Push,email,2024-09-06 23:00:00,1,0,0,mobile
+1855,122,Creator Campaign,push,2025-11-24 08:00:00,1,1,0,desktop
+1856,682,Creator Campaign,email,2025-12-07 13:00:00,1,0,0,desktop
+1857,740,Retention Nudge,email,2025-07-07 01:00:00,1,0,0,mobile
+1858,1049,Winback Flow,email,2026-02-01 02:00:00,1,1,0,desktop
+1859,607,Back to School,social_ad,2024-11-13 01:00:00,1,0,0,tablet
+1860,1000,Referral Blast,push,2025-10-21 15:00:00,0,1,0,desktop
+1861,74,Holiday Push,push,2024-09-04 11:00:00,1,0,0,mobile
+1862,1050,Back to School,email,2024-08-29 03:00:00,1,0,0,mobile
+1863,943,Holiday Push,email,2025-06-25 09:00:00,1,1,0,desktop
+1864,795,Black Friday,push,2024-10-27 02:00:00,0,0,0,desktop
+1865,338,Winback Flow,push,2024-08-17 05:00:00,1,0,0,mobile
+1866,727,Winback Flow,push,2025-06-23 10:00:00,1,1,0,mobile
+1867,472,Summer Promo,email,2025-02-20 07:00:00,0,0,0,mobile
+1868,11,Referral Blast,email,2025-03-08 13:00:00,1,0,0,desktop
+1869,688,Back to School,email,2024-07-07 07:00:00,1,0,0,mobile
+1870,190,Summer Promo,email,2024-05-30 23:00:00,1,0,0,desktop
+1871,1176,Creator Campaign,email,2025-05-24 20:00:00,1,0,0,mobile
+1872,217,Back to School,email,2025-11-04 04:00:00,1,1,0,desktop
+1873,358,Creator Campaign,social_ad,2024-04-30 17:00:00,1,0,0,mobile
+1874,143,Black Friday,social_ad,2025-07-01 18:00:00,1,1,0,mobile
+1875,661,Referral Blast,email,2024-09-10 00:00:00,1,0,0,mobile
+1876,318,Winback Flow,social_ad,2024-03-16 00:00:00,0,0,0,desktop
+1877,37,Creator Campaign,push,2025-04-09 02:00:00,1,0,0,mobile
+1878,1067,Winback Flow,email,2024-12-26 20:00:00,1,0,0,mobile
+1879,942,Holiday Push,email,2024-03-30 08:00:00,1,0,0,mobile
+1880,860,Retention Nudge,email,2025-10-02 18:00:00,1,0,0,tablet
+1881,682,Referral Blast,push,2025-11-14 01:00:00,1,0,0,mobile
+1882,499,Summer Promo,email,2025-01-21 04:00:00,0,0,0,desktop
+1883,524,Back to School,email,2024-08-10 01:00:00,0,0,0,desktop
+1884,923,Holiday Push,social_ad,2025-04-14 18:00:00,0,0,0,mobile
+1885,1079,Retention Nudge,email,2025-02-17 16:00:00,1,0,0,desktop
+1886,545,Black Friday,email,2024-12-10 23:00:00,1,0,0,desktop
+1887,790,Referral Blast,sms,2024-07-21 08:00:00,1,0,0,mobile
+1888,1037,Retention Nudge,sms,2024-10-07 10:00:00,0,0,0,tablet
+1889,664,Retention Nudge,sms,2024-06-08 19:00:00,1,1,0,desktop
+1890,422,Summer Promo,sms,2024-09-21 12:00:00,1,0,1,desktop
+1891,509,Creator Campaign,email,2025-05-03 06:00:00,0,1,0,mobile
+1892,86,Referral Blast,push,2024-08-12 00:00:00,0,0,0,mobile
+1893,15,Referral Blast,push,2024-08-16 23:00:00,0,0,0,mobile
+1894,203,Back to School,email,2024-10-05 14:00:00,1,0,0,mobile
+1895,830,Black Friday,email,2025-01-25 21:00:00,0,0,0,desktop
+1896,583,Referral Blast,social_ad,2024-06-04 07:00:00,1,1,0,mobile
+1897,750,Summer Promo,email,2025-10-29 05:00:00,1,0,0,desktop
+1898,96,Back to School,email,2024-09-10 23:00:00,1,0,0,desktop
+1899,1078,Summer Promo,email,2024-05-03 04:00:00,0,0,0,desktop
+1900,591,Holiday Push,email,2025-10-06 02:00:00,1,1,0,desktop
+1901,223,Summer Promo,sms,2024-01-13 00:00:00,0,1,0,tablet
+1902,705,Black Friday,email,2024-04-01 04:00:00,1,0,0,desktop
+1903,1000,Holiday Push,sms,2024-05-17 01:00:00,1,0,0,mobile
+1904,1030,Summer Promo,social_ad,2025-11-10 23:00:00,1,0,0,mobile
+1905,1014,Holiday Push,email,2024-04-14 17:00:00,1,0,1,mobile
+1906,599,Creator Campaign,sms,2026-01-21 21:00:00,1,0,0,tablet
+1907,792,Retention Nudge,email,2024-04-10 09:00:00,1,1,0,mobile
+1908,856,Holiday Push,email,2024-12-22 13:00:00,0,0,0,tablet
+1909,923,Holiday Push,push,2025-10-28 07:00:00,1,0,0,mobile
+1910,77,Holiday Push,social_ad,2024-02-15 15:00:00,1,0,0,desktop
+1911,483,Back to School,sms,2025-10-08 08:00:00,1,0,0,desktop
+1912,973,Holiday Push,email,2025-10-17 21:00:00,0,0,0,mobile
+1913,753,Retention Nudge,social_ad,2024-07-18 14:00:00,1,0,0,mobile
+1914,484,Retention Nudge,sms,2024-03-24 08:00:00,0,0,0,desktop
+1915,658,Summer Promo,sms,2025-01-17 07:00:00,0,0,0,desktop
+1916,539,Back to School,email,2024-12-25 23:00:00,1,0,1,mobile
+1917,339,Holiday Push,push,2025-03-14 23:00:00,0,0,0,desktop
+1918,1097,Winback Flow,push,2024-05-09 04:00:00,0,0,0,desktop
+1919,939,Creator Campaign,email,2025-12-27 09:00:00,1,0,0,mobile
+1920,73,Summer Promo,email,2025-02-18 12:00:00,0,0,0,desktop
+1921,998,Creator Campaign,sms,2024-02-27 19:00:00,0,0,1,mobile
+1922,3,Summer Promo,sms,2024-11-10 18:00:00,1,1,0,desktop
+1923,316,Creator Campaign,sms,2025-08-12 02:00:00,0,1,1,desktop
+1924,464,Retention Nudge,email,2025-01-24 03:00:00,1,0,1,desktop
+1925,202,Creator Campaign,social_ad,2025-01-17 17:00:00,1,0,0,desktop
+1926,610,Retention Nudge,email,2025-01-12 03:00:00,1,0,1,mobile
+1927,760,Back to School,email,2024-04-08 17:00:00,1,0,0,mobile
+1928,117,Black Friday,email,2025-09-29 09:00:00,0,0,0,desktop
+1929,1044,Back to School,push,2024-02-29 09:00:00,0,0,0,mobile
+1930,687,Back to School,email,2025-09-11 12:00:00,1,0,0,desktop
+1931,1131,Summer Promo,email,2025-03-21 00:00:00,1,0,0,tablet
+1932,1154,Retention Nudge,social_ad,2024-09-13 12:00:00,1,1,0,desktop
+1933,558,Holiday Push,push,2025-01-12 08:00:00,1,0,1,desktop
+1934,774,Winback Flow,email,2025-09-03 10:00:00,0,0,0,tablet
+1935,1160,Summer Promo,email,2026-02-01 22:00:00,1,0,1,desktop
+1936,739,Back to School,social_ad,2025-04-23 14:00:00,1,0,0,mobile
+1937,137,Holiday Push,push,2025-01-12 13:00:00,1,0,1,mobile
+1938,598,Retention Nudge,social_ad,2024-06-13 07:00:00,1,0,1,mobile
+1939,168,Summer Promo,email,2024-01-18 01:00:00,1,0,0,mobile
+1940,672,Holiday Push,email,2026-02-11 22:00:00,1,1,0,tablet
+1941,54,Holiday Push,email,2024-05-16 05:00:00,1,0,0,desktop
+1942,184,Winback Flow,social_ad,2024-10-27 00:00:00,1,0,0,mobile
+1943,989,Back to School,social_ad,2024-12-31 00:00:00,1,0,0,mobile
+1944,554,Black Friday,email,2025-03-16 05:00:00,1,0,0,desktop
+1945,202,Black Friday,email,2024-06-23 00:00:00,1,0,0,mobile
+1946,224,Holiday Push,social_ad,2024-05-31 23:00:00,0,0,0,mobile
+1947,380,Summer Promo,email,2025-04-15 04:00:00,1,0,0,mobile
+1948,616,Creator Campaign,email,2024-02-13 18:00:00,1,1,1,desktop
+1949,357,Summer Promo,email,2024-08-15 08:00:00,0,1,0,mobile
+1950,1061,Holiday Push,email,2024-07-10 00:00:00,1,0,0,desktop
+1951,174,Black Friday,push,2024-05-20 09:00:00,0,1,0,desktop
+1952,1122,Referral Blast,social_ad,2025-11-20 19:00:00,0,0,0,mobile
+1953,949,Black Friday,email,2025-10-31 11:00:00,0,0,0,tablet
+1954,1049,Back to School,email,2025-04-11 23:00:00,1,1,0,desktop
+1955,592,Holiday Push,email,2025-05-01 06:00:00,0,1,0,mobile
+1956,491,Creator Campaign,social_ad,2024-04-23 21:00:00,1,0,0,mobile
+1957,426,Black Friday,push,2025-04-01 04:00:00,1,1,0,desktop
+1958,936,Holiday Push,email,2024-02-10 22:00:00,1,0,0,desktop
+1959,1010,Creator Campaign,push,2024-08-19 10:00:00,1,0,0,mobile
+1960,435,Holiday Push,push,2024-04-11 20:00:00,0,0,0,desktop
+1961,141,Summer Promo,social_ad,2025-02-03 23:00:00,1,0,0,mobile
+1962,956,Back to School,sms,2025-05-28 14:00:00,1,0,0,desktop
+1963,1019,Holiday Push,sms,2024-09-17 18:00:00,0,0,0,mobile
+1964,737,Referral Blast,push,2025-06-10 18:00:00,0,0,0,desktop
+1965,745,Black Friday,email,2024-08-01 23:00:00,0,0,0,desktop
+1966,1093,Winback Flow,push,2024-06-15 10:00:00,1,1,1,mobile
+1967,653,Winback Flow,email,2024-11-22 07:00:00,1,0,0,mobile
+1968,1169,Winback Flow,email,2024-11-27 20:00:00,0,0,0,mobile
+1969,645,Holiday Push,email,2024-12-14 03:00:00,0,0,0,tablet
+1970,598,Referral Blast,social_ad,2024-10-03 03:00:00,1,0,0,mobile
+1971,111,Holiday Push,push,2024-09-11 13:00:00,0,0,1,mobile
+1972,1122,Summer Promo,social_ad,2024-10-22 07:00:00,1,0,1,mobile
+1973,588,Winback Flow,social_ad,2025-05-19 04:00:00,0,0,0,mobile
+1974,1108,Retention Nudge,email,2024-08-28 00:00:00,1,1,0,tablet
+1975,1144,Black Friday,push,2025-06-08 09:00:00,1,0,0,mobile
+1976,67,Retention Nudge,email,2026-02-13 12:00:00,1,0,0,mobile
+1977,244,Holiday Push,social_ad,2025-03-12 08:00:00,0,0,0,tablet
+1978,316,Holiday Push,social_ad,2024-11-01 09:00:00,0,0,0,mobile
+1979,103,Summer Promo,social_ad,2025-01-06 23:00:00,0,0,0,mobile
+1980,782,Summer Promo,email,2025-08-04 21:00:00,1,0,0,mobile
+1981,509,Black Friday,push,2025-08-15 06:00:00,1,0,0,desktop
+1982,995,Summer Promo,sms,2025-05-23 10:00:00,0,0,0,mobile
+1983,100,Retention Nudge,social_ad,2025-08-10 21:00:00,1,0,0,mobile
+1984,729,Black Friday,social_ad,2024-04-13 10:00:00,1,0,1,desktop
+1985,1118,Back to School,social_ad,2024-01-18 16:00:00,1,0,0,tablet
+1986,414,Retention Nudge,email,2024-01-02 13:00:00,0,1,0,mobile
+1987,1067,Summer Promo,email,2025-08-09 10:00:00,1,0,0,tablet
+1988,557,Back to School,push,2024-10-22 10:00:00,0,0,0,desktop
+1989,657,Black Friday,email,2024-12-21 00:00:00,1,0,0,desktop
+1990,371,Holiday Push,email,2025-12-24 21:00:00,0,0,0,tablet
+1991,705,Retention Nudge,push,2025-09-09 12:00:00,1,1,0,desktop
+1992,95,Referral Blast,email,2024-09-01 15:00:00,0,0,0,tablet
+1993,842,Creator Campaign,email,2024-09-17 15:00:00,1,1,0,mobile
+1994,127,Back to School,email,2026-01-12 16:00:00,0,0,0,desktop
+1995,726,Winback Flow,social_ad,2025-09-14 17:00:00,1,0,0,desktop
+1996,483,Creator Campaign,email,2025-02-09 17:00:00,1,0,0,desktop
+1997,728,Black Friday,social_ad,2024-11-16 01:00:00,0,0,0,desktop
+1998,486,Winback Flow,email,2024-04-10 16:00:00,0,0,0,desktop
+1999,62,Referral Blast,email,2024-10-10 09:00:00,1,0,0,tablet
+2000,743,Creator Campaign,email,2024-07-05 14:00:00,1,1,0,mobile
+2001,1005,Referral Blast,email,2025-01-06 08:00:00,1,1,0,tablet
+2002,255,Referral Blast,sms,2025-11-23 01:00:00,1,0,0,tablet
+2003,696,Holiday Push,email,2024-10-09 05:00:00,1,0,0,mobile
+2004,413,Holiday Push,email,2024-01-22 07:00:00,1,0,0,mobile
+2005,502,Back to School,social_ad,2025-03-14 18:00:00,1,0,1,desktop
+2006,461,Creator Campaign,email,2025-01-24 17:00:00,1,0,0,mobile
+2007,317,Summer Promo,email,2024-11-02 01:00:00,0,0,0,mobile
+2008,60,Black Friday,social_ad,2024-04-15 03:00:00,0,0,0,mobile
+2009,611,Back to School,email,2024-10-02 11:00:00,1,0,0,mobile
+2010,1065,Referral Blast,email,2026-02-09 18:00:00,1,0,0,mobile
+2011,590,Creator Campaign,email,2024-02-12 20:00:00,0,1,0,mobile
+2012,809,Summer Promo,email,2025-02-02 00:00:00,1,0,0,tablet
+2013,628,Summer Promo,sms,2025-01-03 06:00:00,1,1,0,mobile
+2014,437,Back to School,email,2025-10-11 18:00:00,1,0,0,desktop
+2015,867,Black Friday,social_ad,2024-01-22 19:00:00,1,0,0,desktop
+2016,405,Winback Flow,email,2025-02-24 13:00:00,0,0,0,mobile
+2017,255,Back to School,email,2024-11-13 19:00:00,1,0,0,mobile
+2018,111,Holiday Push,sms,2025-03-01 12:00:00,1,0,0,mobile
+2019,662,Back to School,push,2025-01-17 23:00:00,0,0,0,desktop
+2020,390,Black Friday,email,2025-05-19 14:00:00,1,0,0,mobile
+2021,82,Black Friday,push,2026-01-08 18:00:00,0,0,0,tablet
+2022,690,Back to School,email,2024-09-24 11:00:00,0,0,0,desktop
+2023,394,Holiday Push,email,2025-10-14 09:00:00,1,0,0,mobile
+2024,455,Summer Promo,sms,2025-03-02 05:00:00,0,0,0,desktop
+2025,434,Back to School,email,2024-07-16 02:00:00,1,1,0,mobile
+2026,319,Creator Campaign,email,2024-03-16 22:00:00,1,0,0,desktop
+2027,96,Winback Flow,social_ad,2025-12-03 02:00:00,1,1,0,desktop
+2028,241,Black Friday,push,2025-07-22 03:00:00,1,0,0,desktop
+2029,445,Back to School,email,2025-11-29 01:00:00,0,1,0,desktop
+2030,966,Black Friday,email,2025-07-09 15:00:00,0,1,0,desktop
+2031,1123,Summer Promo,email,2024-07-14 23:00:00,0,0,0,mobile
+2032,914,Back to School,email,2024-01-27 01:00:00,1,0,0,mobile
+2033,1145,Back to School,push,2026-01-28 15:00:00,0,0,0,desktop
+2034,193,Back to School,social_ad,2025-09-07 16:00:00,1,1,0,mobile
+2035,826,Creator Campaign,email,2025-08-08 22:00:00,0,0,0,mobile
+2036,23,Black Friday,email,2025-07-19 14:00:00,1,0,0,mobile
+2037,790,Winback Flow,email,2025-12-11 13:00:00,1,1,0,mobile
+2038,1039,Creator Campaign,social_ad,2025-03-16 16:00:00,0,0,0,desktop
+2039,402,Summer Promo,email,2024-11-01 06:00:00,1,0,0,desktop
+2040,657,Referral Blast,push,2024-03-31 13:00:00,1,0,0,mobile
+2041,1112,Referral Blast,email,2024-02-03 19:00:00,0,0,0,mobile
+2042,1091,Summer Promo,email,2024-08-06 07:00:00,1,1,1,mobile
+2043,369,Retention Nudge,email,2024-03-08 21:00:00,1,0,0,mobile
+2044,601,Winback Flow,email,2025-05-17 04:00:00,1,0,0,mobile
+2045,92,Back to School,push,2025-09-12 23:00:00,1,1,0,mobile
+2046,112,Creator Campaign,sms,2024-04-20 08:00:00,0,1,0,mobile
+2047,409,Creator Campaign,email,2025-01-03 09:00:00,1,1,0,mobile
+2048,573,Winback Flow,push,2025-09-02 07:00:00,0,1,0,mobile
+2049,1059,Referral Blast,social_ad,2025-01-20 19:00:00,0,0,0,mobile
+2050,544,Summer Promo,push,2025-09-07 16:00:00,1,0,0,desktop
+2051,503,Creator Campaign,email,2025-05-04 21:00:00,1,0,0,mobile
+2052,509,Creator Campaign,social_ad,2025-06-11 09:00:00,1,0,0,desktop
+2053,440,Retention Nudge,social_ad,2025-08-29 10:00:00,1,1,0,mobile
+2054,753,Retention Nudge,email,2025-05-13 05:00:00,1,0,0,mobile
+2055,26,Winback Flow,email,2026-01-08 16:00:00,1,0,0,desktop
+2056,476,Retention Nudge,social_ad,2024-04-02 10:00:00,0,1,0,desktop
+2057,1068,Back to School,push,2025-11-13 11:00:00,1,0,0,mobile
+2058,847,Summer Promo,email,2024-10-15 18:00:00,1,0,0,mobile
+2059,73,Retention Nudge,push,2024-06-05 00:00:00,0,1,0,mobile
+2060,461,Summer Promo,email,2024-07-28 05:00:00,1,0,0,mobile
+2061,23,Winback Flow,social_ad,2024-02-06 05:00:00,1,0,0,mobile
+2062,278,Back to School,social_ad,2024-04-24 23:00:00,0,0,0,mobile
+2063,1098,Creator Campaign,social_ad,2025-01-23 21:00:00,1,0,0,mobile
+2064,227,Creator Campaign,email,2025-02-12 01:00:00,0,0,0,mobile
+2065,1040,Holiday Push,social_ad,2025-05-17 07:00:00,0,0,0,tablet
+2066,746,Winback Flow,email,2024-12-29 10:00:00,0,0,0,mobile
+2067,102,Referral Blast,email,2025-01-07 11:00:00,1,0,0,tablet
+2068,1114,Summer Promo,email,2024-12-19 03:00:00,1,0,0,desktop
+2069,956,Referral Blast,push,2024-04-04 22:00:00,0,0,0,mobile
+2070,188,Summer Promo,email,2025-11-23 12:00:00,0,0,0,mobile
+2071,791,Retention Nudge,push,2024-11-04 05:00:00,1,0,0,mobile
+2072,606,Retention Nudge,social_ad,2025-03-05 04:00:00,1,0,0,tablet
+2073,844,Creator Campaign,email,2024-11-09 07:00:00,1,0,0,desktop
+2074,7,Winback Flow,email,2025-05-21 15:00:00,1,0,1,mobile
+2075,184,Black Friday,social_ad,2024-09-20 20:00:00,0,0,0,tablet
+2076,1027,Black Friday,email,2024-03-29 00:00:00,0,0,0,mobile
+2077,366,Back to School,email,2024-02-11 01:00:00,1,0,0,mobile
+2078,565,Referral Blast,email,2025-10-21 12:00:00,0,1,0,tablet
+2079,416,Winback Flow,email,2025-09-24 03:00:00,0,0,0,mobile
+2080,977,Back to School,email,2024-11-25 21:00:00,0,0,0,mobile
+2081,736,Black Friday,social_ad,2024-09-21 16:00:00,0,1,1,desktop
+2082,287,Referral Blast,social_ad,2025-02-18 08:00:00,1,0,0,mobile
+2083,1007,Retention Nudge,email,2025-01-15 04:00:00,1,0,0,mobile
+2084,440,Retention Nudge,email,2024-12-12 23:00:00,0,0,0,mobile
+2085,1001,Referral Blast,email,2024-04-02 14:00:00,1,0,0,mobile
+2086,144,Back to School,email,2026-02-11 18:00:00,0,0,1,desktop
+2087,473,Holiday Push,sms,2024-01-07 11:00:00,1,1,0,mobile
+2088,734,Black Friday,email,2025-03-28 05:00:00,0,0,0,desktop
+2089,789,Black Friday,social_ad,2025-02-23 11:00:00,0,0,0,tablet
+2090,1018,Summer Promo,email,2024-08-17 06:00:00,1,0,0,mobile
+2091,393,Retention Nudge,social_ad,2024-07-21 08:00:00,0,1,0,desktop
+2092,1134,Retention Nudge,email,2024-11-10 17:00:00,1,0,0,mobile
+2093,124,Creator Campaign,push,2025-09-14 02:00:00,0,0,0,desktop
+2094,51,Black Friday,email,2024-01-26 00:00:00,1,0,0,desktop
+2095,363,Referral Blast,social_ad,2024-06-21 08:00:00,1,0,1,mobile
+2096,272,Black Friday,social_ad,2024-01-23 02:00:00,1,0,0,desktop
+2097,770,Summer Promo,email,2025-04-05 14:00:00,1,0,0,desktop
+2098,815,Winback Flow,push,2024-01-29 12:00:00,1,1,0,mobile
+2099,1193,Winback Flow,email,2024-05-16 11:00:00,0,1,0,mobile
+2100,1115,Back to School,email,2025-01-14 15:00:00,1,0,0,desktop
+2101,611,Creator Campaign,email,2025-04-28 09:00:00,1,1,0,mobile
+2102,265,Back to School,social_ad,2024-04-23 03:00:00,0,1,1,mobile
+2103,637,Referral Blast,email,2026-01-19 16:00:00,0,0,0,mobile
+2104,358,Creator Campaign,push,2025-05-28 09:00:00,1,0,0,desktop
+2105,360,Holiday Push,sms,2024-04-05 15:00:00,1,0,0,desktop
+2106,305,Winback Flow,push,2025-05-12 08:00:00,1,0,0,desktop
+2107,525,Winback Flow,push,2024-03-20 22:00:00,0,0,1,desktop
+2108,589,Black Friday,social_ad,2024-02-26 21:00:00,0,0,0,desktop
+2109,1154,Referral Blast,push,2025-04-29 17:00:00,1,0,0,mobile
+2110,415,Black Friday,social_ad,2025-11-18 02:00:00,1,1,0,mobile
+2111,227,Referral Blast,email,2025-03-18 15:00:00,1,1,0,desktop
+2112,856,Creator Campaign,social_ad,2025-03-23 02:00:00,1,1,0,mobile
+2113,1032,Summer Promo,push,2025-06-21 09:00:00,0,0,0,desktop
+2114,1161,Back to School,sms,2025-10-05 23:00:00,0,0,0,mobile
+2115,155,Referral Blast,email,2025-09-05 20:00:00,1,0,0,tablet
+2116,787,Winback Flow,push,2025-10-10 04:00:00,0,1,0,desktop
+2117,1088,Creator Campaign,email,2024-08-29 22:00:00,1,0,0,desktop
+2118,925,Back to School,social_ad,2025-12-05 04:00:00,1,1,0,tablet
+2119,178,Black Friday,social_ad,2025-08-31 09:00:00,0,0,0,mobile
+2120,705,Creator Campaign,email,2024-11-09 11:00:00,0,0,0,desktop
+2121,954,Creator Campaign,email,2024-01-04 18:00:00,1,0,0,desktop
+2122,401,Referral Blast,sms,2024-09-01 06:00:00,0,0,0,mobile
+2123,1068,Summer Promo,social_ad,2024-02-17 19:00:00,0,1,0,mobile
+2124,455,Referral Blast,push,2025-05-03 01:00:00,1,0,0,desktop
+2125,562,Creator Campaign,email,2025-06-10 05:00:00,1,0,0,mobile
+2126,1120,Back to School,email,2024-06-23 18:00:00,0,0,0,mobile
+2127,320,Retention Nudge,sms,2025-01-03 23:00:00,1,1,0,desktop
+2128,599,Retention Nudge,email,2025-05-23 01:00:00,0,0,0,desktop
+2129,474,Back to School,email,2025-09-21 14:00:00,0,0,1,mobile
+2130,627,Retention Nudge,sms,2024-10-11 09:00:00,1,1,0,mobile
+2131,604,Back to School,email,2025-02-03 06:00:00,1,0,0,desktop
+2132,985,Back to School,social_ad,2025-01-27 08:00:00,1,0,0,mobile
+2133,888,Referral Blast,push,2024-09-20 18:00:00,1,0,0,desktop
+2134,249,Black Friday,push,2024-12-12 18:00:00,1,0,0,desktop
+2135,171,Creator Campaign,push,2024-09-12 03:00:00,1,0,0,mobile
+2136,763,Back to School,push,2024-01-15 02:00:00,1,0,0,mobile
+2137,152,Winback Flow,email,2024-05-10 05:00:00,1,0,0,mobile
+2138,192,Referral Blast,sms,2025-10-02 16:00:00,1,1,0,mobile
+2139,728,Retention Nudge,email,2024-12-25 18:00:00,0,1,0,mobile
+2140,148,Holiday Push,email,2025-07-07 17:00:00,0,1,0,tablet
+2141,872,Back to School,social_ad,2024-06-16 06:00:00,1,0,0,desktop
+2142,1079,Summer Promo,email,2026-01-15 17:00:00,1,1,0,desktop
+2143,68,Holiday Push,email,2025-02-25 12:00:00,0,0,0,desktop
+2144,1132,Summer Promo,sms,2025-06-04 21:00:00,1,1,0,mobile
+2145,304,Holiday Push,social_ad,2024-06-26 07:00:00,1,1,0,mobile
+2146,208,Retention Nudge,social_ad,2024-08-30 11:00:00,1,0,0,mobile
+2147,1200,Back to School,email,2024-03-14 07:00:00,1,1,0,mobile
+2148,339,Retention Nudge,sms,2024-12-02 22:00:00,1,1,1,desktop
+2149,542,Winback Flow,social_ad,2024-06-25 10:00:00,0,0,0,mobile
+2150,587,Retention Nudge,email,2025-08-12 21:00:00,1,0,0,mobile
+2151,40,Retention Nudge,push,2025-01-05 14:00:00,0,1,0,desktop
+2152,962,Black Friday,push,2024-08-02 02:00:00,1,0,0,tablet
+2153,211,Summer Promo,social_ad,2025-02-15 17:00:00,1,0,0,desktop
+2154,440,Creator Campaign,email,2024-02-27 02:00:00,0,0,0,mobile
+2155,963,Summer Promo,email,2024-06-11 08:00:00,0,0,0,desktop
+2156,386,Black Friday,email,2024-02-25 15:00:00,1,1,0,mobile
+2157,203,Referral Blast,email,2024-02-28 16:00:00,0,0,0,tablet
+2158,569,Back to School,email,2024-10-26 02:00:00,0,1,0,mobile
+2159,899,Summer Promo,email,2024-07-03 07:00:00,1,0,0,tablet
+2160,565,Referral Blast,social_ad,2025-01-01 14:00:00,1,1,0,mobile
+2161,561,Back to School,push,2025-12-26 10:00:00,0,0,0,desktop
+2162,251,Black Friday,email,2026-02-15 11:00:00,1,0,0,desktop
+2163,397,Holiday Push,email,2025-03-28 07:00:00,0,1,0,desktop
+2164,833,Holiday Push,email,2024-01-06 02:00:00,0,0,1,desktop
+2165,538,Holiday Push,push,2024-12-12 22:00:00,1,0,0,desktop
+2166,804,Winback Flow,sms,2025-06-03 14:00:00,1,0,0,mobile
+2167,1087,Summer Promo,email,2025-01-12 14:00:00,0,0,1,mobile
+2168,1154,Winback Flow,sms,2024-04-02 11:00:00,1,0,0,desktop
+2169,801,Black Friday,sms,2024-03-16 13:00:00,1,0,0,mobile
+2170,191,Summer Promo,push,2024-12-27 10:00:00,1,0,0,tablet
+2171,1143,Retention Nudge,email,2025-03-25 04:00:00,0,0,0,mobile
+2172,316,Black Friday,email,2025-01-31 08:00:00,1,0,0,mobile
+2173,890,Black Friday,social_ad,2024-03-19 06:00:00,1,0,0,mobile
+2174,984,Referral Blast,email,2024-02-24 03:00:00,1,0,0,mobile
+2175,991,Black Friday,email,2024-04-05 09:00:00,1,1,0,desktop
+2176,258,Creator Campaign,social_ad,2024-06-12 05:00:00,0,1,0,mobile
+2177,582,Summer Promo,sms,2025-09-13 22:00:00,1,0,0,mobile
+2178,203,Summer Promo,email,2024-12-04 06:00:00,1,0,0,mobile
+2179,650,Holiday Push,email,2025-07-31 12:00:00,0,0,1,mobile
+2180,578,Holiday Push,social_ad,2024-03-24 12:00:00,0,0,0,tablet
+2181,1121,Holiday Push,social_ad,2024-10-24 03:00:00,1,1,0,mobile
+2182,683,Holiday Push,email,2025-11-08 00:00:00,1,0,0,desktop
+2183,58,Back to School,email,2024-10-01 00:00:00,1,1,0,desktop
+2184,461,Referral Blast,social_ad,2025-06-15 10:00:00,1,1,1,mobile
+2185,28,Retention Nudge,email,2025-06-14 23:00:00,0,0,0,desktop
+2186,560,Holiday Push,email,2025-11-11 21:00:00,0,0,1,mobile
+2187,955,Referral Blast,sms,2024-06-12 00:00:00,1,0,0,mobile
+2188,815,Winback Flow,push,2026-02-18 19:00:00,1,1,0,mobile
+2189,77,Back to School,push,2025-12-10 03:00:00,0,0,0,mobile
+2190,949,Referral Blast,push,2025-10-06 19:00:00,1,0,1,desktop
+2191,873,Summer Promo,email,2025-08-28 17:00:00,1,0,0,mobile
+2192,1180,Black Friday,push,2024-12-03 23:00:00,1,0,0,tablet
+2193,464,Holiday Push,email,2025-12-13 02:00:00,1,0,0,tablet
+2194,1139,Retention Nudge,email,2024-04-13 03:00:00,0,0,0,mobile
+2195,1072,Winback Flow,social_ad,2025-05-26 00:00:00,0,0,0,mobile
+2196,157,Holiday Push,social_ad,2025-04-15 16:00:00,1,0,0,desktop
+2197,535,Winback Flow,email,2024-12-07 14:00:00,0,1,0,mobile
+2198,247,Winback Flow,email,2025-12-11 18:00:00,1,1,0,mobile
+2199,138,Back to School,push,2025-03-08 15:00:00,0,0,0,mobile
+2200,888,Back to School,email,2025-03-09 10:00:00,0,0,0,desktop
+2201,1179,Black Friday,sms,2025-04-28 01:00:00,0,0,0,desktop
+2202,882,Summer Promo,email,2025-06-22 13:00:00,0,0,0,mobile
+2203,1096,Winback Flow,sms,2025-05-19 17:00:00,1,1,0,tablet
+2204,872,Creator Campaign,push,2024-12-03 03:00:00,0,0,0,mobile
+2205,48,Referral Blast,social_ad,2025-07-17 05:00:00,1,0,0,mobile
+2206,753,Holiday Push,email,2024-07-25 17:00:00,1,0,0,desktop
+2207,1057,Black Friday,email,2024-05-29 20:00:00,0,0,0,desktop
+2208,613,Summer Promo,sms,2025-01-09 14:00:00,0,1,0,mobile
+2209,691,Creator Campaign,email,2024-03-02 02:00:00,1,0,0,tablet
+2210,171,Summer Promo,sms,2024-10-22 22:00:00,1,0,0,mobile
+2211,38,Holiday Push,push,2025-11-13 11:00:00,0,0,0,desktop
+2212,1199,Holiday Push,email,2025-02-12 16:00:00,0,0,0,mobile
+2213,184,Holiday Push,push,2025-07-24 10:00:00,1,0,0,mobile
+2214,1133,Winback Flow,social_ad,2024-04-18 17:00:00,0,1,1,desktop
+2215,165,Referral Blast,sms,2025-10-18 02:00:00,1,1,0,desktop
+2216,1004,Referral Blast,social_ad,2025-01-24 21:00:00,1,0,0,mobile
+2217,409,Creator Campaign,social_ad,2025-07-01 15:00:00,0,0,0,mobile
+2218,114,Winback Flow,social_ad,2024-10-05 16:00:00,1,0,1,mobile
+2219,240,Winback Flow,email,2025-07-26 10:00:00,0,1,0,mobile
+2220,827,Creator Campaign,push,2025-12-15 08:00:00,1,0,0,mobile
+2221,767,Creator Campaign,social_ad,2025-02-25 14:00:00,0,0,0,mobile
+2222,206,Winback Flow,email,2025-04-14 21:00:00,0,0,0,mobile
+2223,1171,Referral Blast,push,2025-12-13 12:00:00,0,0,0,mobile
+2224,50,Summer Promo,email,2024-11-20 09:00:00,1,0,1,mobile
+2225,193,Holiday Push,sms,2024-05-23 06:00:00,0,0,0,mobile
+2226,589,Back to School,sms,2024-07-24 23:00:00,0,0,0,mobile
+2227,789,Referral Blast,sms,2024-07-07 21:00:00,0,0,0,tablet
+2228,784,Holiday Push,push,2025-07-27 06:00:00,1,0,0,mobile
+2229,705,Summer Promo,push,2025-08-24 19:00:00,0,0,0,mobile
+2230,451,Black Friday,email,2025-04-17 03:00:00,1,1,0,mobile
+2231,724,Creator Campaign,email,2025-10-12 20:00:00,1,1,0,desktop
+2232,94,Creator Campaign,sms,2025-04-20 00:00:00,1,0,0,mobile
+2233,1121,Referral Blast,sms,2024-04-18 13:00:00,0,1,0,mobile
+2234,135,Summer Promo,email,2024-10-26 11:00:00,0,0,0,desktop
+2235,345,Referral Blast,social_ad,2025-10-02 04:00:00,0,0,1,mobile
+2236,128,Winback Flow,email,2026-01-19 08:00:00,1,1,0,mobile
+2237,1064,Referral Blast,email,2024-06-27 07:00:00,0,0,0,desktop
+2238,1098,Black Friday,email,2026-02-17 14:00:00,0,0,0,mobile
+2239,388,Referral Blast,email,2025-09-20 21:00:00,0,0,0,desktop
+2240,1101,Referral Blast,push,2024-02-15 06:00:00,1,1,0,desktop
+2241,954,Summer Promo,sms,2024-04-28 09:00:00,0,0,0,desktop
+2242,564,Referral Blast,sms,2025-02-05 01:00:00,1,1,0,mobile
+2243,812,Summer Promo,email,2024-01-03 18:00:00,1,1,0,desktop
+2244,866,Referral Blast,social_ad,2025-12-16 05:00:00,1,1,0,mobile
+2245,329,Creator Campaign,social_ad,2024-05-27 18:00:00,1,0,0,mobile
+2246,1163,Creator Campaign,social_ad,2024-06-03 11:00:00,1,1,0,mobile
+2247,416,Black Friday,email,2025-12-29 11:00:00,1,0,0,mobile
+2248,345,Creator Campaign,sms,2025-03-28 13:00:00,1,0,0,mobile
+2249,1158,Summer Promo,social_ad,2024-05-01 00:00:00,0,0,0,mobile
+2250,409,Back to School,push,2025-07-16 11:00:00,1,0,0,desktop
+2251,912,Holiday Push,email,2024-07-04 22:00:00,0,0,0,desktop
+2252,279,Winback Flow,email,2024-05-12 14:00:00,1,0,0,mobile
+2253,813,Back to School,email,2024-02-11 13:00:00,1,0,0,tablet
+2254,562,Holiday Push,email,2025-04-19 11:00:00,0,0,0,mobile
+2255,31,Referral Blast,email,2025-08-18 20:00:00,1,1,0,desktop
+2256,1020,Creator Campaign,email,2025-01-07 18:00:00,1,1,0,mobile
+2257,493,Winback Flow,email,2024-08-07 00:00:00,1,1,0,desktop
+2258,496,Winback Flow,push,2025-04-12 10:00:00,1,1,1,mobile
+2259,767,Black Friday,push,2025-04-28 08:00:00,0,0,1,desktop
+2260,1038,Holiday Push,email,2025-12-06 01:00:00,0,0,0,mobile
+2261,418,Black Friday,email,2025-12-21 16:00:00,1,0,1,mobile
+2262,821,Creator Campaign,push,2024-01-05 22:00:00,1,0,0,mobile
+2263,1155,Retention Nudge,social_ad,2025-07-28 04:00:00,1,0,0,mobile
+2264,252,Retention Nudge,email,2024-09-23 16:00:00,1,0,1,mobile
+2265,570,Summer Promo,sms,2025-03-28 01:00:00,1,1,0,mobile
+2266,860,Summer Promo,social_ad,2025-08-15 22:00:00,0,1,0,tablet
+2267,1196,Retention Nudge,push,2025-05-14 04:00:00,0,0,0,mobile
+2268,914,Creator Campaign,social_ad,2024-11-01 04:00:00,1,0,0,mobile
+2269,173,Holiday Push,push,2026-01-07 19:00:00,0,1,0,desktop
+2270,879,Summer Promo,email,2025-08-21 02:00:00,0,1,0,mobile
+2271,1072,Retention Nudge,email,2024-08-05 14:00:00,1,0,0,mobile
+2272,552,Black Friday,email,2024-01-30 01:00:00,1,0,0,desktop
+2273,300,Black Friday,social_ad,2026-02-12 14:00:00,0,0,0,mobile
+2274,1087,Retention Nudge,social_ad,2024-01-02 05:00:00,0,0,0,desktop
+2275,346,Summer Promo,email,2025-07-04 17:00:00,1,0,0,tablet
+2276,907,Summer Promo,email,2024-08-06 18:00:00,1,0,0,desktop
+2277,6,Summer Promo,email,2025-07-30 15:00:00,1,0,0,desktop
+2278,976,Summer Promo,email,2025-07-28 14:00:00,0,0,0,tablet
+2279,648,Black Friday,social_ad,2024-02-09 02:00:00,0,0,0,tablet
+2280,615,Back to School,social_ad,2025-11-14 05:00:00,1,1,0,mobile
+2281,548,Black Friday,email,2025-12-03 05:00:00,1,0,0,desktop
+2282,179,Black Friday,push,2024-10-17 07:00:00,0,0,0,mobile
+2283,1175,Referral Blast,email,2024-02-15 04:00:00,1,0,0,mobile
+2284,194,Holiday Push,social_ad,2024-08-10 04:00:00,1,0,0,mobile
+2285,828,Creator Campaign,email,2024-01-23 06:00:00,0,0,0,mobile
+2286,541,Creator Campaign,email,2025-04-28 20:00:00,1,0,0,tablet
+2287,378,Retention Nudge,push,2024-02-06 01:00:00,0,1,0,desktop
+2288,540,Summer Promo,email,2026-01-17 10:00:00,1,1,0,mobile
+2289,50,Retention Nudge,social_ad,2024-05-30 15:00:00,1,0,0,mobile
+2290,441,Creator Campaign,email,2025-08-26 16:00:00,1,0,0,mobile
+2291,1053,Creator Campaign,sms,2024-04-20 22:00:00,0,0,0,tablet
+2292,125,Winback Flow,social_ad,2024-05-04 17:00:00,1,0,0,mobile
+2293,386,Retention Nudge,social_ad,2024-08-30 08:00:00,0,1,0,desktop
+2294,215,Referral Blast,social_ad,2024-01-31 14:00:00,1,1,0,mobile
+2295,1128,Creator Campaign,social_ad,2024-11-05 17:00:00,1,1,0,tablet
+2296,86,Creator Campaign,social_ad,2025-10-19 06:00:00,0,0,0,mobile
+2297,630,Holiday Push,email,2024-12-04 23:00:00,1,0,1,tablet
+2298,1126,Holiday Push,push,2024-12-19 00:00:00,1,0,0,mobile
+2299,734,Holiday Push,email,2024-05-15 15:00:00,0,1,0,mobile
+2300,1116,Holiday Push,email,2025-12-03 19:00:00,1,1,0,mobile
+2301,1062,Creator Campaign,email,2025-12-27 12:00:00,0,0,1,mobile
+2302,199,Back to School,sms,2025-01-12 17:00:00,0,0,0,desktop
+2303,574,Summer Promo,email,2025-09-01 15:00:00,1,0,0,mobile
+2304,613,Winback Flow,sms,2025-06-02 17:00:00,1,0,0,desktop
+2305,900,Winback Flow,email,2025-03-02 20:00:00,0,0,1,mobile
+2306,320,Black Friday,email,2024-09-21 17:00:00,1,0,0,desktop
+2307,351,Retention Nudge,push,2024-06-23 06:00:00,1,0,0,mobile
+2308,521,Referral Blast,push,2025-07-04 12:00:00,1,1,0,tablet
+2309,18,Black Friday,social_ad,2024-06-18 10:00:00,1,0,0,desktop
+2310,571,Black Friday,push,2024-11-06 13:00:00,1,0,1,desktop
+2311,995,Retention Nudge,email,2025-04-17 02:00:00,1,0,0,mobile
+2312,793,Back to School,social_ad,2024-10-26 04:00:00,1,1,0,desktop
+2313,1116,Retention Nudge,email,2025-01-05 17:00:00,0,0,0,mobile
+2314,835,Summer Promo,social_ad,2024-11-01 01:00:00,0,0,0,mobile
+2315,308,Holiday Push,social_ad,2025-03-21 02:00:00,1,1,0,mobile
+2316,53,Referral Blast,email,2024-10-03 11:00:00,1,0,0,tablet
+2317,887,Back to School,social_ad,2024-03-26 02:00:00,1,0,0,mobile
+2318,206,Black Friday,social_ad,2025-11-15 01:00:00,1,1,0,mobile
+2319,554,Winback Flow,email,2024-06-09 20:00:00,1,0,0,mobile
+2320,1136,Retention Nudge,social_ad,2025-12-21 03:00:00,0,0,0,desktop
+2321,839,Retention Nudge,email,2024-04-17 03:00:00,1,0,0,mobile
+2322,814,Summer Promo,push,2024-02-24 14:00:00,0,0,0,mobile
+2323,208,Summer Promo,email,2024-07-01 23:00:00,1,0,0,mobile
+2324,819,Black Friday,email,2024-01-24 18:00:00,0,0,0,mobile
+2325,334,Winback Flow,email,2025-09-17 20:00:00,0,0,0,mobile
+2326,371,Winback Flow,push,2025-02-22 23:00:00,1,0,0,desktop
+2327,1149,Referral Blast,email,2024-04-04 12:00:00,0,1,0,desktop
+2328,370,Winback Flow,social_ad,2024-10-04 15:00:00,1,1,0,mobile
+2329,321,Summer Promo,social_ad,2026-01-18 00:00:00,1,0,0,desktop
+2330,400,Winback Flow,push,2024-02-18 12:00:00,0,0,0,desktop
+2331,139,Summer Promo,email,2024-03-12 09:00:00,1,1,1,mobile
+2332,268,Retention Nudge,email,2024-02-05 18:00:00,0,0,0,mobile
+2333,440,Black Friday,email,2024-10-14 08:00:00,1,0,1,mobile
+2334,732,Holiday Push,email,2024-07-05 18:00:00,1,0,0,desktop
+2335,9,Creator Campaign,push,2026-02-03 09:00:00,1,0,0,mobile
+2336,893,Black Friday,sms,2025-11-11 11:00:00,1,1,0,mobile
+2337,800,Winback Flow,social_ad,2025-06-27 22:00:00,0,0,0,mobile
+2338,1174,Back to School,social_ad,2024-10-19 04:00:00,1,1,0,mobile
+2339,253,Back to School,social_ad,2025-02-07 23:00:00,1,1,0,mobile
+2340,355,Back to School,email,2025-12-25 15:00:00,1,1,0,mobile
+2341,282,Holiday Push,email,2024-10-10 14:00:00,1,1,0,mobile
+2342,428,Holiday Push,email,2025-05-18 21:00:00,0,0,0,tablet
+2343,1138,Holiday Push,push,2024-03-10 16:00:00,0,0,0,mobile
+2344,76,Retention Nudge,social_ad,2025-08-06 15:00:00,0,0,1,mobile
+2345,633,Creator Campaign,email,2025-03-20 01:00:00,1,0,0,mobile
+2346,292,Black Friday,email,2024-09-30 12:00:00,1,0,0,mobile
+2347,908,Back to School,email,2024-01-18 06:00:00,1,0,0,mobile
+2348,725,Holiday Push,push,2024-10-15 09:00:00,1,1,0,desktop
+2349,1182,Holiday Push,email,2025-05-01 02:00:00,1,1,0,mobile
+2350,894,Retention Nudge,social_ad,2025-10-01 02:00:00,0,0,0,desktop
+2351,410,Holiday Push,email,2025-11-27 15:00:00,1,0,0,mobile
+2352,304,Summer Promo,sms,2024-10-15 22:00:00,0,0,0,tablet
+2353,521,Summer Promo,email,2025-10-03 02:00:00,0,1,0,mobile
+2354,204,Winback Flow,email,2024-05-28 02:00:00,0,0,0,desktop
+2355,950,Black Friday,social_ad,2024-10-12 00:00:00,1,0,0,desktop
+2356,159,Creator Campaign,email,2025-11-02 17:00:00,1,0,0,mobile
+2357,780,Summer Promo,social_ad,2024-08-24 13:00:00,1,0,0,mobile
+2358,271,Winback Flow,push,2024-11-15 19:00:00,1,0,0,mobile
+2359,1013,Black Friday,push,2025-08-30 00:00:00,1,0,0,desktop
+2360,1061,Retention Nudge,email,2024-02-28 06:00:00,1,1,0,tablet
+2361,598,Creator Campaign,sms,2024-08-15 18:00:00,1,0,0,desktop
+2362,235,Summer Promo,social_ad,2024-06-26 14:00:00,1,0,0,mobile
+2363,543,Summer Promo,email,2026-02-03 07:00:00,0,0,0,mobile
+2364,1003,Summer Promo,social_ad,2024-05-26 09:00:00,1,0,0,tablet
+2365,609,Holiday Push,social_ad,2024-02-28 13:00:00,1,0,0,desktop
+2366,1166,Holiday Push,push,2025-11-12 21:00:00,1,1,0,mobile
+2367,262,Retention Nudge,email,2024-05-16 04:00:00,1,0,0,mobile
+2368,912,Retention Nudge,sms,2024-11-18 22:00:00,0,0,0,mobile
+2369,863,Back to School,social_ad,2026-02-16 03:00:00,1,0,1,mobile
+2370,102,Holiday Push,sms,2026-01-11 09:00:00,1,0,0,desktop
+2371,1027,Summer Promo,sms,2024-01-29 08:00:00,1,0,0,desktop
+2372,738,Creator Campaign,social_ad,2025-12-23 18:00:00,1,1,0,mobile
+2373,241,Creator Campaign,sms,2024-06-15 08:00:00,1,1,1,tablet
+2374,576,Winback Flow,email,2024-09-29 07:00:00,1,0,0,desktop
+2375,745,Retention Nudge,email,2025-12-21 22:00:00,1,0,0,mobile
+2376,837,Winback Flow,email,2025-03-15 09:00:00,1,1,0,mobile
+2377,986,Summer Promo,push,2025-02-08 06:00:00,0,0,0,desktop
+2378,87,Black Friday,social_ad,2024-03-22 16:00:00,0,1,0,tablet
+2379,92,Retention Nudge,email,2024-04-02 04:00:00,0,0,1,tablet
+2380,494,Summer Promo,push,2025-01-29 06:00:00,1,0,1,tablet
+2381,731,Back to School,email,2024-12-28 15:00:00,1,1,0,mobile
+2382,978,Black Friday,push,2025-10-13 18:00:00,1,0,0,mobile
+2383,958,Creator Campaign,email,2025-09-26 08:00:00,1,0,0,mobile
+2384,944,Holiday Push,email,2024-11-19 12:00:00,1,0,0,mobile
+2385,575,Winback Flow,email,2024-12-30 13:00:00,1,0,0,mobile
+2386,865,Winback Flow,push,2025-01-22 21:00:00,1,0,0,desktop
+2387,813,Summer Promo,push,2025-05-22 12:00:00,1,0,0,desktop
+2388,1178,Black Friday,email,2025-03-27 08:00:00,1,0,0,mobile
+2389,451,Retention Nudge,social_ad,2026-01-01 02:00:00,1,1,0,mobile
+2390,1046,Creator Campaign,sms,2024-11-05 22:00:00,1,0,0,desktop
+2391,1197,Creator Campaign,email,2024-04-15 12:00:00,0,0,0,mobile
+2392,25,Winback Flow,email,2026-01-13 08:00:00,1,0,0,mobile
+2393,618,Summer Promo,email,2024-08-05 05:00:00,1,0,0,mobile
+2394,227,Black Friday,social_ad,2024-05-25 05:00:00,1,1,0,mobile
+2395,524,Referral Blast,email,2025-03-09 22:00:00,1,1,0,mobile
+2396,409,Creator Campaign,push,2026-01-30 11:00:00,1,0,1,tablet
+2397,582,Winback Flow,email,2025-12-19 04:00:00,1,1,0,desktop
+2398,273,Referral Blast,email,2026-01-08 09:00:00,1,0,0,mobile
+2399,818,Retention Nudge,push,2024-05-02 09:00:00,0,0,0,desktop
+2400,34,Retention Nudge,email,2024-04-07 00:00:00,1,0,0,mobile

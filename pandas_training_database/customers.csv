@@ -1,0 +1,1221 @@
+customer_id,first_name,last_name,age,gender,city,state,signup_date,segment,membership_tier,preferred_channel,is_active,lifetime_value
+1,Ana,Rodrigues,38.0,M,Goiania,GO,2023-08-17,consumer,silver,organic,0,61.38
+2,Tiago,Tanaka,49.0,F,Goiania,GO,2023-06-28,consumer,platinum,direct,1,105.68
+3,Sofia,Almeida,29.0,,Campinas,SP,2023-02-24,consumer,silver,social,1,50.43
+4,Rafael,Silva,23.0,M,Fortaleza,CE,2024-07-23,consumer,bronze,social,1,80.52
+5,Eduarda,Almeida,34.0,Other,Porto Alegre,RS,2024-07-23,consumer,bronze,email,0,28.36
+6,Lucas,Kim,27.0,F,Recife,PE,2023-07-18,consumer,silver,organic,1,55.98
+7,Beatriz,Park,42.0,Other,Campinas,SP,2023-09-13,consumer,silver,email,1,32.06
+8,Tiago,Almeida,41.0,F,Fortaleza,CE,2025-01-10,consumer,bronze,organic,1,73.91
+9,Julia,Pereira,19.0,,Curitiba,PR,2023-06-13,small_business,bronze,paid_search,1,43.3
+10,Felipe,Kim,37.0,Other,Goiania,GO,2025-01-17,consumer,platinum,referral,1,52.93
+11,Valentina,Costa,44.0,M,Goiania,GO,2023-05-27,small_business,bronze,paid_search,0,116.6
+12,Beatriz,Melo,37.0,Other,Recife,PE,2024-07-06,consumer,bronze,paid_search,1,119.74
+13,Camila,Santos,42.0,,Sao Paulo,SP,2024-04-14,small_business,silver,organic,1,150.47
+14,Gabriela,Araujo,37.0,,Belo Horizonte,MG,2024-10-06,small_business,silver,social,1,167.81
+15,Pedro,Melo,34.0,,Brasilia,DF,2024-05-20,consumer,silver,direct,1,55.73
+16,Hiro,Lima,48.0,F,Recife,PE,2025-01-11,consumer,bronze,paid_search,0,48.86
+17,Yuki,Costa,43.0,,Rio de Janeiro,RJ,2023-11-10,small_business,bronze,direct,1,81.23
+18,Valentina,Matsuda,26.0,F,Recife,PE,2025-02-20,consumer,silver,direct,1,54.78
+19,Luisa,Rodrigues,34.0,Other,Rio de Janeiro,RJ,2026-01-04,consumer,bronze,organic,1,57.93
+20,Olivia,Silva,32.0,Other,Recife,PE,2023-11-20,consumer,silver,paid_search,1,84.98
+21,Beatriz,Souza,18.0,Other,Brasilia,DF,2025-11-05,consumer,bronze,email,1,65.63
+22,Eduarda,Kim,32.0,F,Campinas,SP,2024-02-12,consumer,silver,direct,1,79.91
+23,Daniel,Kim,45.0,Other,Salvador,BA,2023-02-09,consumer,silver,paid_search,1,104.71
+24,Carla,Araujo,39.0,M,Belo Horizonte,MG,2023-06-11,consumer,gold,paid_search,1,248.21
+25,Isabela,Barbosa,34.0,,Salvador,BA,2023-12-05,consumer,bronze,social,1,49.3
+26,Juyoung,Ferreira,23.0,Other,Campinas,SP,2024-02-16,consumer,bronze,direct,0,88.6
+27,Daniel,Pereira,26.0,Other,Campinas,SP,2025-07-13,small_business,gold,paid_search,1,54.97
+28,Tiago,Pereira,,F,Campinas,SP,2024-04-16,consumer,bronze,organic,1,146.1
+29,Carla,Barbosa,36.0,,Sao Paulo,SP,2024-11-07,consumer,bronze,referral,1,106.6
+30,Hiro,Araujo,36.0,M,Brasilia,DF,2025-08-26,consumer,bronze,organic,1,82.09
+31,Lucas,Tanaka,36.0,F,Goiania,GO,2025-06-01,consumer,bronze,email,1,43.44
+32,Bruno,Park,22.0,F,Goiania,GO,2023-07-21,consumer,bronze,paid_search,1,98.88
+33,Olivia,Lima,43.0,Other,Belo Horizonte,MG,2026-01-03,consumer,silver,organic,1,85.43
+34,Rafael,Melo,25.0,F,Rio de Janeiro,RJ,2025-06-26,enterprise,bronze,direct,1,40.87
+35,Nicolas,Araujo,34.0,,Belo Horizonte,MG,2023-12-07,consumer,silver,organic,1,159.51
+36,Ana,Park,23.0,,Brasilia,DF,2025-02-15,enterprise,platinum,direct,1,89.08
+37,Eduarda,Almeida,38.0,F,Florianopolis,SC,2025-09-23,enterprise,gold,paid_search,1,63.84
+38,Pedro,Nagata,29.0,,Campinas,SP,2023-05-05,consumer,silver,direct,1,111.48
+39,Bruno,Barbosa,25.0,M,Campinas,SP,2023-11-19,consumer,platinum,organic,1,73.13
+40,Marina,Souza,37.0,M,Rio de Janeiro,RJ,2024-04-26,consumer,silver,paid_search,1,93.36
+41,Nicolas,Ribeiro,39.0,Other,Sao Paulo,SP,2023-06-17,small_business,gold,social,1,90.76
+42,Hiro,Rodrigues,39.0,Other,Belo Horizonte,MG,2024-10-05,consumer,gold,direct,1,131.81
+43,Olivia,Cardoso,26.0,F,Rio de Janeiro,RJ,2023-01-20,consumer,bronze,social,1,57.85
+44,Isabela,Lima,40.0,F,Belo Horizonte,MG,2025-11-02,consumer,bronze,direct,1,25.34
+45,Felipe,Matsuda,34.0,Other,Porto Alegre,RS,2024-08-06,small_business,bronze,email,0,34.93
+46,Ana,Melo,34.0,F,Goiania,GO,2025-12-19,consumer,silver,referral,1,45.11
+47,Daniel,Souza,18.0,M,Brasilia,DF,2024-06-25,small_business,bronze,social,0,74.58
+48,Juyoung,Nagata,39.0,Other,Fortaleza,CE,2024-03-07,consumer,bronze,organic,1,112.11
+49,Carla,Tanaka,51.0,F,Curitiba,PR,2023-04-15,consumer,bronze,direct,1,
+50,Felipe,Matsuda,55.0,,Brasilia,DF,2024-06-20,consumer,bronze,paid_search,1,123.9
+51,Andre,Lima,38.0,Other,Rio de Janeiro,RJ,2023-06-04,consumer,bronze,social,1,106.14
+52,Eduarda,Santos,31.0,F,Brasilia,DF,2025-05-30,consumer,silver,email,0,31.54
+53,Mateus,Souza,48.0,,Belo Horizonte,MG,2024-05-26,consumer,gold,email,0,28.18
+54,Beatriz,Pereira,35.0,M,Florianopolis,SC,2023-11-13,consumer,silver,direct,1,46.52
+55,Pedro,Nagata,49.0,,Sao Paulo,SP,2024-01-03,consumer,silver,direct,1,31.73
+56,Isabela,Costa,36.0,F,Florianopolis,SC,2024-05-23,consumer,bronze,direct,0,45.9
+57,Hiro,Almeida,28.0,,Sao Paulo,SP,2025-08-21,consumer,silver,email,1,111.03
+58,Ana,Almeida,42.0,Other,Belo Horizonte,MG,2024-04-01,consumer,bronze,referral,1,97.3
+59,Yuki,Barbosa,33.0,Other,Curitiba,PR,2024-12-20,consumer,gold,paid_search,1,71.55
+60,Felipe,Ribeiro,31.0,Other,Rio de Janeiro,RJ,2024-06-18,small_business,gold,organic,1,128.93
+61,Lucas,Nagata,47.0,F,Fortaleza,CE,2025-06-08,consumer,gold,social,0,67.53
+62,Isabela,Santos,37.0,F,Fortaleza,CE,2024-01-25,enterprise,silver,email,1,61.68
+63,Lucas,Tanaka,23.0,Other,Campinas,SP,2024-02-08,consumer,gold,referral,1,32.18
+64,Pedro,Ferreira,33.0,,Goiania,GO,2023-09-13,consumer,silver,social,1,38.93
+65,Sofia,Lima,25.0,,Florianopolis,SC,2024-08-28,consumer,gold,email,0,54.99
+66,Marina,Melo,36.0,Other,Brasilia,DF,2024-09-08,consumer,gold,email,0,49.2
+67,Olivia,Matsuda,19.0,M,Recife,PE,2024-10-21,small_business,platinum,direct,1,28.66
+68,Mateus,Oliveira,26.0,Other,Florianopolis,SC,2023-12-14,small_business,silver,social,1,58.67
+69,Hiro,Almeida,33.0,F,Belo Horizonte,MG,2024-09-27,consumer,silver,organic,0,36.54
+70,Olivia,Tanaka,37.0,M,Salvador,BA,2023-05-30,small_business,silver,direct,1,40.6
+71,Marina,Pereira,40.0,F,Recife,PE,2025-10-09,consumer,platinum,organic,1,52.42
+72,Hiro,Costa,36.0,,Rio de Janeiro,RJ,2025-05-20,consumer,silver,direct,1,67.19
+73,Olivia,Lima,48.0,Other,Belo Horizonte,MG,2023-09-06,consumer,silver,email,1,118.58
+74,Nicolas,Melo,55.0,M,Salvador,BA,2025-10-30,consumer,bronze,social,1,41.06
+75,Isabela,Pereira,26.0,Other,Salvador,BA,2025-07-10,enterprise,platinum,email,1,72.98
+76,Yuki,Pereira,43.0,F,Campinas,SP,2025-09-19,consumer,bronze,direct,1,47.17
+77,Karen,Nagata,20.0,F,Belo Horizonte,MG,2024-07-10,small_business,gold,organic,0,200.11
+78,Juyoung,Lima,45.0,F,Belo Horizonte,MG,2025-02-23,enterprise,bronze,email,1,50.32
+79,Nicolas,Santos,32.0,,Porto Alegre,RS,2025-08-12,consumer,bronze,organic,1,140.15
+80,Julia,Ribeiro,34.0,F,Fortaleza,CE,2023-02-10,small_business,platinum,direct,1,68.59
+81,Julia,Tanaka,23.0,M,Curitiba,PR,2025-03-09,enterprise,silver,paid_search,1,61.23
+82,Paulo,Silva,18.0,,Curitiba,PR,2025-06-11,consumer,silver,social,1,143.54
+83,Valentina,Melo,,,Salvador,BA,2023-09-19,consumer,silver,direct,1,69.44
+84,Carla,Tanaka,40.0,,Goiania,GO,2023-02-25,consumer,bronze,organic,0,151.59
+85,Karen,Almeida,44.0,Other,Curitiba,PR,2025-02-15,consumer,silver,direct,1,23.21
+86,Luisa,Tanaka,49.0,F,Recife,PE,2024-07-23,consumer,silver,direct,1,69.72
+87,Lucas,Pereira,18.0,F,Florianopolis,SC,2023-04-17,consumer,platinum,social,1,64.5
+88,Camila,Silva,20.0,M,Belo Horizonte,MG,2024-02-13,consumer,bronze,organic,0,99.66
+89,Tiago,Almeida,37.0,Other,Goiania,GO,2023-08-23,consumer,bronze,direct,1,37.94
+90,Luisa,Costa,24.0,F,Brasilia,DF,2023-08-23,consumer,bronze,organic,1,90.24
+91,Marina,Almeida,32.0,M,Curitiba,PR,2025-02-07,consumer,bronze,social,1,35.83
+92,Rafael,Ribeiro,27.0,Other,Curitiba,PR,2023-09-05,small_business,gold,organic,1,75.82
+93,Carla,Barbosa,40.0,F,Goiania,GO,2025-01-28,consumer,bronze,paid_search,1,105.06
+94,Nicolas,Kim,18.0,,Salvador,BA,2023-08-05,consumer,gold,organic,1,151.43
+95,Pedro,Barbosa,39.0,Other,Recife,PE,2023-12-27,consumer,silver,organic,1,80.38
+96,Olivia,Tanaka,18.0,Other,Campinas,SP,2025-09-17,consumer,bronze,organic,1,75.35
+97,Isabela,Matsuda,27.0,,Belo Horizonte,MG,2023-06-27,consumer,gold,email,1,34.85
+98,Karen,Silva,33.0,Other,Goiania,GO,2025-02-15,consumer,silver,email,1,162.06
+99,Rafael,Rodrigues,23.0,Other,Belo Horizonte,MG,2024-12-27,consumer,bronze,email,1,59.49
+100,Carla,Pereira,20.0,,Campinas,SP,2024-01-27,consumer,bronze,paid_search,0,93.48
+101,Yuki,Araujo,28.0,F,Belo Horizonte,MG,2025-09-02,consumer,gold,organic,1,39.71
+102,Juyoung,Pereira,36.0,Other,Belo Horizonte,MG,2025-04-08,consumer,bronze,direct,1,64.71
+103,Nicolas,Melo,28.0,,Campinas,SP,2024-12-05,consumer,silver,direct,1,104.92
+104,Daniel,Almeida,18.0,M,Curitiba,PR,2024-04-17,small_business,bronze,paid_search,1,92.39
+105,Isabela,Ribeiro,18.0,Other,Florianopolis,SC,2025-09-18,consumer,silver,paid_search,1,68.64
+106,Hiro,Kim,33.0,F,Belo Horizonte,MG,2024-08-29,consumer,bronze,paid_search,0,32.25
+107,Bruno,Santos,44.0,M,Brasilia,DF,2024-07-15,consumer,silver,referral,1,47.18
+108,Julia,Silva,18.0,,Salvador,BA,2023-07-30,consumer,gold,direct,1,41.34
+109,Bruno,Rodrigues,37.0,,Porto Alegre,RS,2024-01-13,small_business,bronze,organic,1,46.41
+110,Paulo,Oliveira,45.0,F,Rio de Janeiro,RJ,2025-03-31,consumer,gold,paid_search,0,77.68
+111,Carla,Pereira,37.0,,Fortaleza,CE,2024-09-14,consumer,silver,paid_search,1,51.8
+112,Luisa,Barbosa,46.0,,Fortaleza,CE,2024-04-07,consumer,bronze,social,1,52.2
+113,Joao,Ribeiro,34.0,F,Fortaleza,CE,2025-05-28,consumer,gold,social,1,182.34
+114,Isabela,Oliveira,36.0,M,Belo Horizonte,MG,2024-03-08,consumer,platinum,email,1,105.9
+115,Nicolas,Matsuda,37.0,,Brasilia,DF,2023-01-06,consumer,silver,direct,1,51.98
+116,Juyoung,Ferreira,29.0,,Belo Horizonte,MG,2024-08-13,consumer,gold,organic,1,40.05
+117,Rafael,Ribeiro,38.0,M,Belo Horizonte,MG,2024-06-25,consumer,gold,organic,1,81.47
+118,Yuki,Lima,31.0,M,Campinas,SP,2024-04-05,small_business,bronze,paid_search,1,37.07
+119,Valentina,Ribeiro,42.0,,Brasilia,DF,2024-09-21,consumer,silver,paid_search,1,150.41
+120,Juyoung,Park,18.0,,Florianopolis,SC,2024-09-14,consumer,platinum,organic,1,163.63
+121,Andre,Tanaka,58.0,Other,Fortaleza,CE,2023-03-23,consumer,gold,direct,1,72.06
+122,Luisa,Rodrigues,38.0,M,Belo Horizonte,MG,2023-02-12,consumer,bronze,email,1,76.27
+123,Beatriz,Rodrigues,49.0,,Goiania,GO,2025-06-24,small_business,gold,social,0,49.07
+124,Paulo,Kim,34.0,Other,Salvador,BA,2023-07-06,consumer,bronze,organic,1,128.58
+125,Nicolas,Araujo,23.0,,Brasilia,DF,2024-11-06,consumer,gold,paid_search,1,24.71
+126,Olivia,Oliveira,30.0,Other,Campinas,SP,2023-03-17,consumer,silver,organic,0,181.53
+127,Camila,Silva,18.0,,Recife,PE,2025-11-19,small_business,bronze,email,1,64.55
+128,Lucas,Cardoso,31.0,,Belo Horizonte,MG,2025-11-27,consumer,platinum,social,1,34.33
+129,Sofia,Lima,34.0,,Belo Horizonte,MG,2024-06-30,consumer,gold,paid_search,1,65.73
+130,Ana,Cardoso,33.0,M,Salvador,BA,2023-09-06,consumer,bronze,referral,1,48.13
+131,Carla,Pereira,18.0,F,Sao Paulo,SP,2025-04-15,consumer,silver,organic,1,128.37
+132,Paulo,Ferreira,19.0,Other,Rio de Janeiro,RJ,2023-11-12,consumer,bronze,organic,0,41.82
+133,Hiro,Matsuda,43.0,,Salvador,BA,2025-08-25,consumer,bronze,paid_search,1,143.01
+134,Pedro,Lima,28.0,Other,Fortaleza,CE,2025-11-06,consumer,bronze,organic,1,89.45
+135,Beatriz,Barbosa,41.0,F,Recife,PE,2024-11-27,small_business,bronze,email,1,87.06
+136,Julia,Lima,39.0,,Curitiba,PR,2025-09-29,consumer,bronze,paid_search,0,55.38
+137,Olivia,Nagata,37.0,M,Campinas,SP,2025-02-11,consumer,gold,direct,1,31.48
+138,Bruno,Nagata,26.0,,Belo Horizonte,MG,2025-04-21,consumer,bronze,email,1,28.64
+139,Paulo,Santos,18.0,Other,Goiania,GO,2023-11-08,consumer,platinum,referral,0,184.54
+140,Renata,Matsuda,,M,Salvador,BA,2023-07-24,small_business,gold,social,0,129.28
+141,Carla,Araujo,37.0,Other,Goiania,GO,2023-11-13,consumer,bronze,organic,1,23.9
+142,Yuki,Oliveira,34.0,,Florianopolis,SC,2025-03-25,consumer,bronze,organic,1,82.15
+143,Julia,Melo,35.0,F,Goiania,GO,2025-09-26,consumer,silver,email,1,37.08
+144,Hiro,Oliveira,36.0,F,Goiania,GO,2024-08-11,consumer,silver,organic,1,120.26
+145,Olivia,Costa,18.0,F,Florianopolis,SC,2023-07-25,consumer,bronze,organic,1,30.95
+146,Lucas,Kim,35.0,M,Sao Paulo,SP,2024-08-23,consumer,bronze,paid_search,1,42.38
+147,Felipe,Costa,24.0,,Fortaleza,CE,2024-01-04,consumer,silver,email,1,125.48
+148,Beatriz,Ribeiro,25.0,,Belo Horizonte,MG,2025-10-16,consumer,bronze,email,0,101.51
+149,Mateus,Silva,59.0,,Salvador,BA,2024-06-06,consumer,gold,organic,0,62.95
+150,Carla,Matsuda,33.0,Other,Goiania,GO,2023-11-20,consumer,silver,paid_search,1,192.96
+151,Olivia,Ferreira,40.0,,Recife,PE,2024-05-27,consumer,silver,paid_search,0,119.53
+152,Marina,Ribeiro,33.0,Other,Rio de Janeiro,RJ,2024-04-30,consumer,silver,direct,1,96.78
+153,Camila,Park,39.0,F,Curitiba,PR,2023-02-14,consumer,gold,paid_search,1,127.54
+154,Camila,Ferreira,38.0,M,Florianopolis,SC,2025-10-14,consumer,silver,direct,0,75.54
+155,Yuki,Almeida,23.0,M,Porto Alegre,RS,2024-03-24,small_business,platinum,direct,1,125.45
+156,Joao,Matsuda,34.0,Other,Goiania,GO,2023-03-22,consumer,gold,organic,1,67.89
+157,Karen,Tanaka,29.0,M,Rio de Janeiro,RJ,2024-08-27,consumer,silver,paid_search,1,55.4
+158,Renata,Rodrigues,32.0,Other,Porto Alegre,RS,2025-12-23,consumer,gold,paid_search,1,51.22
+159,Pedro,Nagata,36.0,,Salvador,BA,2024-08-27,consumer,bronze,direct,0,113.72
+160,Julia,Park,34.0,Other,Brasilia,DF,2024-04-07,small_business,gold,direct,1,126.38
+161,Isabela,Melo,28.0,Other,Recife,PE,2023-01-29,consumer,silver,direct,1,155.34
+162,Tiago,Park,29.0,Other,Goiania,GO,2024-06-20,consumer,gold,paid_search,0,159.5
+163,Ana,Cardoso,20.0,Other,Belo Horizonte,MG,2025-08-23,consumer,bronze,organic,0,38.43
+164,Yuki,Matsuda,33.0,Other,Belo Horizonte,MG,2023-05-10,consumer,silver,paid_search,1,76.75
+165,Bruno,Santos,43.0,,Rio de Janeiro,RJ,2023-10-14,enterprise,silver,email,0,58.65
+166,Eduarda,Park,35.0,,Belo Horizonte,MG,2026-01-05,consumer,silver,paid_search,0,89.61
+167,Andre,Tanaka,27.0,,Florianopolis,SC,2023-11-13,small_business,bronze,organic,1,47.79
+168,Juyoung,Kim,48.0,,Curitiba,PR,2023-03-09,consumer,bronze,direct,1,47.35
+169,Mateus,Kim,36.0,Other,Porto Alegre,RS,2023-07-23,consumer,silver,organic,1,26.86
+170,Daniel,Matsuda,27.0,M,Curitiba,PR,2024-01-24,small_business,platinum,direct,1,52.85
+171,Bruno,Nagata,40.0,M,Fortaleza,CE,2023-02-13,consumer,bronze,paid_search,1,222.77
+172,Camila,Melo,33.0,M,Belo Horizonte,MG,2023-05-21,consumer,bronze,email,0,195.73
+173,Luisa,Lima,33.0,F,Belo Horizonte,MG,2024-11-03,consumer,silver,direct,1,136.05
+174,Sofia,Rodrigues,40.0,F,Brasilia,DF,2023-09-24,consumer,gold,referral,1,201.95
+175,Ana,Kim,42.0,M,Sao Paulo,SP,2023-09-27,consumer,silver,email,1,90.41
+176,Isabela,Santos,32.0,,Sao Paulo,SP,2023-12-23,consumer,gold,organic,1,72.82
+177,Paulo,Matsuda,34.0,F,Florianopolis,SC,2023-05-11,consumer,bronze,email,1,143.61
+178,Pedro,Barbosa,20.0,F,Belo Horizonte,MG,2023-03-30,consumer,silver,referral,0,104.35
+179,Nicolas,Souza,36.0,,Salvador,BA,2025-04-02,enterprise,bronze,email,1,171.82
+180,Valentina,Lima,29.0,Other,Rio de Janeiro,RJ,2024-10-21,consumer,silver,organic,1,74.92
+181,Marina,Cardoso,45.0,,Fortaleza,CE,2024-10-27,consumer,gold,direct,1,26.74
+182,Rafael,Souza,28.0,M,Recife,PE,2023-07-23,small_business,bronze,organic,1,83.62
+183,Karen,Matsuda,49.0,F,Belo Horizonte,MG,2025-04-27,consumer,silver,paid_search,1,64.11
+184,Lucas,Lima,19.0,,Porto Alegre,RS,2024-06-06,consumer,gold,email,1,20.0
+185,Nicolas,Souza,36.0,Other,Rio de Janeiro,RJ,2023-07-10,consumer,bronze,direct,0,47.54
+186,Tiago,Melo,40.0,F,Campinas,SP,2023-05-03,consumer,silver,social,1,62.83
+187,Julia,Santos,33.0,Other,Goiania,GO,2025-05-16,small_business,bronze,paid_search,0,77.17
+188,Gabriela,Lima,21.0,M,Fortaleza,CE,2025-11-05,small_business,silver,direct,1,158.58
+189,Daniel,Rodrigues,37.0,,Porto Alegre,RS,2025-01-22,small_business,gold,referral,1,87.71
+190,Valentina,Rodrigues,,Other,Fortaleza,CE,2023-02-23,small_business,silver,organic,0,102.04
+191,Lucas,Silva,27.0,M,Curitiba,PR,2024-11-26,consumer,silver,organic,1,196.48
+192,Eduarda,Silva,42.0,M,Recife,PE,2023-05-23,consumer,silver,organic,0,45.08
+193,Felipe,Kim,29.0,Other,Salvador,BA,2024-11-29,consumer,bronze,email,1,20.0
+194,Andre,Santos,24.0,F,Fortaleza,CE,2023-06-23,consumer,platinum,organic,1,64.8
+195,Mateus,Tanaka,49.0,,Curitiba,PR,2025-06-26,consumer,bronze,paid_search,1,112.89
+196,Daniel,Kim,31.0,Other,Belo Horizonte,MG,2025-11-15,consumer,bronze,social,0,44.29
+197,Renata,Ferreira,51.0,,Fortaleza,CE,2025-09-23,small_business,bronze,organic,0,97.95
+198,Gabriela,Ferreira,47.0,M,Sao Paulo,SP,2023-01-16,consumer,platinum,organic,1,116.14
+199,Daniel,Silva,40.0,,Curitiba,PR,2024-11-02,consumer,gold,paid_search,1,84.44
+200,Juyoung,Pereira,47.0,Other,Recife,PE,2025-12-26,consumer,silver,social,1,75.08
+201,Nicolas,Silva,27.0,F,Florianopolis,SC,2023-03-28,small_business,bronze,direct,1,49.88
+202,Tiago,Park,39.0,,Fortaleza,CE,2025-05-29,consumer,silver,email,1,47.27
+203,Karen,Costa,34.0,,Recife,PE,2023-02-12,consumer,silver,organic,0,71.67
+204,Nicolas,Souza,31.0,,Porto Alegre,RS,2023-06-30,small_business,silver,referral,1,24.5
+205,Pedro,Nagata,21.0,M,Recife,PE,2024-09-27,enterprise,bronze,direct,1,27.7
+206,Renata,Barbosa,50.0,Other,Goiania,GO,2023-08-22,consumer,gold,direct,1,50.64
+207,Hiro,Souza,40.0,M,Goiania,GO,2023-10-30,small_business,bronze,email,1,25.9
+208,Felipe,Araujo,27.0,,Brasilia,DF,2023-06-04,consumer,gold,organic,1,84.56
+209,Julia,Nagata,33.0,F,Fortaleza,CE,2024-10-23,consumer,gold,social,1,134.78
+210,Rafael,Rodrigues,45.0,Other,Goiania,GO,2024-09-12,consumer,bronze,direct,1,23.48
+211,Olivia,Santos,21.0,Other,Curitiba,PR,2025-08-03,small_business,bronze,direct,1,133.82
+212,Marina,Matsuda,34.0,F,Rio de Janeiro,RJ,2025-11-04,consumer,gold,social,1,30.88
+213,Karen,Cardoso,49.0,M,Fortaleza,CE,2024-01-21,consumer,bronze,organic,1,111.07
+214,Rafael,Nagata,30.0,F,Salvador,BA,2023-07-31,small_business,gold,email,1,231.84
+215,Hiro,Matsuda,31.0,M,Brasilia,DF,2023-03-22,consumer,bronze,social,1,59.28
+216,Nicolas,Nagata,41.0,F,Curitiba,PR,2025-03-04,consumer,silver,organic,0,63.53
+217,Carla,Nagata,43.0,,Goiania,GO,2024-11-16,consumer,silver,social,1,82.1
+218,Karen,Oliveira,45.0,M,Florianopolis,SC,2023-11-04,consumer,silver,direct,0,35.73
+219,Eduarda,Cardoso,27.0,F,Curitiba,PR,2025-03-13,small_business,bronze,email,1,210.28
+220,Camila,Lima,35.0,F,Recife,PE,2024-11-03,consumer,silver,direct,1,83.01
+221,Lucas,Silva,45.0,M,Recife,PE,2025-11-07,consumer,silver,social,1,135.94
+222,Gabriela,Pereira,37.0,M,Porto Alegre,RS,2025-09-22,enterprise,bronze,direct,1,42.41
+223,Luisa,Melo,37.0,F,Rio de Janeiro,RJ,2025-11-05,consumer,gold,direct,1,85.9
+224,Valentina,Park,45.0,M,Fortaleza,CE,2023-09-26,small_business,gold,referral,1,31.93
+225,Pedro,Matsuda,32.0,Other,Fortaleza,CE,2023-12-06,consumer,bronze,paid_search,1,71.91
+226,Valentina,Ferreira,49.0,,Belo Horizonte,MG,2025-06-28,consumer,silver,paid_search,1,40.12
+227,Rafael,Araujo,50.0,M,Belo Horizonte,MG,2024-09-25,consumer,silver,paid_search,1,122.23
+228,Olivia,Ferreira,18.0,,Fortaleza,CE,2025-06-21,consumer,bronze,social,1,263.63
+229,Julia,Rodrigues,44.0,,Belo Horizonte,MG,2023-10-11,consumer,gold,direct,1,288.26
+230,Juyoung,Barbosa,41.0,Other,Campinas,SP,2023-07-30,consumer,gold,organic,1,78.94
+231,Olivia,Barbosa,26.0,,Brasilia,DF,2024-07-12,consumer,bronze,paid_search,1,56.35
+232,Andre,Kim,35.0,,Belo Horizonte,MG,2025-07-12,consumer,silver,email,1,153.73
+233,Hiro,Park,24.0,Other,Campinas,SP,2025-02-04,consumer,silver,organic,1,58.28
+234,Camila,Nagata,27.0,M,Porto Alegre,RS,2023-07-22,consumer,bronze,direct,1,80.79
+235,Luisa,Araujo,36.0,F,Salvador,BA,2023-10-12,consumer,silver,direct,1,151.18
+236,Gabriela,Lima,34.0,,Sao Paulo,SP,2024-06-08,consumer,bronze,email,1,68.33
+237,Joao,Souza,21.0,,Curitiba,PR,2024-05-01,small_business,bronze,direct,1,44.0
+238,Carla,Souza,27.0,,Fortaleza,CE,2025-07-25,consumer,silver,email,0,78.84
+239,Tiago,Pereira,40.0,Other,Sao Paulo,SP,2025-11-21,consumer,bronze,organic,1,85.48
+240,Hiro,Ribeiro,43.0,F,Fortaleza,CE,2024-12-23,consumer,bronze,email,1,251.22
+241,Renata,Melo,25.0,F,Porto Alegre,RS,2023-05-19,consumer,silver,email,1,178.3
+242,Yuki,Park,39.0,Other,Salvador,BA,2023-03-31,consumer,bronze,organic,1,177.16
+243,Lucas,Pereira,28.0,F,Porto Alegre,RS,2023-05-19,consumer,bronze,organic,1,36.28
+244,Eduarda,Santos,36.0,Other,Florianopolis,SC,2024-11-11,small_business,silver,social,1,26.22
+245,Juyoung,Araujo,46.0,M,Brasilia,DF,2025-08-09,enterprise,silver,email,1,32.27
+246,Joao,Almeida,26.0,M,Salvador,BA,2023-03-17,consumer,platinum,organic,1,64.49
+247,Renata,Park,35.0,,Porto Alegre,RS,2024-09-27,consumer,silver,referral,1,28.55
+248,Joao,Kim,44.0,F,Goiania,GO,2024-01-27,small_business,bronze,social,0,96.11
+249,Daniel,Kim,46.0,,Porto Alegre,RS,2024-07-13,consumer,silver,organic,1,72.6
+250,Felipe,Araujo,35.0,Other,Recife,PE,2024-11-25,small_business,silver,organic,1,60.86
+251,Rafael,Oliveira,26.0,F,Campinas,SP,2024-06-30,consumer,platinum,email,1,30.0
+252,Karen,Souza,22.0,Other,Brasilia,DF,2024-08-24,consumer,silver,direct,1,20.0
+253,Felipe,Matsuda,34.0,F,Fortaleza,CE,2025-05-22,consumer,gold,direct,1,62.84
+254,Isabela,Santos,27.0,,Porto Alegre,RS,2025-06-09,consumer,bronze,organic,1,120.93
+255,Ana,Lima,34.0,,Florianopolis,SC,2023-11-24,consumer,gold,organic,1,66.32
+256,Luisa,Kim,33.0,F,Rio de Janeiro,RJ,2024-04-28,consumer,gold,organic,1,108.93
+257,Lucas,Kim,23.0,F,Goiania,GO,2025-07-10,consumer,bronze,organic,0,55.53
+258,Marina,Nagata,34.0,M,Campinas,SP,2025-01-21,enterprise,silver,paid_search,1,91.64
+259,Paulo,Barbosa,24.0,F,Sao Paulo,SP,2024-01-17,consumer,bronze,email,1,61.16
+260,Gabriela,Cardoso,31.0,,Curitiba,PR,2025-07-02,consumer,platinum,organic,1,163.11
+261,Olivia,Costa,27.0,,Brasilia,DF,2023-06-01,consumer,bronze,social,1,55.62
+262,Mateus,Kim,38.0,Other,Goiania,GO,2024-10-16,consumer,silver,social,1,136.24
+263,Rafael,Kim,20.0,F,Brasilia,DF,2023-12-23,consumer,bronze,direct,1,58.27
+264,Rafael,Araujo,,Other,Brasilia,DF,2024-04-29,consumer,bronze,referral,0,20.0
+265,Valentina,Oliveira,19.0,,Campinas,SP,2023-09-23,consumer,bronze,direct,1,74.44
+266,Renata,Tanaka,33.0,F,Florianopolis,SC,2025-09-07,consumer,silver,social,1,94.4
+267,Olivia,Matsuda,33.0,Other,Porto Alegre,RS,2023-06-01,consumer,bronze,referral,1,38.09
+268,Luisa,Lima,20.0,F,Campinas,SP,2024-01-08,consumer,gold,direct,1,25.33
+269,Joao,Costa,27.0,M,Campinas,SP,2023-11-10,consumer,silver,paid_search,1,124.45
+270,Julia,Oliveira,55.0,Other,Campinas,SP,2024-08-04,consumer,gold,email,1,46.37
+271,Carla,Barbosa,34.0,M,Curitiba,PR,2025-12-28,consumer,gold,social,1,42.43
+272,Camila,Ribeiro,30.0,F,Fortaleza,CE,2024-11-22,consumer,bronze,direct,1,74.5
+273,Yuki,Almeida,20.0,,Goiania,GO,2024-06-26,consumer,gold,email,1,37.23
+274,Andre,Melo,45.0,Other,Sao Paulo,SP,2025-10-16,consumer,bronze,organic,1,102.65
+275,Joao,Matsuda,43.0,F,Goiania,GO,2025-04-11,consumer,bronze,paid_search,0,42.35
+276,Olivia,Almeida,47.0,M,Recife,PE,2025-09-18,consumer,silver,organic,1,93.11
+277,Pedro,Kim,27.0,M,Florianopolis,SC,2024-10-15,enterprise,silver,email,1,116.36
+278,Karen,Pereira,39.0,Other,Campinas,SP,2023-08-06,consumer,bronze,direct,1,126.91
+279,Bruno,Ferreira,23.0,,Brasilia,DF,2023-07-18,consumer,silver,direct,1,20.5
+280,Beatriz,Ribeiro,31.0,M,Brasilia,DF,2024-11-01,small_business,silver,paid_search,1,56.48
+281,Olivia,Araujo,32.0,,Salvador,BA,2025-11-20,small_business,silver,direct,1,79.01
+282,Olivia,Pereira,40.0,Other,Recife,PE,2025-11-01,consumer,silver,direct,1,134.84
+283,Valentina,Araujo,37.0,F,Curitiba,PR,2025-10-10,small_business,bronze,social,1,45.11
+284,Andre,Rodrigues,37.0,,Recife,PE,2023-10-02,consumer,silver,paid_search,1,185.18
+285,Tiago,Melo,41.0,Other,Recife,PE,2023-04-15,consumer,gold,organic,1,83.82
+286,Luisa,Melo,31.0,F,Campinas,SP,2025-07-11,small_business,bronze,email,1,40.03
+287,Lucas,Nagata,22.0,Other,Rio de Janeiro,RJ,2025-03-17,consumer,gold,email,0,87.07
+288,Marina,Barbosa,26.0,F,Belo Horizonte,MG,2025-11-08,enterprise,bronze,paid_search,0,98.39
+289,Renata,Matsuda,41.0,M,Porto Alegre,RS,2025-08-28,enterprise,bronze,social,1,53.32
+290,Felipe,Park,36.0,Other,Fortaleza,CE,2024-10-14,consumer,bronze,email,0,116.69
+291,Sofia,Araujo,18.0,Other,Campinas,SP,2025-11-09,small_business,bronze,email,1,142.24
+292,Karen,Souza,28.0,Other,Sao Paulo,SP,2025-01-24,consumer,silver,email,1,74.49
+293,Valentina,Araujo,44.0,M,Florianopolis,SC,2023-02-24,consumer,gold,social,0,95.16
+294,Felipe,Barbosa,32.0,,Fortaleza,CE,2025-09-10,small_business,silver,referral,1,50.81
+295,Bruno,Ribeiro,22.0,F,Goiania,GO,2024-05-11,consumer,silver,organic,1,59.37
+296,Nicolas,Lima,49.0,M,Salvador,BA,2024-10-04,enterprise,platinum,email,1,97.37
+297,Julia,Santos,46.0,M,Fortaleza,CE,2025-08-23,consumer,bronze,direct,1,94.56
+298,Renata,Park,52.0,M,Goiania,GO,2025-09-06,consumer,bronze,paid_search,0,168.33
+299,Sofia,Kim,35.0,Other,Campinas,SP,2024-12-02,consumer,platinum,paid_search,1,23.08
+300,Isabela,Melo,39.0,Other,Belo Horizonte,MG,2024-05-19,consumer,silver,organic,0,48.44
+301,Juyoung,Araujo,33.0,Other,Florianopolis,SC,2024-02-29,consumer,silver,referral,0,193.13
+302,Joao,Souza,24.0,,Florianopolis,SC,2024-07-14,small_business,silver,direct,0,79.92
+303,Luisa,Lima,32.0,Other,Recife,PE,2024-12-07,consumer,bronze,direct,1,59.02
+304,Beatriz,Matsuda,43.0,,Rio de Janeiro,RJ,2024-12-10,consumer,gold,organic,1,41.19
+305,Beatriz,Melo,18.0,M,Campinas,SP,2024-07-09,consumer,gold,organic,1,113.34
+306,Hiro,Santos,34.0,M,Florianopolis,SC,2024-05-05,small_business,bronze,social,1,90.88
+307,Nicolas,Nagata,41.0,F,Sao Paulo,SP,2023-07-25,consumer,silver,social,1,31.42
+308,Sofia,Costa,18.0,,Brasilia,DF,2023-01-11,consumer,bronze,paid_search,1,134.13
+309,Karen,Ferreira,36.0,F,Belo Horizonte,MG,2024-08-11,consumer,bronze,direct,1,132.84
+310,Pedro,Santos,35.0,M,Belo Horizonte,MG,2025-12-31,consumer,bronze,social,1,53.51
+311,Camila,Park,38.0,M,Brasilia,DF,2023-03-16,consumer,bronze,email,1,114.7
+312,Ana,Ferreira,34.0,F,Curitiba,PR,2023-03-18,small_business,silver,organic,1,43.09
+313,Olivia,Melo,27.0,M,Porto Alegre,RS,2024-08-05,consumer,bronze,referral,1,41.28
+314,Gabriela,Souza,37.0,,Salvador,BA,2024-07-12,small_business,gold,paid_search,1,57.32
+315,Ana,Nagata,42.0,M,Florianopolis,SC,2024-01-17,consumer,silver,organic,1,63.64
+316,Camila,Tanaka,29.0,F,Goiania,GO,2025-04-10,small_business,platinum,paid_search,1,132.83
+317,Eduarda,Araujo,43.0,M,Rio de Janeiro,RJ,2024-01-14,consumer,silver,referral,1,
+318,Olivia,Rodrigues,34.0,Other,Recife,PE,2024-04-27,consumer,silver,referral,1,111.24
+319,Isabela,Kim,30.0,F,Fortaleza,CE,2023-01-24,consumer,gold,email,0,52.34
+320,Felipe,Park,54.0,Other,Salvador,BA,2024-09-20,consumer,gold,direct,1,35.14
+321,Lucas,Cardoso,33.0,M,Goiania,GO,2024-08-27,enterprise,silver,email,0,87.48
+322,Nicolas,Melo,32.0,M,Salvador,BA,2025-02-04,consumer,bronze,email,1,120.47
+323,Renata,Matsuda,39.0,Other,Goiania,GO,2023-06-17,consumer,gold,organic,1,81.08
+324,Bruno,Melo,35.0,M,Fortaleza,CE,2023-08-18,consumer,bronze,social,1,147.02
+325,Karen,Barbosa,18.0,M,Brasilia,DF,2023-12-03,consumer,gold,paid_search,0,46.31
+326,Andre,Barbosa,42.0,F,Salvador,BA,2023-07-06,consumer,bronze,organic,1,92.58
+327,Olivia,Ribeiro,50.0,,Campinas,SP,2025-04-30,consumer,silver,paid_search,1,54.96
+328,Marina,Rodrigues,38.0,M,Curitiba,PR,2023-02-14,consumer,bronze,email,1,65.73
+329,Lucas,Oliveira,29.0,F,Sao Paulo,SP,2025-05-17,consumer,gold,paid_search,1,75.24
+330,Bruno,Ferreira,42.0,M,Rio de Janeiro,RJ,2025-08-24,consumer,silver,paid_search,1,29.74
+331,Lucas,Park,39.0,,Florianopolis,SC,2025-05-10,small_business,gold,referral,1,74.27
+332,Yuki,Kim,38.0,,Goiania,GO,2023-09-30,consumer,silver,organic,1,57.7
+333,Camila,Silva,45.0,Other,Florianopolis,SC,2024-04-01,consumer,bronze,direct,0,62.04
+334,Sofia,Park,28.0,M,Florianopolis,SC,2025-05-18,consumer,gold,paid_search,1,63.16
+335,Gabriela,Souza,39.0,,Brasilia,DF,2024-07-18,small_business,gold,organic,1,57.07
+336,Gabriela,Oliveira,24.0,F,Sao Paulo,SP,2024-05-07,small_business,bronze,direct,0,127.94
+337,Hiro,Santos,37.0,M,Goiania,GO,2023-04-10,consumer,bronze,organic,1,200.92
+338,Renata,Ferreira,41.0,Other,Sao Paulo,SP,2023-10-14,consumer,bronze,referral,0,25.29
+339,Hiro,Ferreira,43.0,M,Goiania,GO,2024-10-18,small_business,bronze,organic,1,186.12
+340,Sofia,Ribeiro,34.0,M,Curitiba,PR,2023-05-05,consumer,gold,email,0,133.9
+341,Bruno,Kim,43.0,,Recife,PE,2025-10-12,small_business,silver,social,1,90.08
+342,Nicolas,Lima,27.0,M,Porto Alegre,RS,2025-05-02,small_business,silver,direct,1,22.23
+343,Julia,Pereira,50.0,M,Salvador,BA,2024-05-08,consumer,silver,paid_search,1,146.78
+344,Nicolas,Melo,31.0,,Sao Paulo,SP,2025-04-25,consumer,silver,direct,1,40.21
+345,Yuki,Oliveira,34.0,Other,Belo Horizonte,MG,2024-11-07,consumer,bronze,paid_search,1,184.39
+346,Bruno,Rodrigues,27.0,F,Florianopolis,SC,2024-01-26,consumer,bronze,direct,1,65.22
+347,Paulo,Almeida,19.0,Other,Belo Horizonte,MG,2024-03-20,consumer,bronze,paid_search,1,63.44
+348,Beatriz,Almeida,30.0,F,Sao Paulo,SP,2024-03-09,small_business,silver,social,1,42.47
+349,Juyoung,Cardoso,32.0,,Salvador,BA,2024-05-11,consumer,silver,organic,1,99.76
+350,Luisa,Ferreira,44.0,Other,Campinas,SP,2024-10-20,consumer,silver,direct,0,67.54
+351,Andre,Araujo,26.0,,Porto Alegre,RS,2025-11-16,consumer,bronze,direct,1,26.89
+352,Lucas,Nagata,18.0,M,Porto Alegre,RS,2024-02-21,small_business,platinum,direct,0,114.09
+353,Sofia,Ribeiro,29.0,,Sao Paulo,SP,2024-06-18,consumer,bronze,email,1,72.83
+354,Hiro,Park,31.0,M,Belo Horizonte,MG,2024-11-06,consumer,bronze,organic,1,39.07
+355,Isabela,Araujo,32.0,,Goiania,GO,2024-11-22,consumer,bronze,direct,1,69.83
+356,Felipe,Lima,23.0,,Florianopolis,SC,2024-12-22,consumer,bronze,email,1,155.49
+357,Renata,Santos,43.0,F,Campinas,SP,2023-05-01,consumer,bronze,direct,0,79.22
+358,Luisa,Silva,22.0,M,Goiania,GO,2023-04-10,consumer,silver,paid_search,1,71.17
+359,Gabriela,Barbosa,28.0,F,Brasilia,DF,2023-01-19,consumer,silver,paid_search,1,70.51
+360,Mateus,Araujo,,,Goiania,GO,2025-09-16,consumer,silver,email,1,
+361,Sofia,Ferreira,,,Campinas,SP,2024-07-16,consumer,gold,direct,1,44.6
+362,Beatriz,Souza,32.0,M,Brasilia,DF,2023-08-08,consumer,silver,paid_search,1,108.47
+363,Camila,Kim,44.0,,Campinas,SP,2024-05-31,consumer,bronze,social,0,131.11
+364,Tiago,Pereira,30.0,M,Recife,PE,2025-07-29,consumer,bronze,email,1,106.46
+365,Carla,Park,28.0,,Rio de Janeiro,RJ,2023-03-06,consumer,bronze,email,1,58.82
+366,Carla,Araujo,21.0,Other,Sao Paulo,SP,2023-12-17,enterprise,silver,email,0,46.74
+367,Beatriz,Santos,29.0,,Rio de Janeiro,RJ,2025-12-17,consumer,platinum,social,0,66.11
+368,Andre,Melo,33.0,F,Rio de Janeiro,RJ,2024-07-28,consumer,bronze,referral,1,53.41
+369,Gabriela,Ribeiro,39.0,,Porto Alegre,RS,2023-02-02,consumer,platinum,paid_search,1,55.85
+370,Tiago,Pereira,45.0,,Curitiba,PR,2023-11-29,enterprise,bronze,direct,1,83.24
+371,Marina,Lima,18.0,F,Campinas,SP,2024-11-10,consumer,bronze,email,1,33.92
+372,Daniel,Tanaka,40.0,F,Porto Alegre,RS,2023-04-20,consumer,bronze,paid_search,1,90.06
+373,Luisa,Nagata,,Other,Fortaleza,CE,2025-03-23,consumer,platinum,email,1,50.24
+374,Hiro,Kim,23.0,,Salvador,BA,2025-10-01,consumer,silver,social,1,76.98
+375,Carla,Cardoso,45.0,M,Goiania,GO,2025-02-17,consumer,bronze,social,0,215.94
+376,Eduarda,Park,60.0,M,Rio de Janeiro,RJ,2024-07-02,consumer,platinum,direct,1,27.06
+377,Daniel,Oliveira,,Other,Porto Alegre,RS,2025-01-08,consumer,gold,organic,1,70.72
+378,Eduarda,Oliveira,40.0,,Curitiba,PR,2023-07-29,enterprise,bronze,social,1,53.42
+379,Daniel,Silva,45.0,F,Campinas,SP,2025-04-15,consumer,bronze,paid_search,1,64.66
+380,Ana,Ferreira,28.0,F,Porto Alegre,RS,2025-02-27,consumer,silver,email,1,152.12
+381,Tiago,Barbosa,33.0,,Campinas,SP,2024-05-12,small_business,gold,email,1,79.15
+382,Isabela,Araujo,32.0,M,Curitiba,PR,2024-09-08,small_business,silver,direct,1,60.9
+383,Paulo,Oliveira,39.0,M,Recife,PE,2024-09-05,consumer,gold,organic,1,20.0
+384,Olivia,Souza,45.0,F,Salvador,BA,2024-02-05,consumer,bronze,paid_search,1,117.74
+385,Rafael,Nagata,27.0,,Porto Alegre,RS,2025-02-17,consumer,platinum,organic,1,111.88
+386,Joao,Nagata,43.0,M,Goiania,GO,2023-10-06,consumer,bronze,referral,1,90.73
+387,Karen,Ferreira,27.0,,Brasilia,DF,2025-03-26,small_business,gold,email,1,86.41
+388,Marina,Rodrigues,37.0,,Belo Horizonte,MG,2024-10-29,consumer,silver,organic,1,126.73
+389,Tiago,Melo,27.0,F,Fortaleza,CE,2024-02-14,consumer,bronze,direct,1,61.15
+390,Olivia,Ferreira,18.0,F,Salvador,BA,2024-03-05,consumer,silver,referral,1,75.79
+391,Eduarda,Ferreira,18.0,M,Recife,PE,2025-10-19,consumer,bronze,direct,1,42.2
+392,Olivia,Cardoso,42.0,,Recife,PE,2023-06-01,consumer,silver,paid_search,1,59.36
+393,Sofia,Santos,34.0,Other,Florianopolis,SC,2025-05-06,consumer,silver,organic,1,78.76
+394,Daniel,Pereira,18.0,Other,Campinas,SP,2023-06-24,consumer,silver,organic,1,74.46
+395,Tiago,Park,42.0,Other,Fortaleza,CE,2023-04-01,small_business,gold,email,1,37.18
+396,Ana,Souza,37.0,M,Recife,PE,2023-08-05,consumer,silver,paid_search,0,49.14
+397,Luisa,Ribeiro,28.0,M,Recife,PE,2025-08-06,small_business,bronze,organic,1,73.07
+398,Daniel,Ferreira,30.0,F,Sao Paulo,SP,2025-09-15,small_business,bronze,paid_search,1,73.19
+399,Lucas,Ferreira,27.0,M,Florianopolis,SC,2023-10-18,consumer,bronze,direct,1,55.58
+400,Daniel,Matsuda,36.0,,Porto Alegre,RS,2025-09-02,consumer,gold,paid_search,1,74.9
+401,Rafael,Souza,,Other,Curitiba,PR,2023-04-02,consumer,bronze,email,1,47.01
+402,Beatriz,Pereira,43.0,M,Goiania,GO,2023-12-03,enterprise,gold,direct,1,140.01
+403,Hiro,Park,27.0,M,Recife,PE,2025-08-04,small_business,silver,organic,1,55.17
+404,Ana,Cardoso,34.0,,Recife,PE,2025-03-21,consumer,silver,paid_search,1,95.65
+405,Juyoung,Almeida,28.0,F,Recife,PE,2023-01-10,small_business,bronze,direct,1,61.03
+406,Lucas,Nagata,40.0,F,Campinas,SP,2024-01-18,consumer,gold,paid_search,1,33.67
+407,Yuki,Nagata,18.0,,Salvador,BA,2025-12-16,consumer,silver,referral,1,108.93
+408,Julia,Matsuda,22.0,Other,Porto Alegre,RS,2024-12-21,consumer,bronze,direct,1,178.68
+409,Mateus,Lima,28.0,M,Fortaleza,CE,2023-06-23,consumer,silver,paid_search,1,60.48
+410,Juyoung,Lima,31.0,,Brasilia,DF,2025-02-03,consumer,bronze,social,1,36.72
+411,Nicolas,Costa,33.0,M,Fortaleza,CE,2025-02-24,enterprise,silver,email,1,56.96
+412,Eduarda,Costa,41.0,,Salvador,BA,2024-08-14,consumer,platinum,organic,0,102.61
+413,Paulo,Lima,40.0,,Porto Alegre,RS,2023-01-20,consumer,bronze,organic,1,95.12
+414,Nicolas,Araujo,35.0,,Campinas,SP,2025-10-10,consumer,bronze,organic,1,168.92
+415,Rafael,Pereira,35.0,Other,Rio de Janeiro,RJ,2023-03-05,small_business,bronze,direct,1,68.75
+416,Luisa,Matsuda,31.0,,Curitiba,PR,2023-12-11,consumer,bronze,organic,1,163.03
+417,Isabela,Melo,32.0,Other,Rio de Janeiro,RJ,2023-08-22,small_business,silver,organic,1,24.88
+418,Sofia,Almeida,34.0,F,Sao Paulo,SP,2025-06-22,enterprise,bronze,paid_search,1,76.59
+419,Joao,Santos,30.0,Other,Goiania,GO,2024-05-21,consumer,gold,email,0,55.11
+420,Julia,Souza,38.0,M,Rio de Janeiro,RJ,2025-06-18,consumer,silver,paid_search,1,132.17
+421,Julia,Cardoso,31.0,M,Florianopolis,SC,2024-12-19,consumer,gold,email,0,88.22
+422,Rafael,Santos,25.0,Other,Belo Horizonte,MG,2024-02-28,consumer,platinum,social,1,233.63
+423,Juyoung,Ferreira,54.0,Other,Brasilia,DF,2024-10-24,consumer,bronze,direct,1,66.96
+424,Eduarda,Tanaka,18.0,Other,Campinas,SP,2023-07-15,consumer,bronze,social,1,167.35
+425,Hiro,Lima,29.0,M,Brasilia,DF,2023-09-29,enterprise,bronze,direct,1,94.93
+426,Paulo,Lima,18.0,Other,Goiania,GO,2025-03-15,consumer,silver,organic,1,88.0
+427,Carla,Oliveira,38.0,Other,Recife,PE,2025-07-14,small_business,bronze,social,1,67.46
+428,Paulo,Nagata,41.0,F,Porto Alegre,RS,2025-07-20,consumer,bronze,email,1,30.69
+429,Julia,Oliveira,30.0,,Salvador,BA,2025-01-03,consumer,bronze,direct,1,66.66
+430,Paulo,Rodrigues,21.0,Other,Recife,PE,2024-03-09,consumer,gold,referral,0,95.84
+431,Tiago,Araujo,29.0,F,Fortaleza,CE,2023-09-25,consumer,silver,organic,1,64.09
+432,Ana,Souza,41.0,M,Goiania,GO,2025-07-30,enterprise,bronze,referral,1,59.82
+433,Gabriela,Lima,48.0,Other,Sao Paulo,SP,2025-05-26,small_business,platinum,email,1,46.51
+434,Yuki,Kim,27.0,Other,Curitiba,PR,2023-07-11,consumer,bronze,email,1,107.17
+435,Bruno,Park,34.0,M,Goiania,GO,2023-12-05,consumer,bronze,organic,0,37.62
+436,Ana,Almeida,29.0,M,Rio de Janeiro,RJ,2023-07-14,enterprise,silver,social,1,100.66
+437,Ana,Silva,50.0,F,Campinas,SP,2025-06-30,consumer,bronze,direct,1,71.0
+438,Paulo,Oliveira,32.0,F,Recife,PE,2023-09-28,small_business,silver,social,1,115.93
+439,Karen,Kim,21.0,M,Rio de Janeiro,RJ,2023-07-31,consumer,gold,paid_search,0,82.95
+440,Carla,Barbosa,18.0,M,Brasilia,DF,2023-10-20,small_business,gold,paid_search,1,75.14
+441,Yuki,Lima,40.0,,Florianopolis,SC,2024-03-12,consumer,gold,social,1,136.39
+442,Eduarda,Souza,28.0,,Rio de Janeiro,RJ,2023-07-25,consumer,gold,organic,1,63.5
+443,Rafael,Lima,27.0,F,Recife,PE,2024-10-06,enterprise,bronze,paid_search,1,68.07
+444,Luisa,Silva,40.0,Other,Fortaleza,CE,2024-08-06,small_business,gold,social,1,33.47
+445,Gabriela,Park,45.0,F,Fortaleza,CE,2025-11-09,small_business,bronze,paid_search,1,37.01
+446,Marina,Souza,28.0,F,Belo Horizonte,MG,2025-10-10,consumer,silver,organic,1,156.56
+447,Beatriz,Nagata,25.0,,Sao Paulo,SP,2025-01-09,small_business,silver,direct,0,91.24
+448,Luisa,Araujo,40.0,F,Goiania,GO,2023-12-20,consumer,silver,referral,0,
+449,Isabela,Almeida,53.0,F,Rio de Janeiro,RJ,2023-01-29,consumer,platinum,direct,1,430.93
+450,Joao,Barbosa,30.0,,Recife,PE,2025-11-03,small_business,silver,referral,1,195.81
+451,Sofia,Cardoso,42.0,F,Rio de Janeiro,RJ,2026-01-03,consumer,bronze,paid_search,1,46.05
+452,Rafael,Lima,38.0,,Campinas,SP,2024-02-21,consumer,silver,direct,1,106.42
+453,Joao,Tanaka,23.0,M,Goiania,GO,2023-05-16,small_business,gold,social,0,52.86
+454,Daniel,Matsuda,18.0,F,Rio de Janeiro,RJ,2025-06-08,consumer,gold,email,1,53.83
+455,Daniel,Silva,34.0,F,Florianopolis,SC,2023-12-26,consumer,gold,organic,1,44.87
+456,Renata,Rodrigues,18.0,M,Porto Alegre,RS,2025-12-07,consumer,gold,organic,1,128.8
+457,Luisa,Silva,40.0,,Curitiba,PR,2023-08-30,consumer,gold,paid_search,1,52.71
+458,Juyoung,Ribeiro,46.0,,Rio de Janeiro,RJ,2024-06-22,small_business,bronze,email,0,78.0
+459,Paulo,Ribeiro,18.0,M,Porto Alegre,RS,2023-04-24,consumer,bronze,email,1,85.22
+460,Hiro,Barbosa,,F,Rio de Janeiro,RJ,2023-08-25,consumer,gold,paid_search,1,167.37
+461,Marina,Lima,22.0,F,Salvador,BA,2025-01-15,consumer,bronze,direct,1,139.98
+462,Hiro,Nagata,45.0,Other,Florianopolis,SC,2025-05-08,consumer,bronze,referral,0,159.03
+463,Daniel,Barbosa,24.0,F,Rio de Janeiro,RJ,2025-02-02,consumer,platinum,organic,1,37.55
+464,Marina,Oliveira,31.0,Other,Campinas,SP,2023-04-05,consumer,silver,social,1,38.3
+465,Carla,Melo,19.0,Other,Curitiba,PR,2024-11-01,consumer,silver,paid_search,1,45.15
+466,Pedro,Cardoso,36.0,Other,Fortaleza,CE,2024-09-14,consumer,bronze,organic,1,69.52
+467,Pedro,Melo,28.0,M,Salvador,BA,2024-02-05,consumer,silver,email,1,56.66
+468,Hiro,Melo,42.0,F,Recife,PE,2023-02-18,consumer,silver,paid_search,1,33.48
+469,Julia,Ferreira,44.0,M,Sao Paulo,SP,2025-02-09,enterprise,bronze,organic,1,78.48
+470,Juyoung,Rodrigues,39.0,M,Sao Paulo,SP,2023-10-19,consumer,silver,email,1,81.81
+471,Juyoung,Kim,31.0,F,Campinas,SP,2025-04-25,consumer,bronze,social,1,64.97
+472,Yuki,Park,45.0,F,Campinas,SP,2023-10-01,consumer,silver,direct,0,54.57
+473,Joao,Rodrigues,33.0,,Brasilia,DF,2024-04-29,consumer,gold,direct,1,60.06
+474,Karen,Matsuda,29.0,F,Florianopolis,SC,2024-10-30,consumer,bronze,email,1,25.43
+475,Eduarda,Souza,21.0,,Brasilia,DF,2023-08-12,consumer,bronze,organic,1,100.87
+476,Lucas,Almeida,26.0,,Rio de Janeiro,RJ,2026-01-02,consumer,bronze,organic,1,44.07
+477,Felipe,Ferreira,40.0,F,Rio de Janeiro,RJ,2023-07-05,consumer,bronze,direct,1,162.77
+478,Carla,Pereira,38.0,,Porto Alegre,RS,2023-10-31,small_business,silver,paid_search,1,88.52
+479,Isabela,Costa,42.0,,Goiania,GO,2024-09-04,consumer,bronze,paid_search,1,113.56
+480,Daniel,Matsuda,44.0,M,Campinas,SP,2024-05-26,consumer,bronze,direct,1,275.43
+481,Eduarda,Almeida,31.0,Other,Sao Paulo,SP,2024-03-31,consumer,bronze,email,1,159.49
+482,Tiago,Ribeiro,53.0,F,Goiania,GO,2023-06-22,small_business,bronze,direct,1,42.1
+483,Andre,Matsuda,30.0,F,Rio de Janeiro,RJ,2024-02-09,consumer,silver,organic,1,64.89
+484,Bruno,Matsuda,29.0,,Porto Alegre,RS,2023-09-08,consumer,bronze,organic,0,158.57
+485,Ana,Park,41.0,M,Recife,PE,2025-10-13,small_business,silver,organic,1,81.78
+486,Isabela,Matsuda,23.0,F,Brasilia,DF,2024-07-17,consumer,silver,paid_search,1,40.64
+487,Yuki,Ferreira,38.0,,Fortaleza,CE,2024-05-18,consumer,gold,direct,1,92.61
+488,Eduarda,Tanaka,34.0,M,Curitiba,PR,2025-02-23,enterprise,gold,organic,1,20.0
+489,Marina,Kim,35.0,,Campinas,SP,2023-02-09,consumer,gold,email,1,399.88
+490,Karen,Park,38.0,F,Fortaleza,CE,2025-10-25,consumer,silver,organic,1,95.98
+491,Andre,Rodrigues,39.0,,Belo Horizonte,MG,2023-03-02,consumer,bronze,organic,0,38.43
+492,Felipe,Souza,43.0,M,Fortaleza,CE,2024-04-21,consumer,bronze,organic,0,115.71
+493,Luisa,Pereira,26.0,,Florianopolis,SC,2023-04-25,consumer,bronze,social,1,31.34
+494,Hiro,Ribeiro,20.0,Other,Brasilia,DF,2023-12-27,consumer,platinum,email,1,47.52
+495,Tiago,Ribeiro,18.0,M,Sao Paulo,SP,2024-12-21,consumer,silver,email,0,21.59
+496,Felipe,Araujo,18.0,F,Salvador,BA,2024-09-24,small_business,silver,social,0,66.82
+497,Renata,Araujo,,M,Belo Horizonte,MG,2023-02-10,consumer,bronze,email,1,77.73
+498,Beatriz,Nagata,42.0,M,Porto Alegre,RS,2023-12-30,consumer,silver,social,0,57.93
+499,Julia,Barbosa,60.0,F,Brasilia,DF,2023-08-16,consumer,silver,paid_search,0,34.22
+500,Tiago,Souza,36.0,Other,Goiania,GO,2025-03-21,small_business,gold,direct,1,191.55
+501,Rafael,Araujo,44.0,M,Brasilia,DF,2025-06-13,consumer,bronze,direct,1,45.81
+502,Hiro,Ribeiro,25.0,,Campinas,SP,2024-12-31,consumer,gold,direct,1,64.19
+503,Eduarda,Costa,42.0,,Florianopolis,SC,2024-08-26,enterprise,bronze,email,0,20.0
+504,Felipe,Cardoso,46.0,M,Fortaleza,CE,2023-03-08,consumer,platinum,email,1,49.64
+505,Eduarda,Nagata,27.0,M,Rio de Janeiro,RJ,2025-10-13,consumer,bronze,paid_search,1,32.66
+506,Yuki,Oliveira,42.0,Other,Porto Alegre,RS,2023-12-10,consumer,bronze,paid_search,1,143.3
+507,Hiro,Oliveira,31.0,F,Curitiba,PR,2024-03-05,small_business,gold,email,0,66.43
+508,Olivia,Tanaka,38.0,,Sao Paulo,SP,2025-03-01,small_business,gold,direct,1,159.73
+509,Sofia,Park,38.0,,Recife,PE,2024-12-20,consumer,gold,organic,1,39.78
+510,Felipe,Matsuda,36.0,F,Fortaleza,CE,2024-04-06,small_business,gold,email,1,88.05
+511,Daniel,Oliveira,35.0,,Porto Alegre,RS,2024-06-18,consumer,bronze,social,1,117.31
+512,Karen,Cardoso,25.0,,Rio de Janeiro,RJ,2023-07-10,consumer,bronze,paid_search,1,45.09
+513,Valentina,Tanaka,34.0,F,Recife,PE,2023-12-04,consumer,bronze,email,1,114.59
+514,Juyoung,Melo,39.0,Other,Belo Horizonte,MG,2025-04-18,small_business,bronze,email,1,123.76
+515,Daniel,Santos,35.0,,Curitiba,PR,2024-05-01,consumer,bronze,organic,1,92.94
+516,Nicolas,Oliveira,38.0,,Porto Alegre,RS,2023-01-08,consumer,silver,direct,1,29.36
+517,Felipe,Ferreira,27.0,,Sao Paulo,SP,2024-02-28,consumer,silver,paid_search,1,94.56
+518,Paulo,Araujo,37.0,Other,Curitiba,PR,2025-03-25,consumer,silver,paid_search,1,26.08
+519,Felipe,Kim,30.0,Other,Campinas,SP,2025-03-04,small_business,platinum,direct,1,103.45
+520,Olivia,Matsuda,38.0,Other,Sao Paulo,SP,2024-06-23,consumer,bronze,direct,1,26.54
+521,Carla,Kim,41.0,,Brasilia,DF,2023-07-18,small_business,platinum,paid_search,0,96.3
+522,Sofia,Santos,23.0,,Fortaleza,CE,2024-04-10,consumer,bronze,referral,1,57.6
+523,Tiago,Pereira,44.0,F,Goiania,GO,2025-08-30,consumer,bronze,referral,1,30.35
+524,Renata,Ribeiro,37.0,M,Florianopolis,SC,2023-03-13,consumer,silver,direct,1,128.33
+525,Felipe,Almeida,35.0,M,Salvador,BA,2023-12-21,small_business,silver,email,1,67.65
+526,Gabriela,Lima,38.0,Other,Rio de Janeiro,RJ,2025-06-10,small_business,gold,paid_search,1,28.8
+527,Carla,Park,40.0,Other,Florianopolis,SC,2023-05-18,consumer,bronze,social,1,113.42
+528,Beatriz,Silva,23.0,,Campinas,SP,2025-07-27,enterprise,bronze,social,1,162.23
+529,Tiago,Ribeiro,44.0,F,Brasilia,DF,2023-10-31,consumer,bronze,email,1,149.14
+530,Rafael,Ferreira,39.0,Other,Fortaleza,CE,2023-07-26,consumer,silver,direct,0,39.33
+531,Yuki,Araujo,49.0,,Curitiba,PR,2025-02-23,small_business,gold,direct,1,111.32
+532,Eduarda,Cardoso,18.0,,Curitiba,PR,2025-04-05,consumer,silver,paid_search,1,55.81
+533,Bruno,Araujo,51.0,Other,Porto Alegre,RS,2024-05-01,consumer,bronze,organic,1,171.37
+534,Isabela,Araujo,35.0,F,Curitiba,PR,2024-09-28,small_business,gold,email,1,42.31
+535,Joao,Matsuda,40.0,Other,Belo Horizonte,MG,2023-10-03,consumer,gold,direct,0,41.16
+536,Gabriela,Matsuda,36.0,,Recife,PE,2023-07-02,enterprise,silver,direct,0,109.09
+537,Camila,Santos,28.0,M,Campinas,SP,2025-02-04,enterprise,gold,direct,1,59.27
+538,Marina,Lima,31.0,F,Florianopolis,SC,2025-11-03,consumer,bronze,paid_search,1,42.61
+539,Hiro,Santos,29.0,Other,Belo Horizonte,MG,2023-04-29,consumer,bronze,direct,1,56.21
+540,Camila,Matsuda,33.0,F,Curitiba,PR,2025-01-24,consumer,gold,paid_search,1,88.91
+541,Paulo,Cardoso,29.0,,Belo Horizonte,MG,2025-02-01,consumer,bronze,email,0,53.99
+542,Felipe,Rodrigues,39.0,F,Porto Alegre,RS,2024-12-06,consumer,bronze,direct,0,47.73
+543,Felipe,Ribeiro,33.0,M,Recife,PE,2023-04-12,consumer,silver,direct,0,40.08
+544,Mateus,Almeida,35.0,,Goiania,GO,2024-04-06,consumer,silver,paid_search,1,335.57
+545,Paulo,Lima,33.0,F,Goiania,GO,2023-01-19,consumer,gold,organic,1,40.45
+546,Juyoung,Rodrigues,51.0,,Fortaleza,CE,2024-09-17,consumer,silver,referral,1,55.0
+547,Gabriela,Matsuda,37.0,,Salvador,BA,2024-05-31,small_business,platinum,direct,1,20.98
+548,Mateus,Kim,33.0,Other,Sao Paulo,SP,2025-11-13,small_business,silver,social,1,28.7
+549,Carla,Nagata,43.0,Other,Rio de Janeiro,RJ,2025-09-13,consumer,bronze,social,1,53.52
+550,Gabriela,Lima,31.0,M,Curitiba,PR,2024-09-03,enterprise,bronze,email,1,55.71
+551,Mateus,Nagata,56.0,F,Fortaleza,CE,2025-04-07,consumer,silver,paid_search,1,60.62
+552,Beatriz,Tanaka,36.0,F,Curitiba,PR,2024-06-15,consumer,bronze,paid_search,1,34.52
+553,Karen,Pereira,28.0,,Fortaleza,CE,2024-01-24,small_business,platinum,email,0,109.95
+554,Renata,Ferreira,46.0,M,Goiania,GO,2025-01-04,consumer,bronze,email,1,49.01
+555,Pedro,Rodrigues,28.0,M,Salvador,BA,2023-09-20,consumer,bronze,paid_search,1,89.15
+556,Hiro,Kim,25.0,Other,Porto Alegre,RS,2023-07-02,consumer,gold,referral,1,39.17
+557,Isabela,Ribeiro,27.0,F,Porto Alegre,RS,2025-01-31,consumer,bronze,organic,1,87.8
+558,Paulo,Almeida,24.0,,Goiania,GO,2023-05-26,consumer,gold,social,1,44.67
+559,Julia,Lima,27.0,M,Recife,PE,2023-04-21,consumer,silver,email,1,87.76
+560,Eduarda,Nagata,28.0,M,Fortaleza,CE,2025-07-26,small_business,bronze,organic,1,153.39
+561,Yuki,Costa,35.0,F,Salvador,BA,2024-11-12,consumer,gold,social,1,
+562,Luisa,Costa,18.0,M,Curitiba,PR,2024-03-04,small_business,bronze,organic,1,187.69
+563,Valentina,Tanaka,28.0,,Rio de Janeiro,RJ,2023-09-23,consumer,bronze,organic,1,81.26
+564,Ana,Santos,29.0,Other,Salvador,BA,2025-02-24,small_business,bronze,referral,1,141.78
+565,Gabriela,Silva,40.0,M,Porto Alegre,RS,2025-12-23,small_business,bronze,organic,0,202.18
+566,Eduarda,Souza,34.0,Other,Porto Alegre,RS,2024-10-01,small_business,bronze,paid_search,0,145.11
+567,Joao,Matsuda,34.0,Other,Sao Paulo,SP,2024-09-02,small_business,bronze,email,1,77.58
+568,Karen,Araujo,42.0,M,Goiania,GO,2023-10-02,enterprise,gold,referral,1,50.74
+569,Hiro,Pereira,42.0,M,Recife,PE,2023-02-09,enterprise,bronze,paid_search,0,161.35
+570,Felipe,Souza,18.0,F,Sao Paulo,SP,2025-10-30,consumer,gold,direct,1,52.69
+571,Luisa,Melo,40.0,F,Goiania,GO,2024-06-07,consumer,bronze,organic,1,59.48
+572,Bruno,Souza,34.0,,Goiania,GO,2023-02-10,consumer,silver,email,1,20.0
+573,Juyoung,Lima,38.0,F,Curitiba,PR,2025-08-29,small_business,gold,referral,0,166.1
+574,Mateus,Barbosa,24.0,M,Goiania,GO,2023-07-26,consumer,gold,direct,1,190.27
+575,Pedro,Cardoso,45.0,F,Rio de Janeiro,RJ,2025-11-13,consumer,bronze,organic,1,34.34
+576,Valentina,Almeida,46.0,M,Salvador,BA,2024-02-11,consumer,gold,social,1,57.09
+577,Felipe,Santos,18.0,M,Recife,PE,2024-08-27,consumer,silver,organic,0,64.0
+578,Hiro,Silva,,F,Salvador,BA,2024-11-08,consumer,gold,email,1,71.05
+579,Eduarda,Oliveira,36.0,F,Fortaleza,CE,2025-10-08,consumer,gold,social,1,143.08
+580,Yuki,Pereira,32.0,Other,Rio de Janeiro,RJ,2024-06-08,consumer,silver,organic,1,70.53
+581,Camila,Costa,49.0,Other,Sao Paulo,SP,2023-07-24,consumer,silver,social,0,95.71
+582,Nicolas,Souza,36.0,F,Goiania,GO,2024-10-02,consumer,platinum,direct,1,
+583,Karen,Kim,18.0,Other,Brasilia,DF,2023-12-16,consumer,bronze,email,1,39.8
+584,Camila,Nagata,39.0,,Rio de Janeiro,RJ,2025-02-02,consumer,silver,paid_search,1,29.93
+585,Camila,Park,33.0,,Salvador,BA,2024-07-10,consumer,bronze,direct,1,147.74
+586,Daniel,Lima,18.0,F,Goiania,GO,2023-12-08,small_business,bronze,social,1,20.0
+587,Nicolas,Ribeiro,29.0,,Brasilia,DF,2023-08-01,consumer,bronze,direct,0,133.27
+588,Valentina,Silva,35.0,M,Recife,PE,2025-01-04,consumer,bronze,social,1,87.32
+589,Andre,Tanaka,38.0,F,Salvador,BA,2023-08-20,enterprise,silver,email,0,36.99
+590,Juyoung,Barbosa,24.0,M,Porto Alegre,RS,2023-01-26,consumer,platinum,email,0,58.91
+591,Renata,Barbosa,41.0,F,Goiania,GO,2024-11-23,consumer,gold,direct,1,20.0
+592,Paulo,Kim,20.0,,Florianopolis,SC,2024-05-24,consumer,bronze,social,1,43.57
+593,Ana,Costa,28.0,,Campinas,SP,2023-04-22,consumer,bronze,organic,1,75.39
+594,Luisa,Araujo,33.0,Other,Brasilia,DF,2023-06-03,consumer,gold,email,1,48.54
+595,Hiro,Melo,51.0,,Sao Paulo,SP,2025-11-04,enterprise,bronze,direct,1,67.43
+596,Olivia,Ribeiro,36.0,,Rio de Janeiro,RJ,2025-07-29,consumer,bronze,referral,1,101.05
+597,Pedro,Silva,26.0,,Rio de Janeiro,RJ,2025-10-15,consumer,gold,organic,1,198.51
+598,Camila,Oliveira,46.0,Other,Campinas,SP,2023-01-01,consumer,bronze,direct,1,72.55
+599,Yuki,Matsuda,33.0,Other,Campinas,SP,2024-02-28,consumer,bronze,email,1,138.57
+600,Karen,Melo,33.0,,Belo Horizonte,MG,2025-07-19,consumer,bronze,email,1,85.78
+601,Daniel,Souza,32.0,M,Porto Alegre,RS,2025-07-15,small_business,bronze,direct,0,
+602,Sofia,Barbosa,50.0,F,Porto Alegre,RS,2024-08-20,consumer,bronze,direct,1,126.77
+603,Eduarda,Tanaka,21.0,M,Brasilia,DF,2025-10-05,consumer,silver,social,0,94.01
+604,Olivia,Almeida,30.0,F,Recife,PE,2024-03-17,small_business,gold,organic,1,32.28
+605,Luisa,Matsuda,44.0,M,Sao Paulo,SP,2023-09-10,consumer,bronze,organic,1,180.05
+606,Pedro,Santos,38.0,,Sao Paulo,SP,2025-12-22,small_business,bronze,organic,0,53.8
+607,Luisa,Costa,18.0,M,Salvador,BA,2025-11-07,consumer,silver,organic,1,147.08
+608,Marina,Cardoso,33.0,Other,Brasilia,DF,2023-08-01,consumer,bronze,direct,1,65.2
+609,Valentina,Pereira,43.0,Other,Recife,PE,2025-05-07,consumer,gold,paid_search,1,36.14
+610,Eduarda,Tanaka,33.0,Other,Salvador,BA,2023-10-01,small_business,gold,paid_search,1,46.45
+611,Juyoung,Melo,32.0,M,Campinas,SP,2024-10-04,consumer,gold,organic,1,38.94
+612,Mateus,Kim,18.0,M,Florianopolis,SC,2024-08-18,consumer,bronze,social,0,53.26
+613,Renata,Melo,47.0,Other,Goiania,GO,2023-12-31,small_business,bronze,organic,1,80.47
+614,Tiago,Ribeiro,22.0,,Porto Alegre,RS,2025-09-10,consumer,bronze,organic,1,23.31
+615,Andre,Tanaka,24.0,F,Campinas,SP,2024-08-08,consumer,bronze,direct,1,96.06
+616,Mateus,Santos,23.0,M,Brasilia,DF,2023-04-19,consumer,bronze,email,1,42.46
+617,Eduarda,Santos,43.0,Other,Goiania,GO,2024-05-28,consumer,bronze,referral,1,91.22
+618,Lucas,Matsuda,22.0,M,Campinas,SP,2023-03-08,consumer,platinum,organic,1,114.0
+619,Hiro,Barbosa,42.0,Other,Campinas,SP,2025-03-07,small_business,bronze,social,1,199.89
+620,Marina,Tanaka,18.0,Other,Sao Paulo,SP,2025-02-20,consumer,silver,direct,1,21.58
+621,Pedro,Rodrigues,35.0,,Sao Paulo,SP,2023-01-27,small_business,silver,referral,0,86.08
+622,Luisa,Ribeiro,24.0,M,Goiania,GO,2025-01-23,small_business,bronze,direct,0,44.43
+623,Olivia,Costa,43.0,F,Belo Horizonte,MG,2024-08-25,consumer,silver,email,1,87.42
+624,Daniel,Park,41.0,Other,Brasilia,DF,2025-11-18,consumer,bronze,referral,1,194.24
+625,Tiago,Rodrigues,,,Brasilia,DF,2023-11-26,consumer,gold,paid_search,0,105.06
+626,Eduarda,Nagata,36.0,Other,Brasilia,DF,2023-03-23,small_business,bronze,referral,1,36.87
+627,Carla,Nagata,41.0,M,Fortaleza,CE,2025-01-03,consumer,silver,organic,0,65.14
+628,Nicolas,Melo,23.0,F,Campinas,SP,2023-11-23,consumer,bronze,paid_search,1,209.95
+629,Karen,Kim,35.0,,Belo Horizonte,MG,2024-11-10,consumer,silver,organic,0,117.07
+630,Daniel,Kim,18.0,M,Goiania,GO,2023-01-19,small_business,bronze,organic,1,125.87
+631,Marina,Souza,36.0,Other,Goiania,GO,2024-10-19,consumer,gold,referral,1,21.87
+632,Renata,Barbosa,37.0,F,Campinas,SP,2025-02-06,consumer,bronze,paid_search,1,72.88
+633,Karen,Barbosa,45.0,F,Goiania,GO,2024-01-30,consumer,bronze,referral,1,157.87
+634,Ana,Oliveira,40.0,M,Campinas,SP,2025-12-28,consumer,bronze,organic,1,213.73
+635,Gabriela,Melo,36.0,,Recife,PE,2023-08-01,consumer,bronze,referral,1,98.29
+636,Ana,Matsuda,24.0,F,Rio de Janeiro,RJ,2023-11-11,consumer,bronze,email,1,150.4
+637,Rafael,Rodrigues,34.0,M,Sao Paulo,SP,2023-12-31,consumer,bronze,email,1,92.98
+638,Olivia,Park,18.0,F,Recife,PE,2025-03-05,consumer,bronze,paid_search,0,164.36
+639,Ana,Cardoso,48.0,F,Rio de Janeiro,RJ,2025-12-31,small_business,platinum,email,1,20.0
+640,Beatriz,Barbosa,21.0,Other,Rio de Janeiro,RJ,2025-01-02,consumer,silver,email,1,34.98
+641,Marina,Park,37.0,F,Curitiba,PR,2025-06-15,consumer,silver,email,1,37.99
+642,Eduarda,Park,39.0,Other,Campinas,SP,2024-03-26,consumer,gold,email,1,82.85
+643,Mateus,Kim,54.0,F,Brasilia,DF,2024-09-02,small_business,bronze,organic,1,36.28
+644,Daniel,Santos,,,Campinas,SP,2023-10-17,consumer,silver,organic,0,36.99
+645,Gabriela,Kim,35.0,M,Rio de Janeiro,RJ,2024-09-16,consumer,bronze,email,1,38.77
+646,Gabriela,Souza,33.0,F,Belo Horizonte,MG,2024-06-01,consumer,bronze,paid_search,1,46.83
+647,Yuki,Melo,49.0,F,Campinas,SP,2025-08-02,consumer,silver,social,1,94.11
+648,Karen,Kim,39.0,M,Belo Horizonte,MG,2025-09-24,consumer,gold,organic,1,195.94
+649,Andre,Almeida,23.0,,Fortaleza,CE,2023-05-23,consumer,bronze,referral,1,139.49
+650,Juyoung,Ribeiro,40.0,Other,Goiania,GO,2024-09-18,consumer,bronze,email,1,61.42
+651,Ana,Nagata,28.0,M,Recife,PE,2023-12-12,consumer,silver,organic,1,60.38
+652,Isabela,Kim,22.0,Other,Goiania,GO,2025-06-12,consumer,gold,social,1,24.23
+653,Lucas,Ferreira,26.0,F,Salvador,BA,2025-07-01,consumer,bronze,direct,1,215.28
+654,Camila,Rodrigues,38.0,M,Fortaleza,CE,2023-06-17,consumer,silver,email,1,72.14
+655,Pedro,Oliveira,18.0,F,Belo Horizonte,MG,2024-06-23,consumer,bronze,organic,1,36.07
+656,Camila,Ribeiro,55.0,M,Goiania,GO,2023-03-05,small_business,silver,paid_search,1,136.23
+657,Sofia,Melo,25.0,M,Campinas,SP,2024-06-17,consumer,gold,social,1,69.89
+658,Eduarda,Matsuda,33.0,F,Belo Horizonte,MG,2024-08-18,consumer,silver,organic,1,63.73
+659,Mateus,Pereira,39.0,M,Campinas,SP,2023-01-22,small_business,bronze,social,1,162.95
+660,Felipe,Costa,38.0,M,Brasilia,DF,2025-07-02,consumer,platinum,organic,1,93.86
+661,Bruno,Pereira,38.0,M,Salvador,BA,2025-01-04,consumer,platinum,email,1,20.0
+662,Bruno,Almeida,27.0,Other,Porto Alegre,RS,2024-04-24,consumer,silver,social,0,52.36
+663,Bruno,Nagata,42.0,Other,Salvador,BA,2023-04-06,consumer,bronze,social,0,75.54
+664,Marina,Park,38.0,F,Curitiba,PR,2023-12-23,consumer,bronze,referral,1,85.71
+665,Renata,Park,38.0,Other,Recife,PE,2024-04-01,small_business,silver,social,1,129.13
+666,Renata,Lima,56.0,M,Salvador,BA,2023-01-14,consumer,silver,email,1,113.68
+667,Gabriela,Lima,35.0,Other,Goiania,GO,2024-07-29,small_business,silver,paid_search,1,46.13
+668,Nicolas,Nagata,32.0,,Rio de Janeiro,RJ,2024-04-16,consumer,bronze,paid_search,1,41.14
+669,Tiago,Costa,32.0,,Salvador,BA,2024-03-07,consumer,silver,social,1,47.64
+670,Tiago,Ribeiro,34.0,F,Sao Paulo,SP,2023-09-19,consumer,bronze,email,1,33.02
+671,Felipe,Rodrigues,35.0,,Brasilia,DF,2023-04-25,enterprise,bronze,organic,0,123.24
+672,Andre,Ferreira,35.0,M,Fortaleza,CE,2023-02-08,consumer,bronze,direct,1,29.9
+673,Felipe,Pereira,29.0,M,Salvador,BA,2025-09-13,consumer,bronze,organic,1,58.49
+674,Isabela,Costa,26.0,Other,Brasilia,DF,2025-11-12,enterprise,silver,direct,0,30.85
+675,Hiro,Park,43.0,F,Fortaleza,CE,2023-05-21,consumer,bronze,email,1,
+676,Mateus,Tanaka,30.0,F,Campinas,SP,2025-10-29,consumer,bronze,paid_search,0,20.0
+677,Andre,Melo,49.0,F,Fortaleza,CE,2023-03-21,consumer,bronze,paid_search,0,99.38
+678,Andre,Cardoso,38.0,F,Goiania,GO,2023-09-24,consumer,silver,social,1,48.37
+679,Renata,Tanaka,32.0,F,Goiania,GO,2025-06-02,consumer,gold,direct,1,53.84
+680,Rafael,Araujo,34.0,,Recife,PE,2024-04-14,consumer,bronze,social,1,68.77
+681,Nicolas,Lima,39.0,M,Florianopolis,SC,2023-07-20,consumer,gold,social,1,48.42
+682,Valentina,Melo,38.0,M,Rio de Janeiro,RJ,2024-08-03,small_business,bronze,email,0,
+683,Tiago,Barbosa,46.0,F,Florianopolis,SC,2023-01-15,consumer,silver,direct,0,20.0
+684,Nicolas,Kim,24.0,,Belo Horizonte,MG,2024-10-08,consumer,bronze,direct,1,177.24
+685,Julia,Melo,28.0,Other,Curitiba,PR,2024-06-19,consumer,silver,social,1,32.97
+686,Luisa,Almeida,48.0,,Goiania,GO,2025-03-24,consumer,silver,email,1,203.29
+687,Isabela,Ferreira,40.0,,Campinas,SP,2025-09-17,consumer,bronze,referral,1,40.96
+688,Pedro,Pereira,42.0,M,Goiania,GO,2023-09-01,consumer,gold,referral,1,34.94
+689,Rafael,Nagata,22.0,F,Campinas,SP,2025-03-31,consumer,bronze,email,1,65.27
+690,Rafael,Oliveira,18.0,,Goiania,GO,2023-01-11,consumer,bronze,email,1,65.41
+691,Carla,Rodrigues,32.0,F,Recife,PE,2023-06-30,consumer,silver,email,1,30.58
+692,Beatriz,Park,43.0,Other,Florianopolis,SC,2025-02-26,consumer,bronze,direct,1,68.79
+693,Luisa,Costa,36.0,,Fortaleza,CE,2023-04-28,small_business,silver,referral,1,
+694,Joao,Almeida,21.0,M,Goiania,GO,2025-11-27,consumer,bronze,paid_search,1,79.22
+695,Lucas,Pereira,55.0,M,Goiania,GO,2023-03-15,consumer,silver,organic,0,148.24
+696,Lucas,Park,34.0,M,Curitiba,PR,2025-03-29,consumer,bronze,social,1,30.69
+697,Beatriz,Oliveira,44.0,Other,Florianopolis,SC,2023-05-21,small_business,bronze,organic,1,95.82
+698,Valentina,Almeida,57.0,,Curitiba,PR,2024-04-08,consumer,silver,direct,1,27.45
+699,Nicolas,Barbosa,24.0,F,Curitiba,PR,2023-12-25,small_business,bronze,paid_search,1,122.03
+700,Rafael,Barbosa,25.0,Other,Porto Alegre,RS,2023-08-28,consumer,gold,social,1,43.32
+701,Luisa,Pereira,41.0,,Recife,PE,2025-09-17,small_business,bronze,social,1,41.49
+702,Paulo,Souza,34.0,,Fortaleza,CE,2023-02-26,small_business,bronze,referral,1,71.29
+703,Rafael,Nagata,24.0,Other,Belo Horizonte,MG,2024-04-15,consumer,silver,email,1,56.23
+704,Hiro,Ferreira,18.0,Other,Sao Paulo,SP,2024-06-23,consumer,silver,referral,1,68.59
+705,Karen,Kim,18.0,Other,Brasilia,DF,2025-09-02,consumer,gold,direct,1,45.62
+706,Paulo,Almeida,38.0,M,Florianopolis,SC,2024-01-25,small_business,bronze,direct,1,78.26
+707,Gabriela,Pereira,29.0,Other,Belo Horizonte,MG,2024-04-14,consumer,bronze,paid_search,1,59.77
+708,Beatriz,Oliveira,36.0,,Rio de Janeiro,RJ,2023-09-03,consumer,gold,direct,1,75.77
+709,Julia,Araujo,38.0,Other,Campinas,SP,2023-03-28,enterprise,silver,paid_search,1,40.63
+710,Paulo,Costa,35.0,Other,Fortaleza,CE,2024-07-16,consumer,bronze,direct,1,251.52
+711,Bruno,Barbosa,45.0,,Fortaleza,CE,2023-09-20,small_business,gold,direct,1,31.35
+712,Lucas,Park,44.0,M,Sao Paulo,SP,2025-10-26,consumer,bronze,direct,0,112.55
+713,Olivia,Nagata,34.0,F,Rio de Janeiro,RJ,2025-11-27,consumer,gold,social,0,60.94
+714,Karen,Kim,35.0,Other,Recife,PE,2023-07-26,consumer,silver,social,1,139.43
+715,Isabela,Araujo,46.0,Other,Curitiba,PR,2024-04-30,small_business,silver,organic,1,60.88
+716,Gabriela,Tanaka,46.0,Other,Salvador,BA,2025-05-18,consumer,gold,referral,0,125.77
+717,Olivia,Costa,43.0,M,Recife,PE,2024-07-26,consumer,platinum,email,1,58.34
+718,Rafael,Pereira,24.0,,Florianopolis,SC,2024-07-06,enterprise,bronze,referral,1,40.36
+719,Paulo,Silva,38.0,,Florianopolis,SC,2023-11-03,consumer,bronze,paid_search,1,68.28
+720,Sofia,Nagata,44.0,Other,Goiania,GO,2025-11-24,consumer,silver,organic,1,60.65
+721,Marina,Souza,32.0,F,Fortaleza,CE,2023-04-08,consumer,silver,social,1,62.56
+722,Camila,Souza,27.0,Other,Curitiba,PR,2025-09-02,small_business,silver,social,1,94.6
+723,Lucas,Silva,42.0,Other,Porto Alegre,RS,2024-06-11,consumer,bronze,email,1,40.57
+724,Tiago,Ribeiro,41.0,M,Fortaleza,CE,2024-02-12,consumer,bronze,paid_search,1,61.98
+725,Karen,Barbosa,26.0,,Curitiba,PR,2024-12-28,consumer,bronze,referral,1,91.17
+726,Olivia,Lima,24.0,Other,Recife,PE,2024-08-09,consumer,bronze,paid_search,1,59.81
+727,Julia,Oliveira,28.0,Other,Fortaleza,CE,2025-04-08,consumer,platinum,paid_search,0,81.24
+728,Juyoung,Rodrigues,46.0,,Porto Alegre,RS,2024-08-19,consumer,silver,email,1,50.96
+729,Pedro,Ribeiro,36.0,,Salvador,BA,2025-01-13,consumer,platinum,referral,1,65.8
+730,Eduarda,Pereira,36.0,F,Brasilia,DF,2023-02-17,small_business,bronze,email,1,67.39
+731,Daniel,Oliveira,40.0,,Recife,PE,2023-07-30,consumer,gold,organic,1,47.86
+732,Renata,Oliveira,26.0,M,Sao Paulo,SP,2025-03-24,consumer,bronze,email,1,42.27
+733,Hiro,Pereira,18.0,,Recife,PE,2024-09-25,small_business,gold,social,1,31.91
+734,Camila,Costa,,Other,Brasilia,DF,2025-12-14,consumer,bronze,organic,1,54.82
+735,Olivia,Melo,37.0,,Porto Alegre,RS,2025-09-02,consumer,bronze,direct,1,39.21
+736,Tiago,Cardoso,35.0,,Florianopolis,SC,2023-12-29,consumer,platinum,paid_search,1,145.76
+737,Joao,Kim,36.0,M,Goiania,GO,2025-12-29,consumer,silver,referral,1,57.72
+738,Lucas,Tanaka,32.0,Other,Salvador,BA,2024-09-22,consumer,bronze,paid_search,1,
+739,Lucas,Ferreira,21.0,F,Campinas,SP,2023-10-07,consumer,bronze,paid_search,1,73.38
+740,Joao,Silva,40.0,Other,Salvador,BA,2025-09-04,consumer,bronze,email,0,108.47
+741,Gabriela,Tanaka,21.0,,Sao Paulo,SP,2025-02-04,consumer,bronze,direct,1,22.74
+742,Camila,Park,30.0,F,Brasilia,DF,2025-03-09,consumer,bronze,direct,0,61.92
+743,Luisa,Cardoso,30.0,Other,Belo Horizonte,MG,2025-11-24,enterprise,bronze,referral,1,78.38
+744,Rafael,Rodrigues,22.0,F,Florianopolis,SC,2025-12-25,consumer,platinum,direct,1,89.35
+745,Yuki,Matsuda,45.0,Other,Curitiba,PR,2023-08-15,consumer,bronze,paid_search,1,88.99
+746,Karen,Silva,24.0,F,Salvador,BA,2024-01-20,consumer,gold,social,0,52.53
+747,Isabela,Lima,27.0,F,Rio de Janeiro,RJ,2024-07-31,consumer,silver,email,1,43.56
+748,Paulo,Almeida,44.0,Other,Brasilia,DF,2023-01-31,consumer,silver,direct,1,50.51
+749,Olivia,Santos,46.0,M,Salvador,BA,2025-01-30,consumer,silver,paid_search,0,34.32
+750,Sofia,Araujo,20.0,Other,Recife,PE,2023-05-27,consumer,bronze,organic,1,95.09
+751,Luisa,Pereira,33.0,,Sao Paulo,SP,2023-09-07,consumer,bronze,direct,0,58.59
+752,Olivia,Souza,37.0,M,Sao Paulo,SP,2024-02-12,small_business,silver,social,1,179.86
+753,Beatriz,Nagata,23.0,F,Goiania,GO,2024-10-01,small_business,bronze,direct,1,27.49
+754,Daniel,Rodrigues,43.0,Other,Campinas,SP,2025-12-02,consumer,bronze,social,1,77.15
+755,Daniel,Pereira,37.0,Other,Sao Paulo,SP,2024-03-22,consumer,bronze,direct,1,
+756,Marina,Pereira,,F,Curitiba,PR,2023-09-03,small_business,silver,referral,1,60.5
+757,Juyoung,Cardoso,26.0,F,Florianopolis,SC,2025-08-31,small_business,bronze,referral,1,21.23
+758,Mateus,Cardoso,47.0,F,Salvador,BA,2023-07-07,small_business,gold,social,0,102.14
+759,Juyoung,Melo,50.0,M,Goiania,GO,2023-11-12,consumer,gold,paid_search,1,37.88
+760,Rafael,Matsuda,39.0,F,Porto Alegre,RS,2024-12-12,consumer,bronze,paid_search,1,42.86
+761,Isabela,Santos,19.0,,Porto Alegre,RS,2023-10-03,enterprise,silver,direct,1,63.11
+762,Gabriela,Ribeiro,43.0,Other,Campinas,SP,2025-09-30,consumer,silver,paid_search,1,64.35
+763,Julia,Cardoso,31.0,M,Salvador,BA,2024-07-17,consumer,bronze,direct,1,54.5
+764,Joao,Rodrigues,43.0,,Brasilia,DF,2025-07-09,consumer,bronze,referral,1,
+765,Marina,Costa,42.0,Other,Goiania,GO,2025-11-02,enterprise,silver,paid_search,1,105.27
+766,Pedro,Oliveira,30.0,,Belo Horizonte,MG,2024-10-18,small_business,silver,social,1,41.95
+767,Luisa,Melo,29.0,Other,Goiania,GO,2025-10-15,small_business,bronze,referral,1,115.36
+768,Daniel,Souza,31.0,F,Goiania,GO,2024-10-21,consumer,silver,social,1,30.96
+769,Julia,Santos,28.0,,Brasilia,DF,2024-01-01,consumer,bronze,email,1,46.21
+770,Mateus,Araujo,26.0,Other,Sao Paulo,SP,2025-03-06,enterprise,silver,direct,1,207.32
+771,Ana,Almeida,27.0,F,Belo Horizonte,MG,2023-05-26,consumer,silver,email,1,82.92
+772,Lucas,Melo,30.0,,Goiania,GO,2023-05-05,consumer,platinum,referral,1,34.42
+773,Camila,Cardoso,39.0,F,Florianopolis,SC,2023-04-30,consumer,silver,email,1,158.92
+774,Gabriela,Barbosa,65.0,M,Curitiba,PR,2023-06-09,consumer,silver,organic,1,33.98
+775,Renata,Pereira,53.0,M,Belo Horizonte,MG,2024-01-31,consumer,bronze,email,1,41.9
+776,Pedro,Souza,18.0,Other,Campinas,SP,2025-04-30,consumer,bronze,social,1,67.83
+777,Andre,Souza,50.0,M,Florianopolis,SC,2025-05-24,consumer,bronze,direct,1,82.8
+778,Mateus,Costa,20.0,,Campinas,SP,2024-11-22,consumer,silver,organic,0,95.16
+779,Julia,Kim,29.0,,Porto Alegre,RS,2024-10-26,consumer,silver,referral,0,97.51
+780,Tiago,Melo,24.0,Other,Porto Alegre,RS,2024-05-07,consumer,bronze,direct,0,75.13
+781,Marina,Silva,33.0,Other,Salvador,BA,2025-07-05,small_business,bronze,social,0,47.11
+782,Andre,Ferreira,,M,Campinas,SP,2023-10-04,consumer,bronze,paid_search,0,28.38
+783,Luisa,Rodrigues,26.0,M,Porto Alegre,RS,2023-02-14,small_business,platinum,direct,1,57.06
+784,Eduarda,Lima,49.0,M,Salvador,BA,2024-12-29,consumer,silver,social,1,107.91
+785,Tiago,Park,25.0,M,Curitiba,PR,2023-07-08,consumer,gold,organic,1,118.39
+786,Rafael,Araujo,36.0,F,Florianopolis,SC,2024-10-26,consumer,bronze,paid_search,1,105.59
+787,Pedro,Ribeiro,41.0,F,Curitiba,PR,2023-03-18,consumer,bronze,direct,1,360.97
+788,Andre,Tanaka,26.0,F,Porto Alegre,RS,2024-12-13,consumer,platinum,email,0,74.35
+789,Yuki,Park,48.0,F,Belo Horizonte,MG,2023-01-24,consumer,gold,email,1,87.29
+790,Karen,Barbosa,24.0,M,Fortaleza,CE,2023-11-03,consumer,bronze,direct,1,80.73
+791,Olivia,Cardoso,22.0,F,Florianopolis,SC,2025-03-15,consumer,gold,social,1,125.51
+792,Eduarda,Lima,29.0,,Curitiba,PR,2025-03-18,consumer,silver,organic,1,71.37
+793,Isabela,Oliveira,30.0,,Sao Paulo,SP,2025-03-28,consumer,gold,social,1,55.51
+794,Paulo,Melo,47.0,,Brasilia,DF,2023-10-04,small_business,bronze,social,1,58.29
+795,Hiro,Pereira,45.0,,Belo Horizonte,MG,2025-12-09,consumer,platinum,referral,1,52.86
+796,Daniel,Tanaka,23.0,Other,Fortaleza,CE,2023-07-03,small_business,bronze,paid_search,1,156.38
+797,Luisa,Ferreira,39.0,Other,Porto Alegre,RS,2023-02-19,consumer,bronze,social,1,46.81
+798,Olivia,Santos,47.0,M,Salvador,BA,2023-10-26,enterprise,bronze,direct,1,113.49
+799,Luisa,Oliveira,31.0,F,Porto Alegre,RS,2023-11-16,enterprise,bronze,paid_search,1,76.64
+800,Julia,Ferreira,,F,Fortaleza,CE,2023-10-30,consumer,gold,paid_search,0,26.62
+801,Karen,Almeida,31.0,M,Salvador,BA,2023-02-16,consumer,bronze,social,0,21.46
+802,Sofia,Araujo,43.0,M,Campinas,SP,2024-06-13,consumer,silver,email,1,75.53
+803,Marina,Ribeiro,26.0,F,Goiania,GO,2023-02-07,consumer,bronze,email,1,180.14
+804,Gabriela,Cardoso,32.0,,Sao Paulo,SP,2024-08-04,enterprise,silver,social,1,52.83
+805,Marina,Rodrigues,40.0,Other,Sao Paulo,SP,2023-05-17,small_business,gold,social,1,178.22
+806,Julia,Park,37.0,,Sao Paulo,SP,2024-08-22,consumer,bronze,direct,1,63.0
+807,Andre,Nagata,34.0,F,Florianopolis,SC,2023-07-23,consumer,gold,paid_search,1,42.6
+808,Sofia,Silva,27.0,Other,Campinas,SP,2025-07-26,enterprise,silver,paid_search,1,70.14
+809,Ana,Kim,29.0,Other,Recife,PE,2023-11-18,consumer,bronze,paid_search,1,107.37
+810,Isabela,Santos,18.0,,Belo Horizonte,MG,2025-10-23,consumer,bronze,direct,1,60.56
+811,Hiro,Lima,33.0,,Sao Paulo,SP,2024-07-27,consumer,gold,social,1,80.17
+812,Renata,Cardoso,36.0,M,Rio de Janeiro,RJ,2025-02-21,consumer,bronze,organic,0,49.13
+813,Nicolas,Ferreira,29.0,Other,Fortaleza,CE,2023-11-09,consumer,silver,social,0,82.74
+814,Yuki,Lima,37.0,M,Brasilia,DF,2024-02-28,consumer,silver,social,1,78.11
+815,Beatriz,Lima,44.0,M,Curitiba,PR,2025-12-08,small_business,platinum,social,1,26.07
+816,Karen,Oliveira,36.0,F,Fortaleza,CE,2023-11-20,consumer,bronze,social,1,34.67
+817,Luisa,Nagata,35.0,,Brasilia,DF,2023-03-02,consumer,bronze,social,1,45.8
+818,Pedro,Rodrigues,25.0,M,Curitiba,PR,2025-06-26,consumer,bronze,direct,1,33.93
+819,Luisa,Cardoso,41.0,M,Brasilia,DF,2023-02-23,small_business,bronze,direct,1,21.85
+820,Lucas,Oliveira,34.0,,Belo Horizonte,MG,2023-02-23,consumer,bronze,social,1,93.22
+821,Juyoung,Kim,37.0,,Fortaleza,CE,2025-08-18,consumer,bronze,organic,1,22.59
+822,Gabriela,Pereira,33.0,F,Brasilia,DF,2023-12-02,consumer,bronze,email,1,135.25
+823,Pedro,Almeida,36.0,F,Recife,PE,2024-03-31,consumer,bronze,referral,0,67.03
+824,Juyoung,Nagata,18.0,M,Salvador,BA,2025-09-30,consumer,gold,social,1,32.86
+825,Pedro,Nagata,18.0,F,Sao Paulo,SP,2025-02-18,small_business,bronze,paid_search,1,113.89
+826,Camila,Santos,35.0,M,Salvador,BA,2025-07-24,consumer,platinum,email,1,249.07
+827,Sofia,Park,36.0,F,Recife,PE,2023-03-22,small_business,silver,email,1,34.64
+828,Andre,Ferreira,33.0,Other,Salvador,BA,2025-03-26,consumer,gold,paid_search,1,39.15
+829,Valentina,Santos,41.0,M,Recife,PE,2024-08-25,enterprise,silver,paid_search,1,55.98
+830,Carla,Barbosa,22.0,M,Goiania,GO,2025-07-14,consumer,bronze,organic,1,116.47
+831,Ana,Costa,20.0,M,Porto Alegre,RS,2025-07-12,consumer,bronze,organic,1,34.89
+832,Karen,Costa,33.0,F,Rio de Janeiro,RJ,2024-05-27,consumer,silver,direct,1,82.96
+833,Yuki,Kim,45.0,,Florianopolis,SC,2025-07-09,consumer,bronze,email,0,119.57
+834,Marina,Melo,49.0,M,Campinas,SP,2023-11-24,consumer,gold,organic,1,95.91
+835,Felipe,Lima,19.0,F,Fortaleza,CE,2023-11-04,consumer,platinum,organic,1,58.85
+836,Joao,Costa,46.0,M,Curitiba,PR,2025-07-02,consumer,bronze,paid_search,1,26.67
+837,Ana,Matsuda,29.0,,Sao Paulo,SP,2024-06-02,consumer,bronze,paid_search,1,29.39
+838,Hiro,Almeida,27.0,,Sao Paulo,SP,2025-10-07,consumer,bronze,paid_search,1,103.46
+839,Valentina,Cardoso,,Other,Salvador,BA,2023-06-12,small_business,bronze,email,1,83.94
+840,Bruno,Costa,35.0,Other,Campinas,SP,2024-03-01,consumer,bronze,paid_search,1,54.49
+841,Karen,Oliveira,26.0,,Sao Paulo,SP,2024-09-03,small_business,bronze,social,1,124.19
+842,Valentina,Cardoso,40.0,M,Brasilia,DF,2024-08-05,consumer,gold,organic,1,33.37
+843,Beatriz,Santos,18.0,Other,Florianopolis,SC,2025-01-07,consumer,bronze,email,1,90.19
+844,Luisa,Tanaka,53.0,F,Recife,PE,2023-05-19,consumer,bronze,paid_search,1,123.35
+845,Juyoung,Rodrigues,24.0,,Brasilia,DF,2023-09-07,consumer,bronze,paid_search,1,47.63
+846,Valentina,Santos,38.0,F,Florianopolis,SC,2024-03-04,consumer,gold,direct,1,102.47
+847,Nicolas,Cardoso,37.0,Other,Florianopolis,SC,2024-08-11,small_business,silver,email,1,40.66
+848,Beatriz,Lima,28.0,,Fortaleza,CE,2024-12-25,consumer,bronze,social,1,68.0
+849,Paulo,Costa,23.0,M,Goiania,GO,2025-10-16,consumer,gold,organic,0,72.33
+850,Daniel,Silva,18.0,F,Belo Horizonte,MG,2023-01-04,consumer,silver,direct,1,227.07
+851,Nicolas,Santos,27.0,M,Belo Horizonte,MG,2025-04-29,consumer,bronze,paid_search,0,
+852,Isabela,Oliveira,27.0,Other,Belo Horizonte,MG,2024-07-30,enterprise,silver,direct,1,28.23
+853,Karen,Park,37.0,F,Rio de Janeiro,RJ,2024-11-13,consumer,silver,paid_search,1,48.44
+854,Camila,Nagata,24.0,,Belo Horizonte,MG,2024-11-07,small_business,bronze,email,1,37.39
+855,Paulo,Lima,38.0,Other,Sao Paulo,SP,2023-10-06,consumer,bronze,email,1,126.87
+856,Camila,Barbosa,32.0,Other,Recife,PE,2023-04-25,consumer,bronze,direct,1,110.84
+857,Tiago,Nagata,27.0,Other,Sao Paulo,SP,2024-03-02,consumer,silver,direct,1,64.29
+858,Camila,Silva,36.0,,Brasilia,DF,2024-07-28,consumer,platinum,paid_search,1,20.7
+859,Felipe,Cardoso,47.0,Other,Brasilia,DF,2025-03-08,consumer,silver,paid_search,1,34.76
+860,Isabela,Tanaka,37.0,M,Porto Alegre,RS,2023-03-06,consumer,silver,direct,1,40.18
+861,Renata,Ferreira,18.0,Other,Curitiba,PR,2024-03-18,consumer,silver,direct,1,20.0
+862,Olivia,Barbosa,,,Belo Horizonte,MG,2023-07-09,small_business,bronze,email,1,56.63
+863,Karen,Araujo,39.0,Other,Brasilia,DF,2024-01-25,consumer,gold,social,1,100.3
+864,Camila,Barbosa,25.0,M,Brasilia,DF,2023-07-21,small_business,silver,organic,1,70.81
+865,Marina,Barbosa,45.0,Other,Sao Paulo,SP,2025-07-29,consumer,bronze,email,1,79.67
+866,Karen,Matsuda,22.0,F,Goiania,GO,2023-06-28,consumer,bronze,organic,1,29.97
+867,Ana,Ribeiro,45.0,M,Goiania,GO,2024-10-01,small_business,silver,paid_search,1,202.27
+868,Isabela,Melo,42.0,,Belo Horizonte,MG,2024-08-09,enterprise,silver,organic,0,85.68
+869,Felipe,Rodrigues,37.0,F,Curitiba,PR,2023-11-02,consumer,gold,email,1,144.07
+870,Isabela,Lima,29.0,Other,Porto Alegre,RS,2024-10-14,consumer,bronze,direct,0,105.0
+871,Joao,Cardoso,22.0,,Brasilia,DF,2023-05-26,consumer,bronze,paid_search,1,79.16
+872,Andre,Santos,38.0,F,Sao Paulo,SP,2025-08-22,consumer,gold,organic,1,47.15
+873,Juyoung,Cardoso,28.0,,Recife,PE,2024-01-02,consumer,silver,referral,1,50.64
+874,Camila,Almeida,18.0,F,Curitiba,PR,2024-11-11,enterprise,bronze,paid_search,1,32.57
+875,Carla,Matsuda,18.0,Other,Salvador,BA,2023-09-27,small_business,bronze,direct,0,85.44
+876,Paulo,Pereira,40.0,M,Florianopolis,SC,2025-08-11,consumer,platinum,social,1,78.21
+877,Beatriz,Kim,22.0,Other,Fortaleza,CE,2024-06-12,consumer,bronze,organic,0,125.8
+878,Paulo,Silva,32.0,F,Porto Alegre,RS,2025-07-17,small_business,bronze,organic,1,38.56
+879,Joao,Kim,29.0,M,Salvador,BA,2023-12-16,consumer,silver,email,1,127.05
+880,Karen,Melo,20.0,Other,Recife,PE,2023-08-08,consumer,silver,direct,1,105.46
+881,Hiro,Cardoso,39.0,M,Recife,PE,2025-04-26,consumer,platinum,direct,1,39.37
+882,Karen,Almeida,41.0,,Recife,PE,2023-05-16,consumer,gold,direct,1,45.49
+883,Sofia,Pereira,23.0,F,Recife,PE,2024-12-01,consumer,bronze,referral,1,214.24
+884,Daniel,Ribeiro,37.0,Other,Florianopolis,SC,2025-09-23,consumer,bronze,paid_search,1,94.69
+885,Joao,Park,47.0,F,Salvador,BA,2023-12-27,consumer,silver,organic,1,110.34
+886,Karen,Araujo,23.0,F,Fortaleza,CE,2025-02-15,small_business,bronze,email,1,82.77
+887,Luisa,Lima,25.0,,Brasilia,DF,2023-01-01,consumer,gold,paid_search,1,76.06
+888,Gabriela,Almeida,42.0,Other,Recife,PE,2025-07-04,enterprise,gold,social,1,31.9
+889,Beatriz,Tanaka,28.0,Other,Goiania,GO,2024-09-15,consumer,gold,paid_search,0,55.73
+890,Valentina,Barbosa,22.0,M,Fortaleza,CE,2023-01-17,consumer,platinum,direct,1,198.81
+891,Andre,Melo,36.0,F,Sao Paulo,SP,2025-01-26,small_business,silver,direct,1,36.94
+892,Julia,Ferreira,44.0,M,Porto Alegre,RS,2023-08-13,consumer,bronze,email,0,115.74
+893,Yuki,Nagata,39.0,,Fortaleza,CE,2025-03-18,enterprise,silver,direct,1,20.0
+894,Mateus,Costa,38.0,M,Campinas,SP,2024-03-08,small_business,bronze,email,1,146.37
+895,Eduarda,Ferreira,23.0,M,Porto Alegre,RS,2025-05-04,consumer,bronze,direct,1,57.27
+896,Eduarda,Araujo,40.0,M,Rio de Janeiro,RJ,2023-02-02,consumer,silver,organic,1,40.31
+897,Julia,Matsuda,48.0,,Goiania,GO,2025-05-01,consumer,bronze,organic,1,49.04
+898,Nicolas,Melo,45.0,,Salvador,BA,2025-11-09,consumer,silver,email,1,20.0
+899,Valentina,Silva,25.0,M,Brasilia,DF,2025-05-19,small_business,silver,paid_search,1,105.96
+900,Beatriz,Melo,44.0,F,Curitiba,PR,2025-04-21,consumer,bronze,direct,1,86.07
+901,Juyoung,Kim,27.0,,Fortaleza,CE,2025-09-16,consumer,silver,paid_search,1,20.0
+902,Pedro,Barbosa,18.0,Other,Rio de Janeiro,RJ,2023-10-18,consumer,gold,direct,1,20.0
+903,Andre,Cardoso,40.0,,Rio de Janeiro,RJ,2025-12-07,consumer,bronze,social,1,175.88
+904,Mateus,Melo,31.0,Other,Goiania,GO,2023-06-09,enterprise,silver,email,1,97.12
+905,Luisa,Silva,30.0,,Porto Alegre,RS,2025-12-31,consumer,silver,social,1,37.92
+906,Lucas,Ferreira,28.0,F,Porto Alegre,RS,2025-05-12,consumer,gold,email,1,50.26
+907,Pedro,Ribeiro,25.0,,Fortaleza,CE,2024-09-14,enterprise,silver,paid_search,1,68.12
+908,Mateus,Ferreira,38.0,F,Fortaleza,CE,2023-04-16,consumer,silver,referral,1,35.41
+909,Renata,Oliveira,42.0,Other,Rio de Janeiro,RJ,2023-09-17,consumer,bronze,paid_search,1,77.54
+910,Isabela,Rodrigues,,F,Fortaleza,CE,2024-07-29,consumer,bronze,paid_search,1,43.83
+911,Mateus,Matsuda,19.0,M,Fortaleza,CE,2023-11-06,consumer,gold,direct,1,49.91
+912,Paulo,Costa,43.0,F,Florianopolis,SC,2024-04-28,consumer,bronze,referral,1,91.48
+913,Valentina,Lima,35.0,,Rio de Janeiro,RJ,2023-10-25,consumer,bronze,referral,1,50.33
+914,Pedro,Costa,39.0,Other,Belo Horizonte,MG,2025-06-20,consumer,gold,social,1,61.73
+915,Bruno,Costa,27.0,,Curitiba,PR,2023-08-26,small_business,gold,paid_search,1,95.16
+916,Hiro,Park,57.0,,Florianopolis,SC,2025-12-26,consumer,bronze,direct,0,135.71
+917,Julia,Tanaka,,,Brasilia,DF,2025-12-22,consumer,gold,organic,1,71.31
+918,Mateus,Santos,33.0,Other,Porto Alegre,RS,2025-12-21,consumer,silver,social,1,20.0
+919,Karen,Rodrigues,22.0,F,Recife,PE,2024-07-12,consumer,bronze,direct,1,64.72
+920,Olivia,Pereira,26.0,M,Fortaleza,CE,2025-03-12,consumer,bronze,direct,1,68.06
+921,Karen,Melo,,F,Goiania,GO,2024-01-04,consumer,gold,organic,1,85.53
+922,Daniel,Barbosa,25.0,,Sao Paulo,SP,2025-04-22,consumer,gold,direct,0,70.72
+923,Isabela,Almeida,31.0,F,Florianopolis,SC,2024-08-03,small_business,bronze,email,0,52.24
+924,Valentina,Souza,19.0,F,Fortaleza,CE,2024-03-20,small_business,bronze,email,1,143.82
+925,Marina,Ribeiro,40.0,M,Fortaleza,CE,2023-09-24,consumer,gold,email,0,83.98
+926,Isabela,Ferreira,22.0,F,Florianopolis,SC,2024-01-13,consumer,gold,organic,1,57.3
+927,Juyoung,Nagata,40.0,F,Curitiba,PR,2025-05-24,consumer,bronze,direct,1,67.47
+928,Marina,Nagata,23.0,Other,Sao Paulo,SP,2025-02-22,small_business,gold,social,1,20.0
+929,Olivia,Oliveira,61.0,M,Curitiba,PR,2023-12-31,consumer,gold,social,1,55.51
+930,Daniel,Lima,31.0,,Brasilia,DF,2025-10-04,enterprise,bronze,organic,1,52.46
+931,Beatriz,Matsuda,38.0,F,Goiania,GO,2023-08-06,consumer,bronze,social,1,20.71
+932,Luisa,Matsuda,,,Rio de Janeiro,RJ,2024-05-28,consumer,silver,referral,1,43.61
+933,Beatriz,Santos,48.0,Other,Goiania,GO,2023-01-02,consumer,silver,paid_search,1,51.85
+934,Tiago,Silva,37.0,,Porto Alegre,RS,2025-03-12,consumer,silver,paid_search,1,57.47
+935,Sofia,Pereira,,,Recife,PE,2023-05-24,consumer,bronze,organic,1,59.72
+936,Karen,Ferreira,33.0,F,Campinas,SP,2025-01-05,small_business,silver,paid_search,1,77.07
+937,Camila,Matsuda,42.0,Other,Porto Alegre,RS,2023-06-14,consumer,bronze,organic,1,32.73
+938,Marina,Almeida,39.0,,Brasilia,DF,2023-03-22,consumer,bronze,organic,1,96.72
+939,Paulo,Oliveira,47.0,,Goiania,GO,2025-01-05,consumer,bronze,organic,0,45.05
+940,Gabriela,Silva,40.0,M,Brasilia,DF,2023-03-15,consumer,gold,social,1,61.25
+941,Paulo,Melo,28.0,,Rio de Janeiro,RJ,2024-09-22,consumer,silver,email,1,88.91
+942,Karen,Santos,45.0,F,Sao Paulo,SP,2023-03-17,consumer,bronze,organic,0,272.11
+943,Olivia,Melo,42.0,M,Belo Horizonte,MG,2025-12-07,consumer,gold,organic,1,117.84
+944,Paulo,Silva,27.0,F,Sao Paulo,SP,2023-10-17,consumer,silver,social,1,29.66
+945,Ana,Costa,35.0,Other,Goiania,GO,2023-09-25,consumer,gold,social,1,48.75
+946,Valentina,Costa,21.0,F,Rio de Janeiro,RJ,2025-07-23,consumer,bronze,email,1,76.69
+947,Paulo,Cardoso,27.0,M,Rio de Janeiro,RJ,2023-08-22,consumer,bronze,email,1,119.19
+948,Karen,Park,25.0,M,Belo Horizonte,MG,2025-05-22,consumer,gold,paid_search,0,88.7
+949,Tiago,Costa,26.0,F,Belo Horizonte,MG,2023-04-04,small_business,silver,organic,1,175.16
+950,Juyoung,Kim,25.0,,Recife,PE,2023-12-11,consumer,bronze,social,0,32.09
+951,Eduarda,Souza,18.0,,Fortaleza,CE,2023-03-25,small_business,gold,organic,1,34.05
+952,Carla,Silva,,F,Sao Paulo,SP,2025-09-24,small_business,silver,organic,1,53.31
+953,Nicolas,Araujo,36.0,M,Fortaleza,CE,2024-08-04,consumer,platinum,referral,1,40.69
+954,Olivia,Tanaka,42.0,M,Curitiba,PR,2025-12-07,consumer,bronze,paid_search,1,73.32
+955,Juyoung,Araujo,47.0,F,Sao Paulo,SP,2024-01-04,small_business,gold,direct,0,144.84
+956,Nicolas,Silva,50.0,M,Curitiba,PR,2024-12-13,small_business,silver,organic,1,80.09
+957,Valentina,Kim,29.0,M,Campinas,SP,2023-07-15,consumer,bronze,paid_search,0,76.95
+958,Isabela,Santos,44.0,M,Goiania,GO,2024-03-02,consumer,silver,direct,1,20.0
+959,Felipe,Costa,34.0,F,Salvador,BA,2025-10-15,enterprise,bronze,paid_search,1,139.49
+960,Gabriela,Tanaka,39.0,,Porto Alegre,RS,2024-08-06,consumer,silver,email,1,58.95
+961,Beatriz,Melo,26.0,F,Florianopolis,SC,2023-04-18,small_business,bronze,direct,1,29.94
+962,Andre,Pereira,41.0,Other,Rio de Janeiro,RJ,2023-05-26,consumer,silver,direct,1,119.31
+963,Hiro,Souza,33.0,F,Florianopolis,SC,2024-10-29,consumer,bronze,direct,1,90.18
+964,Marina,Pereira,27.0,,Recife,PE,2024-02-14,consumer,bronze,referral,1,57.89
+965,Gabriela,Cardoso,49.0,,Recife,PE,2023-10-24,consumer,silver,paid_search,1,63.52
+966,Yuki,Kim,47.0,M,Salvador,BA,2024-02-02,consumer,silver,email,1,71.49
+967,Isabela,Lima,36.0,,Sao Paulo,SP,2023-05-03,consumer,silver,email,0,61.05
+968,Hiro,Ferreira,35.0,M,Brasilia,DF,2024-12-04,consumer,bronze,organic,1,280.13
+969,Carla,Tanaka,32.0,,Campinas,SP,2024-04-15,consumer,bronze,organic,1,93.7
+970,Camila,Matsuda,41.0,,Belo Horizonte,MG,2025-08-27,consumer,gold,organic,1,431.71
+971,Karen,Tanaka,18.0,M,Belo Horizonte,MG,2024-05-22,consumer,silver,email,1,54.7
+972,Bruno,Santos,26.0,F,Sao Paulo,SP,2025-05-05,consumer,platinum,email,1,61.26
+973,Rafael,Souza,34.0,M,Recife,PE,2025-09-08,consumer,silver,direct,1,57.82
+974,Gabriela,Lima,18.0,M,Sao Paulo,SP,2025-04-12,enterprise,silver,organic,1,227.08
+975,Paulo,Ferreira,32.0,,Rio de Janeiro,RJ,2023-02-02,consumer,silver,paid_search,0,25.54
+976,Olivia,Matsuda,46.0,,Florianopolis,SC,2023-02-19,consumer,bronze,direct,1,67.27
+977,Juyoung,Silva,41.0,F,Porto Alegre,RS,2025-08-08,enterprise,gold,email,1,92.12
+978,Renata,Santos,55.0,Other,Florianopolis,SC,2024-11-12,consumer,gold,paid_search,1,44.17
+979,Rafael,Oliveira,32.0,Other,Fortaleza,CE,2024-02-29,small_business,silver,direct,1,40.95
+980,Beatriz,Kim,18.0,F,Sao Paulo,SP,2025-11-20,consumer,gold,email,1,65.81
+981,Lucas,Kim,37.0,F,Salvador,BA,2023-03-25,consumer,gold,paid_search,1,56.67
+982,Karen,Pereira,41.0,,Belo Horizonte,MG,2023-10-11,consumer,bronze,direct,1,67.47
+983,Luisa,Pereira,30.0,Other,Fortaleza,CE,2024-03-05,consumer,gold,referral,1,29.83
+984,Bruno,Oliveira,33.0,,Recife,PE,2024-07-21,consumer,bronze,social,0,79.32
+985,Paulo,Melo,40.0,Other,Campinas,SP,2023-09-09,consumer,platinum,direct,1,26.23
+986,Gabriela,Matsuda,37.0,,Porto Alegre,RS,2023-05-15,consumer,bronze,organic,1,161.88
+987,Daniel,Costa,43.0,M,Curitiba,PR,2023-06-07,enterprise,silver,organic,1,269.02
+988,Yuki,Silva,18.0,M,Belo Horizonte,MG,2025-12-02,small_business,bronze,email,1,43.66
+989,Pedro,Silva,32.0,F,Recife,PE,2025-06-28,consumer,silver,direct,1,54.19
+990,Yuki,Nagata,26.0,Other,Belo Horizonte,MG,2025-11-30,small_business,gold,email,1,69.47
+991,Tiago,Barbosa,36.0,,Porto Alegre,RS,2025-09-22,consumer,gold,social,0,69.89
+992,Andre,Ferreira,23.0,Other,Fortaleza,CE,2023-09-28,consumer,silver,email,0,70.01
+993,Luisa,Santos,33.0,Other,Porto Alegre,RS,2024-08-13,enterprise,bronze,social,1,28.72
+994,Juyoung,Melo,18.0,M,Brasilia,DF,2023-11-26,consumer,bronze,direct,0,108.86
+995,Felipe,Pereira,31.0,Other,Florianopolis,SC,2023-11-11,consumer,gold,paid_search,0,63.96
+996,Lucas,Costa,31.0,F,Salvador,BA,2024-06-17,consumer,gold,referral,1,66.12
+997,Lucas,Matsuda,38.0,M,Porto Alegre,RS,2023-10-30,consumer,gold,direct,1,110.64
+998,Marina,Araujo,18.0,,Rio de Janeiro,RJ,2023-02-21,small_business,silver,direct,0,68.73
+999,Pedro,Melo,27.0,Other,Brasilia,DF,2023-01-09,small_business,bronze,organic,1,44.91
+1000,Andre,Ferreira,44.0,M,Curitiba,PR,2025-08-28,consumer,gold,direct,0,52.22
+1001,Karen,Souza,32.0,F,Florianopolis,SC,2025-06-24,consumer,gold,social,1,58.74
+1002,Joao,Silva,39.0,M,Campinas,SP,2023-08-28,enterprise,bronze,social,0,48.54
+1003,Bruno,Cardoso,35.0,M,Rio de Janeiro,RJ,2024-10-30,consumer,silver,paid_search,1,384.1
+1004,Ana,Oliveira,33.0,,Curitiba,PR,2024-02-05,small_business,silver,paid_search,0,67.33
+1005,Marina,Almeida,26.0,F,Rio de Janeiro,RJ,2025-11-14,consumer,silver,organic,1,33.89
+1006,Eduarda,Tanaka,39.0,Other,Porto Alegre,RS,2025-03-25,consumer,silver,email,0,
+1007,Joao,Matsuda,36.0,F,Porto Alegre,RS,2024-12-20,small_business,bronze,paid_search,1,51.02
+1008,Rafael,Matsuda,30.0,,Salvador,BA,2025-05-01,consumer,bronze,social,0,75.81
+1009,Camila,Ribeiro,39.0,M,Recife,PE,2023-10-13,consumer,bronze,social,1,46.77
+1010,Karen,Oliveira,25.0,,Salvador,BA,2025-12-11,consumer,bronze,direct,1,116.21
+1011,Nicolas,Costa,57.0,M,Recife,PE,2024-07-13,consumer,gold,social,0,109.55
+1012,Sofia,Araujo,35.0,Other,Recife,PE,2024-08-15,small_business,bronze,direct,1,34.91
+1013,Sofia,Matsuda,36.0,F,Curitiba,PR,2025-10-08,consumer,bronze,social,1,49.2
+1014,Daniel,Ferreira,31.0,,Curitiba,PR,2025-08-25,consumer,silver,direct,0,38.2
+1015,Ana,Souza,40.0,,Goiania,GO,2024-05-16,consumer,silver,social,0,118.48
+1016,Tiago,Araujo,37.0,Other,Rio de Janeiro,RJ,2025-01-10,consumer,bronze,direct,1,230.66
+1017,Lucas,Barbosa,32.0,F,Salvador,BA,2023-09-02,small_business,gold,social,1,40.23
+1018,Eduarda,Nagata,28.0,M,Brasilia,DF,2023-04-30,small_business,gold,email,1,26.17
+1019,Lucas,Tanaka,24.0,Other,Sao Paulo,SP,2024-07-12,consumer,bronze,paid_search,1,48.27
+1020,Yuki,Oliveira,29.0,M,Curitiba,PR,2025-12-20,consumer,silver,paid_search,1,42.81
+1021,Sofia,Nagata,36.0,Other,Fortaleza,CE,2023-12-09,consumer,gold,organic,0,85.67
+1022,Daniel,Melo,44.0,M,Florianopolis,SC,2025-01-12,consumer,bronze,organic,1,
+1023,Lucas,Araujo,20.0,M,Campinas,SP,2024-07-30,consumer,silver,email,1,102.97
+1024,Hiro,Almeida,29.0,F,Brasilia,DF,2025-10-27,consumer,bronze,paid_search,1,106.7
+1025,Camila,Lima,26.0,,Rio de Janeiro,RJ,2023-08-27,small_business,bronze,email,1,69.92
+1026,Eduarda,Matsuda,50.0,Other,Florianopolis,SC,2025-01-12,consumer,bronze,direct,1,85.58
+1027,Pedro,Souza,49.0,M,Curitiba,PR,2023-02-28,consumer,bronze,social,1,87.71
+1028,Gabriela,Lima,34.0,,Curitiba,PR,2023-09-14,consumer,gold,organic,1,105.14
+1029,Ana,Araujo,42.0,F,Rio de Janeiro,RJ,2023-06-09,small_business,bronze,organic,1,92.96
+1030,Tiago,Santos,26.0,Other,Sao Paulo,SP,2025-11-17,small_business,bronze,direct,1,37.07
+1031,Luisa,Souza,25.0,M,Curitiba,PR,2023-01-22,consumer,bronze,direct,1,74.67
+1032,Mateus,Kim,,M,Belo Horizonte,MG,2024-01-14,small_business,bronze,organic,1,58.42
+1033,Lucas,Costa,44.0,M,Curitiba,PR,2024-12-13,consumer,platinum,email,0,75.65
+1034,Camila,Ribeiro,38.0,M,Rio de Janeiro,RJ,2023-07-22,consumer,bronze,organic,1,23.38
+1035,Andre,Melo,,F,Curitiba,PR,2023-12-18,enterprise,bronze,paid_search,0,136.45
+1036,Lucas,Ribeiro,28.0,F,Campinas,SP,2025-08-30,small_business,gold,direct,1,41.23
+1037,Nicolas,Almeida,30.0,,Porto Alegre,RS,2025-02-16,consumer,gold,email,0,105.9
+1038,Olivia,Souza,18.0,,Porto Alegre,RS,2023-09-11,consumer,silver,direct,0,47.62
+1039,Sofia,Santos,31.0,,Florianopolis,SC,2024-08-13,consumer,bronze,referral,1,20.0
+1040,Valentina,Ferreira,35.0,,Curitiba,PR,2025-07-24,small_business,bronze,social,1,133.94
+1041,Julia,Tanaka,18.0,F,Recife,PE,2024-08-18,enterprise,bronze,organic,1,56.55
+1042,Felipe,Silva,32.0,,Salvador,BA,2025-01-22,consumer,gold,referral,1,27.15
+1043,Renata,Oliveira,21.0,,Recife,PE,2025-06-16,small_business,bronze,organic,1,33.94
+1044,Pedro,Costa,23.0,M,Fortaleza,CE,2023-07-28,consumer,platinum,direct,1,64.03
+1045,Daniel,Pereira,59.0,,Fortaleza,CE,2025-04-07,enterprise,platinum,paid_search,1,20.0
+1046,Luisa,Park,28.0,,Florianopolis,SC,2024-07-13,consumer,bronze,direct,0,45.98
+1047,Eduarda,Matsuda,42.0,Other,Campinas,SP,2024-07-25,small_business,bronze,paid_search,1,67.62
+1048,Ana,Souza,20.0,F,Belo Horizonte,MG,2023-10-03,consumer,bronze,paid_search,1,20.0
+1049,Marina,Cardoso,35.0,M,Sao Paulo,SP,2024-01-02,consumer,bronze,email,1,72.94
+1050,Luisa,Oliveira,36.0,,Fortaleza,CE,2023-07-17,consumer,gold,direct,0,103.53
+1051,Mateus,Araujo,18.0,Other,Belo Horizonte,MG,2024-08-24,consumer,bronze,email,1,80.39
+1052,Luisa,Santos,25.0,F,Campinas,SP,2023-02-06,consumer,bronze,direct,1,66.94
+1053,Olivia,Matsuda,28.0,M,Porto Alegre,RS,2025-02-09,small_business,bronze,referral,1,48.71
+1054,Paulo,Tanaka,30.0,,Curitiba,PR,2023-12-03,enterprise,platinum,paid_search,1,20.38
+1055,Mateus,Melo,34.0,,Rio de Janeiro,RJ,2025-10-01,consumer,gold,direct,1,32.65
+1056,Bruno,Park,43.0,,Brasilia,DF,2025-11-03,small_business,bronze,paid_search,1,65.89
+1057,Karen,Santos,,F,Porto Alegre,RS,2024-08-05,consumer,silver,paid_search,0,46.05
+1058,Rafael,Ribeiro,,Other,Porto Alegre,RS,2024-12-15,small_business,silver,social,1,46.16
+1059,Lucas,Tanaka,27.0,M,Recife,PE,2024-12-07,consumer,bronze,paid_search,1,45.61
+1060,Tiago,Oliveira,20.0,F,Goiania,GO,2024-10-01,small_business,bronze,paid_search,1,192.66
+1061,Felipe,Silva,29.0,F,Rio de Janeiro,RJ,2024-11-22,consumer,silver,email,1,71.27
+1062,Andre,Tanaka,27.0,,Recife,PE,2025-11-20,consumer,bronze,direct,1,56.46
+1063,Tiago,Park,44.0,F,Porto Alegre,RS,2025-02-12,consumer,bronze,direct,1,42.57
+1064,Karen,Araujo,30.0,Other,Rio de Janeiro,RJ,2024-02-26,consumer,gold,organic,1,71.87
+1065,Nicolas,Almeida,32.0,F,Curitiba,PR,2025-01-14,consumer,bronze,direct,1,178.05
+1066,Joao,Rodrigues,53.0,,Campinas,SP,2024-03-14,consumer,platinum,social,1,87.39
+1067,Juyoung,Ribeiro,35.0,Other,Fortaleza,CE,2023-07-08,consumer,bronze,direct,1,86.23
+1068,Paulo,Tanaka,30.0,F,Fortaleza,CE,2025-12-23,consumer,silver,organic,1,232.66
+1069,Rafael,Ferreira,18.0,Other,Curitiba,PR,2025-10-30,small_business,gold,referral,0,174.11
+1070,Valentina,Barbosa,35.0,M,Recife,PE,2024-05-29,small_business,gold,direct,1,29.1
+1071,Julia,Costa,23.0,M,Goiania,GO,2025-11-23,consumer,bronze,direct,1,20.0
+1072,Isabela,Melo,31.0,,Florianopolis,SC,2025-08-15,small_business,silver,email,1,61.25
+1073,Renata,Almeida,45.0,M,Florianopolis,SC,2023-05-03,consumer,bronze,direct,1,26.81
+1074,Julia,Tanaka,21.0,F,Florianopolis,SC,2024-09-06,consumer,bronze,paid_search,1,27.07
+1075,Camila,Ferreira,41.0,Other,Recife,PE,2024-06-30,consumer,bronze,social,1,46.12
+1076,Hiro,Souza,32.0,F,Belo Horizonte,MG,2025-04-11,consumer,gold,email,1,62.43
+1077,Paulo,Melo,32.0,,Curitiba,PR,2025-08-08,consumer,platinum,social,0,299.03
+1078,Felipe,Rodrigues,21.0,Other,Sao Paulo,SP,2024-02-18,consumer,silver,social,1,118.09
+1079,Yuki,Santos,30.0,,Curitiba,PR,2023-12-27,consumer,silver,referral,1,24.47
+1080,Karen,Cardoso,24.0,F,Sao Paulo,SP,2023-06-21,small_business,bronze,referral,0,85.11
+1081,Mateus,Oliveira,33.0,M,Recife,PE,2025-01-14,small_business,silver,direct,1,27.92
+1082,Beatriz,Souza,23.0,Other,Fortaleza,CE,2025-10-21,small_business,bronze,direct,1,65.64
+1083,Valentina,Souza,34.0,Other,Rio de Janeiro,RJ,2024-05-02,consumer,gold,organic,1,100.89
+1084,Rafael,Pereira,33.0,M,Fortaleza,CE,2025-03-09,consumer,bronze,paid_search,1,48.43
+1085,Isabela,Matsuda,27.0,F,Brasilia,DF,2024-03-14,consumer,bronze,email,1,74.89
+1086,Karen,Melo,50.0,M,Porto Alegre,RS,2023-08-20,consumer,gold,social,1,84.32
+1087,Paulo,Kim,45.0,F,Brasilia,DF,2025-01-13,consumer,bronze,organic,1,168.04
+1088,Camila,Santos,26.0,M,Fortaleza,CE,2023-03-13,consumer,silver,direct,0,83.9
+1089,Yuki,Kim,38.0,F,Recife,PE,2024-09-25,consumer,bronze,direct,1,56.49
+1090,Marina,Silva,32.0,,Belo Horizonte,MG,2025-06-25,consumer,bronze,direct,1,62.67
+1091,Carla,Pereira,38.0,M,Curitiba,PR,2024-09-08,consumer,bronze,social,1,76.12
+1092,Andre,Tanaka,40.0,Other,Goiania,GO,2024-10-11,small_business,bronze,social,1,192.46
+1093,Pedro,Tanaka,28.0,Other,Salvador,BA,2025-08-22,consumer,bronze,paid_search,1,20.0
+1094,Juyoung,Rodrigues,30.0,Other,Rio de Janeiro,RJ,2023-11-25,consumer,bronze,social,1,22.93
+1095,Olivia,Silva,37.0,M,Florianopolis,SC,2024-10-31,consumer,bronze,direct,0,118.09
+1096,Ana,Park,26.0,Other,Goiania,GO,2023-10-06,small_business,silver,referral,1,112.04
+1097,Felipe,Pereira,54.0,M,Rio de Janeiro,RJ,2023-08-15,small_business,bronze,direct,1,36.42
+1098,Rafael,Nagata,41.0,M,Goiania,GO,2025-04-20,consumer,silver,paid_search,1,47.67
+1099,Rafael,Ferreira,27.0,,Goiania,GO,2024-11-01,consumer,silver,email,0,170.87
+1100,Camila,Ribeiro,32.0,F,Recife,PE,2025-02-11,consumer,bronze,social,1,131.23
+1101,Beatriz,Oliveira,47.0,M,Goiania,GO,2024-04-13,consumer,silver,direct,1,44.57
+1102,Marina,Cardoso,34.0,Other,Brasilia,DF,2023-04-12,consumer,bronze,referral,1,27.46
+1103,Tiago,Souza,,,Porto Alegre,RS,2023-12-15,consumer,silver,email,1,148.46
+1104,Daniel,Pereira,20.0,M,Salvador,BA,2025-10-09,small_business,silver,organic,1,67.5
+1105,Pedro,Araujo,24.0,,Curitiba,PR,2024-08-12,consumer,bronze,direct,1,54.32
+1106,Camila,Ferreira,28.0,M,Fortaleza,CE,2024-03-17,consumer,gold,social,0,27.21
+1107,Ana,Ferreira,34.0,M,Recife,PE,2023-10-26,consumer,silver,email,1,23.39
+1108,Tiago,Matsuda,30.0,,Belo Horizonte,MG,2025-01-27,small_business,platinum,direct,0,42.64
+1109,Mateus,Almeida,32.0,,Porto Alegre,RS,2025-03-25,consumer,silver,organic,1,96.32
+1110,Daniel,Melo,30.0,Other,Curitiba,PR,2023-05-30,consumer,gold,email,1,20.0
+1111,Valentina,Cardoso,34.0,F,Salvador,BA,2024-12-26,consumer,bronze,email,1,
+1112,Joao,Park,37.0,M,Campinas,SP,2025-02-19,small_business,gold,paid_search,1,51.65
+1113,Tiago,Costa,39.0,,Campinas,SP,2023-03-26,consumer,bronze,referral,1,21.26
+1114,Carla,Nagata,26.0,,Salvador,BA,2023-09-28,consumer,bronze,direct,0,46.42
+1115,Bruno,Lima,29.0,Other,Rio de Janeiro,RJ,2024-10-03,consumer,bronze,paid_search,1,32.17
+1116,Andre,Rodrigues,32.0,Other,Recife,PE,2024-08-02,consumer,gold,paid_search,0,68.43
+1117,Karen,Araujo,39.0,M,Recife,PE,2023-12-04,consumer,bronze,organic,1,155.59
+1118,Bruno,Almeida,34.0,M,Goiania,GO,2025-06-20,consumer,bronze,direct,1,27.68
+1119,Felipe,Matsuda,30.0,,Salvador,BA,2024-06-16,consumer,silver,organic,1,75.29
+1120,Olivia,Araujo,33.0,M,Porto Alegre,RS,2025-09-20,consumer,silver,organic,1,31.82
+1121,Julia,Ferreira,39.0,M,Rio de Janeiro,RJ,2024-02-22,consumer,gold,direct,1,54.66
+1122,Tiago,Silva,34.0,M,Curitiba,PR,2024-03-10,consumer,bronze,organic,1,90.92
+1123,Luisa,Araujo,35.0,Other,Rio de Janeiro,RJ,2024-05-19,consumer,platinum,paid_search,1,55.07
+1124,Marina,Kim,52.0,F,Goiania,GO,2023-09-07,consumer,bronze,paid_search,1,60.43
+1125,Carla,Matsuda,37.0,,Brasilia,DF,2023-03-01,consumer,gold,direct,1,30.52
+1126,Karen,Santos,21.0,,Curitiba,PR,2023-01-12,consumer,bronze,email,1,44.23
+1127,Gabriela,Santos,32.0,Other,Florianopolis,SC,2023-09-22,consumer,silver,social,1,95.08
+1128,Sofia,Cardoso,18.0,,Sao Paulo,SP,2023-05-25,consumer,platinum,paid_search,0,20.0
+1129,Carla,Silva,64.0,M,Belo Horizonte,MG,2025-03-27,consumer,gold,direct,1,57.12
+1130,Yuki,Lima,36.0,,Recife,PE,2024-08-06,consumer,silver,email,1,57.8
+1131,Andre,Cardoso,18.0,F,Florianopolis,SC,2024-09-27,consumer,silver,organic,1,53.7
+1132,Paulo,Matsuda,45.0,,Campinas,SP,2024-02-14,consumer,silver,organic,0,158.41
+1133,Carla,Tanaka,18.0,M,Fortaleza,CE,2025-05-16,consumer,bronze,social,0,100.53
+1134,Bruno,Barbosa,34.0,,Recife,PE,2023-07-10,consumer,bronze,organic,1,78.35
+1135,Beatriz,Araujo,28.0,F,Goiania,GO,2023-11-14,consumer,bronze,direct,1,24.42
+1136,Beatriz,Araujo,31.0,M,Recife,PE,2023-06-12,consumer,gold,email,1,62.07
+1137,Renata,Tanaka,35.0,F,Curitiba,PR,2024-05-24,consumer,bronze,paid_search,1,51.83
+1138,Daniel,Barbosa,37.0,F,Sao Paulo,SP,2025-11-17,consumer,silver,paid_search,1,32.53
+1139,Lucas,Rodrigues,63.0,F,Florianopolis,SC,2024-06-02,consumer,bronze,organic,1,36.72
+1140,Felipe,Costa,40.0,F,Goiania,GO,2025-08-05,consumer,bronze,social,1,37.07
+1141,Karen,Ribeiro,30.0,,Florianopolis,SC,2024-09-01,consumer,silver,paid_search,1,45.66
+1142,Beatriz,Costa,28.0,F,Curitiba,PR,2024-11-30,consumer,gold,paid_search,1,46.53
+1143,Julia,Souza,27.0,F,Fortaleza,CE,2024-06-15,consumer,bronze,organic,1,
+1144,Felipe,Araujo,46.0,,Rio de Janeiro,RJ,2023-01-28,consumer,bronze,email,0,37.04
+1145,Joao,Cardoso,18.0,Other,Florianopolis,SC,2025-09-23,consumer,silver,direct,1,153.77
+1146,Rafael,Ferreira,19.0,M,Florianopolis,SC,2025-03-19,consumer,bronze,social,1,
+1147,Juyoung,Almeida,31.0,M,Rio de Janeiro,RJ,2023-02-02,consumer,bronze,direct,1,102.44
+1148,Nicolas,Melo,18.0,Other,Brasilia,DF,2024-05-10,small_business,bronze,direct,1,127.6
+1149,Nicolas,Silva,33.0,M,Brasilia,DF,2025-08-28,consumer,bronze,direct,1,20.0
+1150,Paulo,Silva,25.0,M,Salvador,BA,2025-09-20,consumer,silver,social,1,52.84
+1151,Bruno,Nagata,,,Fortaleza,CE,2025-03-13,consumer,gold,organic,1,63.31
+1152,Bruno,Araujo,41.0,,Salvador,BA,2024-08-18,small_business,bronze,organic,1,21.67
+1153,Ana,Tanaka,40.0,F,Sao Paulo,SP,2025-12-17,consumer,gold,organic,0,34.49
+1154,Andre,Araujo,40.0,Other,Goiania,GO,2025-05-04,consumer,bronze,email,1,70.05
+1155,Felipe,Ferreira,45.0,,Recife,PE,2023-02-12,consumer,bronze,referral,0,84.94
+1156,Hiro,Ribeiro,35.0,Other,Belo Horizonte,MG,2025-11-05,consumer,silver,paid_search,1,20.0
+1157,Eduarda,Ferreira,46.0,,Florianopolis,SC,2025-08-17,consumer,bronze,organic,0,254.4
+1158,Rafael,Araujo,34.0,M,Goiania,GO,2025-01-07,small_business,silver,referral,1,26.4
+1159,Mateus,Araujo,18.0,M,Curitiba,PR,2023-06-26,consumer,bronze,email,1,27.2
+1160,Rafael,Tanaka,26.0,,Salvador,BA,2023-07-26,small_business,silver,direct,1,108.39
+1161,Ana,Kim,29.0,Other,Belo Horizonte,MG,2023-04-07,consumer,silver,organic,1,228.67
+1162,Bruno,Oliveira,47.0,F,Brasilia,DF,2025-10-28,consumer,silver,organic,1,71.92
+1163,Paulo,Rodrigues,43.0,Other,Rio de Janeiro,RJ,2024-04-03,small_business,bronze,direct,0,66.72
+1164,Andre,Lima,40.0,F,Campinas,SP,2024-07-01,consumer,gold,organic,0,20.0
+1165,Camila,Souza,50.0,F,Salvador,BA,2025-07-25,small_business,silver,email,1,96.92
+1166,Daniel,Costa,53.0,M,Sao Paulo,SP,2025-11-04,consumer,gold,social,0,84.42
+1167,Juyoung,Matsuda,38.0,,Brasilia,DF,2024-08-21,consumer,gold,organic,1,52.65
+1168,Yuki,Kim,24.0,M,Rio de Janeiro,RJ,2023-11-12,consumer,gold,paid_search,1,91.04
+1169,Nicolas,Silva,38.0,,Belo Horizonte,MG,2025-06-18,consumer,bronze,paid_search,0,33.04
+1170,Carla,Rodrigues,31.0,,Campinas,SP,2023-12-17,consumer,silver,paid_search,1,110.2
+1171,Eduarda,Barbosa,33.0,M,Goiania,GO,2024-05-17,small_business,silver,organic,1,87.18
+1172,Beatriz,Tanaka,55.0,Other,Recife,PE,2025-04-26,small_business,silver,direct,1,74.93
+1173,Luisa,Silva,58.0,F,Salvador,BA,2023-10-26,consumer,platinum,email,0,56.54
+1174,Luisa,Costa,44.0,,Porto Alegre,RS,2025-04-02,consumer,bronze,social,1,27.01
+1175,Andre,Ribeiro,18.0,Other,Goiania,GO,2023-11-06,consumer,silver,social,1,51.68
+1176,Pedro,Nagata,42.0,F,Goiania,GO,2024-09-15,consumer,bronze,organic,1,24.12
+1177,Juyoung,Park,42.0,M,Campinas,SP,2023-10-28,consumer,silver,social,1,108.89
+1178,Juyoung,Kim,35.0,,Fortaleza,CE,2025-06-24,small_business,silver,paid_search,1,51.94
+1179,Bruno,Melo,47.0,M,Curitiba,PR,2023-06-22,small_business,bronze,referral,1,122.98
+1180,Gabriela,Oliveira,34.0,Other,Campinas,SP,2024-08-04,consumer,silver,referral,1,123.39
+1181,Ana,Silva,34.0,Other,Goiania,GO,2023-11-24,consumer,silver,organic,1,102.87
+1182,Renata,Souza,25.0,Other,Curitiba,PR,2025-05-15,consumer,gold,organic,1,128.81
+1183,Daniel,Santos,39.0,F,Campinas,SP,2024-12-26,small_business,silver,social,1,26.97
+1184,Olivia,Nagata,21.0,M,Fortaleza,CE,2023-01-11,enterprise,gold,email,1,38.97
+1185,Juyoung,Park,49.0,M,Curitiba,PR,2023-10-14,consumer,gold,organic,1,80.81
+1186,Camila,Kim,30.0,M,Campinas,SP,2024-01-30,consumer,platinum,paid_search,1,26.35
+1187,Carla,Santos,36.0,M,Recife,PE,2023-06-17,consumer,platinum,organic,1,65.09
+1188,Lucas,Barbosa,32.0,,Salvador,BA,2023-06-09,small_business,silver,social,0,39.54
+1189,Yuki,Tanaka,36.0,,Fortaleza,CE,2025-10-18,small_business,bronze,email,0,43.34
+1190,Eduarda,Barbosa,22.0,,Recife,PE,2023-11-30,consumer,bronze,social,1,82.27
+1191,Julia,Barbosa,39.0,M,Florianopolis,SC,2025-11-17,consumer,silver,organic,1,43.12
+1192,Sofia,Kim,31.0,F,Sao Paulo,SP,2023-11-18,consumer,gold,paid_search,1,35.92
+1193,Daniel,Kim,32.0,F,Recife,PE,2023-08-14,consumer,bronze,social,1,72.87
+1194,Joao,Kim,45.0,,Rio de Janeiro,RJ,2025-01-30,consumer,bronze,organic,1,163.83
+1195,Rafael,Ribeiro,52.0,Other,Brasilia,DF,2023-10-19,consumer,bronze,paid_search,0,68.09
+1196,Camila,Araujo,,Other,Belo Horizonte,MG,2024-01-10,small_business,silver,social,0,47.34
+1197,Paulo,Ribeiro,33.0,,Sao Paulo,SP,2025-05-05,consumer,gold,organic,1,100.48
+1198,Camila,Cardoso,19.0,M,Recife,PE,2025-08-31,consumer,silver,referral,0,77.83
+1199,Mateus,Matsuda,26.0,Other,Salvador,BA,2025-07-10,consumer,bronze,direct,1,39.55
+1200,Marina,Pereira,41.0,Other,Fortaleza,CE,2025-04-18,consumer,bronze,paid_search,0,87.28
+1201,RAFAEL,Rodrigues,34.0,M,Sao Paulo,SP,2023-12-31,consumer,bronze,email,1,92.98
+1202,NICOLAS,Kim,24.0,,Belo Horizonte,MG,2024-10-08,consumer,bronze,direct,1,177.24
+1203,CAMILA,Ribeiro,38.0,M,Rio de Janeiro,RJ,2023-07-22,consumer,bronze,organic,1,23.38
+1204,LUCAS,Silva,27.0,M,Curitiba,PR,2024-11-26,consumer,silver,organic,1,196.48
+1205,RAFAEL,Pereira,33.0,M,Fortaleza,CE,2025-03-09,consumer,bronze,paid_search,1,48.43
+1206,ANDRE,Rodrigues,37.0,,Recife,PE,2023-10-02,consumer,silver,paid_search,1,185.18
+1207,PEDRO,Rodrigues,25.0,M,Curitiba,PR,2025-06-26,consumer,bronze,direct,1,33.93
+1208,ANA,Nagata,42.0,M,Florianopolis,SC,2024-01-17,consumer,silver,organic,1,63.64
+1209,MARINA,Lima,31.0,F,Florianopolis,SC,2025-11-03,consumer,bronze,paid_search,1,42.61
+1210,RENATA,Park,38.0,Other,Recife,PE,2024-04-01,small_business,silver,social,1,129.13
+1211,HIRO,Ribeiro,43.0,F,Fortaleza,CE,2024-12-23,consumer,bronze,email,1,251.22
+1212,JULIA,Lima,39.0,,Curitiba,PR,2025-09-29,consumer,bronze,paid_search,0,55.38
+1213,GABRIELA,Oliveira,24.0,F,Sao Paulo,SP,2024-05-07,small_business,bronze,direct,0,127.94
+1214,VALENTINA,Rodrigues,,Other,Fortaleza,CE,2023-02-23,small_business,silver,organic,0,102.04
+1215,VALENTINA,Cardoso,,Other,Salvador,BA,2023-06-12,small_business,bronze,email,1,83.94
+1216,NICOLAS,Melo,32.0,M,Salvador,BA,2025-02-04,consumer,bronze,email,1,120.47
+1217,JUYOUNG,Almeida,31.0,M,Rio de Janeiro,RJ,2023-02-02,consumer,bronze,direct,1,102.44
+1218,JULIA,Rodrigues,44.0,,Belo Horizonte,MG,2023-10-11,consumer,gold,direct,1,288.26
+1219,EDUARDA,Almeida,31.0,Other,Sao Paulo,SP,2024-03-31,consumer,bronze,email,1,159.49
+1220,PEDRO,Costa,23.0,M,Fortaleza,CE,2023-07-28,consumer,platinum,direct,1,64.03
